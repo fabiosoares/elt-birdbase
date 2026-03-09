@@ -45,3 +45,9 @@ export FLASK_APP=main.py && export FLASK_ENV=prod && python3 main.py
 ```
 
 Estas mesmas variáveis de ambiente podem ser configuradas launch.json do VSCode.
+
+### Exemplos
+
+```sh
+curl --location --request POST 'http://127.0.0.1:5000/birds/names'
+```

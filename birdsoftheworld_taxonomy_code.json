@@ -1,0 +1,5946 @@
+{
+  "taxonCode": "classAves",
+  "category": "class",
+  "taxonOrder": 0,
+  "sciName": "Aves",
+  "comName": "Birds",
+  "subTaxa": [
+    {
+      "taxonCode": "orderStruthioniformes",
+      "category": "order",
+      "taxonOrder": 1,
+      "sciName": "Struthioniformes",
+      "comName": "Struthioniformes",
+      "subTaxa": [
+        {
+          "taxonCode": "struth1",
+          "category": "family",
+          "taxonOrder": 1,
+          "sciName": "Struthionidae",
+          "comName": "Ostriches",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCasuariiformes",
+      "category": "order",
+      "taxonOrder": 9,
+      "sciName": "Casuariiformes",
+      "comName": "Casuariiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "casuar1",
+          "category": "family",
+          "taxonOrder": 9,
+          "sciName": "Casuariidae",
+          "comName": "Cassowaries and Emu",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderApterygiformes",
+      "category": "order",
+      "taxonOrder": 20,
+      "sciName": "Apterygiformes",
+      "comName": "Apterygiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "aptery1",
+          "category": "family",
+          "taxonOrder": 20,
+          "sciName": "Apterygidae",
+          "comName": "Kiwis",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 1,
+            "vu": 4,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderRheiformes",
+      "category": "order",
+      "taxonOrder": 31,
+      "sciName": "Rheiformes",
+      "comName": "Rheiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "rheida1",
+          "category": "family",
+          "taxonOrder": 31,
+          "sciName": "Rheidae",
+          "comName": "Rheas",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderTinamiformes",
+      "category": "order",
+      "taxonOrder": 43,
+      "sciName": "Tinamiformes",
+      "comName": "Tinamiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "tinami1",
+          "category": "family",
+          "taxonOrder": 43,
+          "sciName": "Tinamidae",
+          "comName": "Tinamous",
+          "subTaxaCounts": {
+            "species": 46
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 35,
+            "nt": 5,
+            "vu": 5,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderAnseriformes",
+      "category": "order",
+      "taxonOrder": 231,
+      "sciName": "Anseriformes",
+      "comName": "Anseriformes",
+      "subTaxa": [
+        {
+          "taxonCode": "anhimi1",
+          "category": "family",
+          "taxonOrder": 231,
+          "sciName": "Anhimidae",
+          "comName": "Screamers",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "ansera1",
+          "category": "family",
+          "taxonOrder": 235,
+          "sciName": "Anseranatidae",
+          "comName": "Magpie Goose",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "anatid1",
+          "category": "family",
+          "taxonOrder": 237,
+          "sciName": "Anatidae",
+          "comName": "Ducks, Geese, and Waterfowl",
+          "subTaxaCounts": {
+            "species": 174
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 127,
+            "nt": 12,
+            "vu": 9,
+            "en": 7,
+            "cr": 7,
+            "ew": 0,
+            "ex": 7,
+            "unk": 5
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderGalliformes",
+      "category": "order",
+      "taxonOrder": 794,
+      "sciName": "Galliformes",
+      "comName": "Galliformes",
+      "subTaxa": [
+        {
+          "taxonCode": "megapo1",
+          "category": "family",
+          "taxonOrder": 794,
+          "sciName": "Megapodiidae",
+          "comName": "Megapodes",
+          "subTaxaCounts": {
+            "species": 21
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 11,
+            "nt": 2,
+            "vu": 6,
+            "en": 1,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "cracid2",
+          "category": "family",
+          "taxonOrder": 852,
+          "sciName": "Cracidae",
+          "comName": "Guans, Chachalacas, and Curassows",
+          "subTaxaCounts": {
+            "species": 57
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 26,
+            "nt": 6,
+            "vu": 9,
+            "en": 7,
+            "cr": 3,
+            "ew": 1,
+            "ex": 0,
+            "unk": 5
+          }
+        },
+        {
+          "taxonCode": "numidi1",
+          "category": "family",
+          "taxonOrder": 976,
+          "sciName": "Numididae",
+          "comName": "Guineafowl",
+          "subTaxaCounts": {
+            "species": 8
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "odonto1",
+          "category": "family",
+          "taxonOrder": 1004,
+          "sciName": "Odontophoridae",
+          "comName": "New World Quail",
+          "subTaxaCounts": {
+            "species": 34
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 25,
+            "nt": 4,
+            "vu": 4,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "phasia1",
+          "category": "family",
+          "taxonOrder": 1173,
+          "sciName": "Phasianidae",
+          "comName": "Pheasants, Grouse, and Allies",
+          "subTaxaCounts": {
+            "species": 187
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 121,
+            "nt": 23,
+            "vu": 22,
+            "en": 8,
+            "cr": 6,
+            "ew": 0,
+            "ex": 1,
+            "unk": 5
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderColumbiformes",
+      "category": "order",
+      "taxonOrder": 1852,
+      "sciName": "Columbiformes",
+      "comName": "Columbiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "columb2",
+          "category": "family",
+          "taxonOrder": 1852,
+          "sciName": "Columbidae",
+          "comName": "Pigeons and Doves",
+          "subTaxaCounts": {
+            "species": 353
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 217,
+            "nt": 46,
+            "vu": 26,
+            "en": 17,
+            "cr": 11,
+            "ew": 1,
+            "ex": 15,
+            "unk": 20
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderMesitornithiformes",
+      "category": "order",
+      "taxonOrder": 2857,
+      "sciName": "Mesitornithiformes",
+      "comName": "Mesitornithiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "mesito1",
+          "category": "family",
+          "taxonOrder": 2857,
+          "sciName": "Mesitornithidae",
+          "comName": "Mesites",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 3,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPterocliformes",
+      "category": "order",
+      "taxonOrder": 2861,
+      "sciName": "Pterocliformes",
+      "comName": "Pterocliformes",
+      "subTaxa": [
+        {
+          "taxonCode": "pteroc1",
+          "category": "family",
+          "taxonOrder": 2861,
+          "sciName": "Pteroclidae",
+          "comName": "Sandgrouse",
+          "subTaxaCounts": {
+            "species": 16
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 16,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderOtidiformes",
+      "category": "order",
+      "taxonOrder": 2909,
+      "sciName": "Otidiformes",
+      "comName": "Otidiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "otidid1",
+          "category": "family",
+          "taxonOrder": 2909,
+          "sciName": "Otididae",
+          "comName": "Bustards",
+          "subTaxaCounts": {
+            "species": 26
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 11,
+            "nt": 6,
+            "vu": 4,
+            "en": 2,
+            "cr": 3,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderMusophagiformes",
+      "category": "order",
+      "taxonOrder": 2968,
+      "sciName": "Musophagiformes",
+      "comName": "Musophagiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "musoph1",
+          "category": "family",
+          "taxonOrder": 2968,
+          "sciName": "Musophagidae",
+          "comName": "Turacos",
+          "subTaxaCounts": {
+            "species": 23
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 18,
+            "nt": 4,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCuculiformes",
+      "category": "order",
+      "taxonOrder": 3023,
+      "sciName": "Cuculiformes",
+      "comName": "Cuculiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "cuculi1",
+          "category": "family",
+          "taxonOrder": 3023,
+          "sciName": "Cuculidae",
+          "comName": "Cuckoos",
+          "subTaxaCounts": {
+            "species": 156
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 120,
+            "nt": 4,
+            "vu": 8,
+            "en": 3,
+            "cr": 1,
+            "ew": 0,
+            "ex": 2,
+            "unk": 18
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCaprimulgiformes",
+      "category": "order",
+      "taxonOrder": 3454,
+      "sciName": "Caprimulgiformes",
+      "comName": "Caprimulgiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "caprim2",
+          "category": "family",
+          "taxonOrder": 3454,
+          "sciName": "Caprimulgidae",
+          "comName": "Nightjars and Allies",
+          "subTaxaCounts": {
+            "species": 98
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 2,
+            "lc": 79,
+            "nt": 5,
+            "vu": 6,
+            "en": 0,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 4
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderNyctibiiformes",
+      "category": "order",
+      "taxonOrder": 3744,
+      "sciName": "Nyctibiiformes",
+      "comName": "Nyctibiiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "nyctib1",
+          "category": "family",
+          "taxonOrder": 3744,
+          "sciName": "Nyctibiidae",
+          "comName": "Potoos",
+          "subTaxaCounts": {
+            "species": 7
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderSteatornithiformes",
+      "category": "order",
+      "taxonOrder": 3765,
+      "sciName": "Steatornithiformes",
+      "comName": "Steatornithiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "steato1",
+          "category": "family",
+          "taxonOrder": 3765,
+          "sciName": "Steatornithidae",
+          "comName": "Oilbird",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPodargiformes",
+      "category": "order",
+      "taxonOrder": 3767,
+      "sciName": "Podargiformes",
+      "comName": "Podargiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "podarg1",
+          "category": "family",
+          "taxonOrder": 3767,
+          "sciName": "Podargidae",
+          "comName": "Frogmouths",
+          "subTaxaCounts": {
+            "species": 16
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 10,
+            "nt": 2,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderAegotheliformes",
+      "category": "order",
+      "taxonOrder": 3804,
+      "sciName": "Aegotheliformes",
+      "comName": "Aegotheliformes",
+      "subTaxa": [
+        {
+          "taxonCode": "aegoth1",
+          "category": "family",
+          "taxonOrder": 3804,
+          "sciName": "Aegothelidae",
+          "comName": "Owlet-nightjars",
+          "subTaxaCounts": {
+            "species": 10
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderApodiformes",
+      "category": "order",
+      "taxonOrder": 3825,
+      "sciName": "Apodiformes",
+      "comName": "Apodiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "apodid1",
+          "category": "family",
+          "taxonOrder": 3825,
+          "sciName": "Apodidae",
+          "comName": "Swifts",
+          "subTaxaCounts": {
+            "species": 109
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 4,
+            "lc": 77,
+            "nt": 3,
+            "vu": 6,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 19
+          }
+        },
+        {
+          "taxonCode": "hemipr1",
+          "category": "family",
+          "taxonOrder": 4200,
+          "sciName": "Hemiprocnidae",
+          "comName": "Treeswifts",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "trochi1",
+          "category": "family",
+          "taxonOrder": 4218,
+          "sciName": "Trochilidae",
+          "comName": "Hummingbirds",
+          "subTaxaCounts": {
+            "species": 363
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 287,
+            "nt": 22,
+            "vu": 13,
+            "en": 12,
+            "cr": 7,
+            "ew": 0,
+            "ex": 1,
+            "unk": 20
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderGruiformes",
+      "category": "order",
+      "taxonOrder": 5215,
+      "sciName": "Gruiformes",
+      "comName": "Gruiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "saroth1",
+          "category": "family",
+          "taxonOrder": 5215,
+          "sciName": "Sarothruridae",
+          "comName": "Flufftails",
+          "subTaxaCounts": {
+            "species": 15
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 12,
+            "nt": 1,
+            "vu": 1,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "rallid1",
+          "category": "family",
+          "taxonOrder": 5255,
+          "sciName": "Rallidae",
+          "comName": "Rails, Gallinules, and Coots",
+          "subTaxaCounts": {
+            "species": 156
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 2,
+            "lc": 85,
+            "nt": 9,
+            "vu": 15,
+            "en": 6,
+            "cr": 5,
+            "ew": 0,
+            "ex": 24,
+            "unk": 10
+          }
+        },
+        {
+          "taxonCode": "helior1",
+          "category": "family",
+          "taxonOrder": 5662,
+          "sciName": "Heliornithidae",
+          "comName": "Finfoots",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "aramid1",
+          "category": "family",
+          "taxonOrder": 5670,
+          "sciName": "Aramidae",
+          "comName": "Limpkin",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "psophi1",
+          "category": "family",
+          "taxonOrder": 5677,
+          "sciName": "Psophiidae",
+          "comName": "Trumpeters",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "gruida1",
+          "category": "family",
+          "taxonOrder": 5689,
+          "sciName": "Gruidae",
+          "comName": "Cranes",
+          "subTaxaCounts": {
+            "species": 15
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 1,
+            "vu": 7,
+            "en": 2,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCharadriiformes",
+      "category": "order",
+      "taxonOrder": 5724,
+      "sciName": "Charadriiformes",
+      "comName": "Charadriiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "pluvia2",
+          "category": "family",
+          "taxonOrder": 5724,
+          "sciName": "Pluvianellidae",
+          "comName": "Magellanic Plover",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "chioni1",
+          "category": "family",
+          "taxonOrder": 5726,
+          "sciName": "Chionidae",
+          "comName": "Sheathbills",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "burhin2",
+          "category": "family",
+          "taxonOrder": 5733,
+          "sciName": "Burhinidae",
+          "comName": "Thick-knees",
+          "subTaxaCounts": {
+            "species": 10
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 2,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "pluvia1",
+          "category": "family",
+          "taxonOrder": 5760,
+          "sciName": "Pluvianidae",
+          "comName": "Egyptian Plover",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "recurv1",
+          "category": "family",
+          "taxonOrder": 5762,
+          "sciName": "Recurvirostridae",
+          "comName": "Stilts and Avocets",
+          "subTaxaCounts": {
+            "species": 9
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        },
+        {
+          "taxonCode": "ibidor1",
+          "category": "family",
+          "taxonOrder": 5783,
+          "sciName": "Ibidorhynchidae",
+          "comName": "Ibisbill",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "haemat1",
+          "category": "family",
+          "taxonOrder": 5785,
+          "sciName": "Haematopodidae",
+          "comName": "Oystercatchers",
+          "subTaxaCounts": {
+            "species": 12
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 1,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "charad1",
+          "category": "family",
+          "taxonOrder": 5810,
+          "sciName": "Charadriidae",
+          "comName": "Plovers and Lapwings",
+          "subTaxaCounts": {
+            "species": 69
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 48,
+            "nt": 10,
+            "vu": 4,
+            "en": 2,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        },
+        {
+          "taxonCode": "pedion1",
+          "category": "family",
+          "taxonOrder": 5965,
+          "sciName": "Pedionomidae",
+          "comName": "Plains-wanderer",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "thinoc1",
+          "category": "family",
+          "taxonOrder": 5967,
+          "sciName": "Thinocoridae",
+          "comName": "Seedsnipes",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "rostra1",
+          "category": "family",
+          "taxonOrder": 5982,
+          "sciName": "Rostratulidae",
+          "comName": "Painted-Snipes",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 1,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "jacani1",
+          "category": "family",
+          "taxonOrder": 5986,
+          "sciName": "Jacanidae",
+          "comName": "Jacanas",
+          "subTaxaCounts": {
+            "species": 8
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "scolop2",
+          "category": "family",
+          "taxonOrder": 6008,
+          "sciName": "Scolopacidae",
+          "comName": "Sandpipers and Allies",
+          "illusAssetId": "151498431",
+          "subTaxaCounts": {
+            "species": 98
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 48,
+            "nt": 23,
+            "vu": 13,
+            "en": 4,
+            "cr": 2,
+            "ew": 0,
+            "ex": 6,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "turnic1",
+          "category": "family",
+          "taxonOrder": 6239,
+          "sciName": "Turnicidae",
+          "comName": "Buttonquail",
+          "subTaxaCounts": {
+            "species": 18
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 14,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "dromad1",
+          "category": "family",
+          "taxonOrder": 6305,
+          "sciName": "Dromadidae",
+          "comName": "Crab-Plover",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "glareo1",
+          "category": "family",
+          "taxonOrder": 6307,
+          "sciName": "Glareolidae",
+          "comName": "Pratincoles and Coursers",
+          "subTaxaCounts": {
+            "species": 17
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 13,
+            "nt": 3,
+            "vu": 0,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "sterco1",
+          "category": "family",
+          "taxonOrder": 6357,
+          "sciName": "Stercorariidae",
+          "comName": "Skuas and Jaegers",
+          "subTaxaCounts": {
+            "species": 7
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "alcida1",
+          "category": "family",
+          "taxonOrder": 6376,
+          "sciName": "Alcidae",
+          "comName": "Auks, Murres, and Puffins",
+          "subTaxaCounts": {
+            "species": 25
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 15,
+            "nt": 3,
+            "vu": 4,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "larida1",
+          "category": "family",
+          "taxonOrder": 6445,
+          "sciName": "Laridae",
+          "comName": "Gulls, Terns, and Skimmers",
+          "subTaxaCounts": {
+            "species": 105
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 76,
+            "nt": 8,
+            "vu": 9,
+            "en": 4,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 7
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPhoenicopteriformes",
+      "category": "order",
+      "taxonOrder": 6805,
+      "sciName": "Phoenicopteriformes",
+      "comName": "Phoenicopteriformes",
+      "subTaxa": [
+        {
+          "taxonCode": "phoeni1",
+          "category": "family",
+          "taxonOrder": 6805,
+          "sciName": "Phoenicopteridae",
+          "comName": "Flamingos",
+          "subTaxaCounts": {
+            "species": 6
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 3,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPodicipediformes",
+      "category": "order",
+      "taxonOrder": 6820,
+      "sciName": "Podicipediformes",
+      "comName": "Podicipediformes",
+      "subTaxa": [
+        {
+          "taxonCode": "podici1",
+          "category": "family",
+          "taxonOrder": 6820,
+          "sciName": "Podicipedidae",
+          "comName": "Grebes",
+          "subTaxaCounts": {
+            "species": 22
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 13,
+            "nt": 0,
+            "vu": 1,
+            "en": 3,
+            "cr": 1,
+            "ew": 0,
+            "ex": 3,
+            "unk": 1
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderOpisthocomiformes",
+      "category": "order",
+      "taxonOrder": 6897,
+      "sciName": "Opisthocomiformes",
+      "comName": "Opisthocomiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "opisth1",
+          "category": "family",
+          "taxonOrder": 6897,
+          "sciName": "Opisthocomidae",
+          "comName": "Hoatzin",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderEurypygiformes",
+      "category": "order",
+      "taxonOrder": 6899,
+      "sciName": "Eurypygiformes",
+      "comName": "Eurypygiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "rhynoc1",
+          "category": "family",
+          "taxonOrder": 6899,
+          "sciName": "Rhynochetidae",
+          "comName": "Kagu",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "eurypy1",
+          "category": "family",
+          "taxonOrder": 6901,
+          "sciName": "Eurypygidae",
+          "comName": "Sunbittern",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPhaethontiformes",
+      "category": "order",
+      "taxonOrder": 6907,
+      "sciName": "Phaethontiformes",
+      "comName": "Phaethontiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "phaeth1",
+          "category": "family",
+          "taxonOrder": 6907,
+          "sciName": "Phaethontidae",
+          "comName": "Tropicbirds",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderGaviiformes",
+      "category": "order",
+      "taxonOrder": 6926,
+      "sciName": "Gaviiformes",
+      "comName": "Gaviiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "gaviid1",
+          "category": "family",
+          "taxonOrder": 6926,
+          "sciName": "Gaviidae",
+          "comName": "Loons",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderSphenisciformes",
+      "category": "order",
+      "taxonOrder": 6938,
+      "sciName": "Sphenisciformes",
+      "comName": "Sphenisciformes",
+      "subTaxa": [
+        {
+          "taxonCode": "spheni1",
+          "category": "family",
+          "taxonOrder": 6938,
+          "sciName": "Spheniscidae",
+          "comName": "Penguins",
+          "subTaxaCounts": {
+            "species": 19
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 2,
+            "vu": 3,
+            "en": 4,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderProcellariiformes",
+      "category": "order",
+      "taxonOrder": 6972,
+      "sciName": "Procellariiformes",
+      "comName": "Procellariiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "diomed1",
+          "category": "family",
+          "taxonOrder": 6972,
+          "sciName": "Diomedeidae",
+          "comName": "Albatrosses",
+          "subTaxaCounts": {
+            "species": 20
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 4,
+            "vu": 5,
+            "en": 7,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "oceani2",
+          "category": "family",
+          "taxonOrder": 7012,
+          "sciName": "Oceanitidae",
+          "comName": "Southern Storm-Petrels",
+          "subTaxaCounts": {
+            "species": 10
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 3,
+            "lc": 5,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "hydrob1",
+          "category": "family",
+          "taxonOrder": 7045,
+          "sciName": "Hydrobatidae",
+          "comName": "Northern Storm-Petrels",
+          "subTaxaCounts": {
+            "species": 18
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 8,
+            "nt": 3,
+            "vu": 4,
+            "en": 2,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "procel3",
+          "category": "family",
+          "taxonOrder": 7086,
+          "sciName": "Procellariidae",
+          "comName": "Shearwaters and Petrels",
+          "subTaxaCounts": {
+            "species": 100
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 41,
+            "nt": 11,
+            "vu": 18,
+            "en": 10,
+            "cr": 12,
+            "ew": 0,
+            "ex": 2,
+            "unk": 6
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCiconiiformes",
+      "category": "order",
+      "taxonOrder": 7278,
+      "sciName": "Ciconiiformes",
+      "comName": "Ciconiiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "ciconi2",
+          "category": "family",
+          "taxonOrder": 7278,
+          "sciName": "Ciconiidae",
+          "comName": "Storks",
+          "subTaxaCounts": {
+            "species": 20
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 13,
+            "nt": 4,
+            "vu": 0,
+            "en": 3,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderSuliformes",
+      "category": "order",
+      "taxonOrder": 7313,
+      "sciName": "Suliformes",
+      "comName": "Suliformes",
+      "subTaxa": [
+        {
+          "taxonCode": "fregat1",
+          "category": "family",
+          "taxonOrder": 7313,
+          "sciName": "Fregatidae",
+          "comName": "Frigatebirds",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "sulida1",
+          "category": "family",
+          "taxonOrder": 7331,
+          "sciName": "Sulidae",
+          "comName": "Boobies and Gannets",
+          "subTaxaCounts": {
+            "species": 11
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 0,
+            "vu": 0,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "anhing3",
+          "category": "family",
+          "taxonOrder": 7366,
+          "sciName": "Anhingidae",
+          "comName": "Anhingas",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "phalac1",
+          "category": "family",
+          "taxonOrder": 7376,
+          "sciName": "Phalacrocoracidae",
+          "comName": "Cormorants and Shags",
+          "subTaxaCounts": {
+            "species": 34
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 19,
+            "nt": 2,
+            "vu": 7,
+            "en": 3,
+            "cr": 1,
+            "ew": 0,
+            "ex": 1,
+            "unk": 1
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPelecaniformes",
+      "category": "order",
+      "taxonOrder": 7461,
+      "sciName": "Pelecaniformes",
+      "comName": "Pelecaniformes",
+      "subTaxa": [
+        {
+          "taxonCode": "thresk1",
+          "category": "family",
+          "taxonOrder": 7461,
+          "sciName": "Threskiornithidae",
+          "comName": "Ibises and Spoonbills",
+          "subTaxaCounts": {
+            "species": 36
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 25,
+            "nt": 2,
+            "vu": 2,
+            "en": 3,
+            "cr": 3,
+            "ew": 0,
+            "ex": 1,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "ardeid1",
+          "category": "family",
+          "taxonOrder": 7535,
+          "sciName": "Ardeidae",
+          "comName": "Herons, Egrets, and Bitterns",
+          "subTaxaCounts": {
+            "species": 74
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 47,
+            "nt": 5,
+            "vu": 4,
+            "en": 2,
+            "cr": 1,
+            "ew": 0,
+            "ex": 5,
+            "unk": 10
+          }
+        },
+        {
+          "taxonCode": "scopid1",
+          "category": "family",
+          "taxonOrder": 7784,
+          "sciName": "Scopidae",
+          "comName": "Hamerkop",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "balaen1",
+          "category": "family",
+          "taxonOrder": 7788,
+          "sciName": "Balaenicipitidae",
+          "comName": "Shoebill",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "peleca1",
+          "category": "family",
+          "taxonOrder": 7790,
+          "sciName": "Pelecanidae",
+          "comName": "Pelicans",
+          "subTaxaCounts": {
+            "species": 8
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 3,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCathartiformes",
+      "category": "order",
+      "taxonOrder": 7807,
+      "sciName": "Cathartiformes",
+      "comName": "Cathartiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "cathar2",
+          "category": "family",
+          "taxonOrder": 7807,
+          "sciName": "Cathartidae",
+          "comName": "New World Vultures",
+          "subTaxaCounts": {
+            "species": 7
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderAccipitriformes",
+      "category": "order",
+      "taxonOrder": 7829,
+      "sciName": "Accipitriformes",
+      "comName": "Accipitriformes",
+      "subTaxa": [
+        {
+          "taxonCode": "sagitt1",
+          "category": "family",
+          "taxonOrder": 7829,
+          "sciName": "Sagittariidae",
+          "comName": "Secretarybird",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "pandio1",
+          "category": "family",
+          "taxonOrder": 7831,
+          "sciName": "Pandionidae",
+          "comName": "Osprey",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "accipi1",
+          "category": "family",
+          "taxonOrder": 7837,
+          "sciName": "Accipitridae",
+          "comName": "Hawks, Eagles, and Kites",
+          "subTaxaCounts": {
+            "species": 250
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 155,
+            "nt": 30,
+            "vu": 22,
+            "en": 21,
+            "cr": 12,
+            "ew": 0,
+            "ex": 1,
+            "unk": 9
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderStrigiformes",
+      "category": "order",
+      "taxonOrder": 8578,
+      "sciName": "Strigiformes",
+      "comName": "Strigiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "tytoni1",
+          "category": "family",
+          "taxonOrder": 8578,
+          "sciName": "Tytonidae",
+          "comName": "Barn-Owls",
+          "subTaxaCounts": {
+            "species": 20
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 6,
+            "nt": 1,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 10
+          }
+        },
+        {
+          "taxonCode": "strigi1",
+          "category": "family",
+          "taxonOrder": 8659,
+          "sciName": "Strigidae",
+          "comName": "Owls",
+          "subTaxaCounts": {
+            "species": 228
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 155,
+            "nt": 25,
+            "vu": 20,
+            "en": 8,
+            "cr": 4,
+            "ew": 0,
+            "ex": 5,
+            "unk": 11
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderColiiformes",
+      "category": "order",
+      "taxonOrder": 9402,
+      "sciName": "Coliiformes",
+      "comName": "Coliiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "coliid1",
+          "category": "family",
+          "taxonOrder": 9402,
+          "sciName": "Coliidae",
+          "comName": "Mousebirds",
+          "subTaxaCounts": {
+            "species": 6
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 6,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderLeptosomiformes",
+      "category": "order",
+      "taxonOrder": 9443,
+      "sciName": "Leptosomiformes",
+      "comName": "Leptosomiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "leptos1",
+          "category": "family",
+          "taxonOrder": 9443,
+          "sciName": "Leptosomidae",
+          "comName": "Cuckoo-roller",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderTrogoniformes",
+      "category": "order",
+      "taxonOrder": 9448,
+      "sciName": "Trogoniformes",
+      "comName": "Trogoniformes",
+      "subTaxa": [
+        {
+          "taxonCode": "trogon1",
+          "category": "family",
+          "taxonOrder": 9448,
+          "sciName": "Trogonidae",
+          "comName": "Trogons",
+          "subTaxaCounts": {
+            "species": 47
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 32,
+            "nt": 5,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 8
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderBucerotiformes",
+      "category": "order",
+      "taxonOrder": 9603,
+      "sciName": "Bucerotiformes",
+      "comName": "Bucerotiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "upupid1",
+          "category": "family",
+          "taxonOrder": 9603,
+          "sciName": "Upupidae",
+          "comName": "Hoopoes",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "phoeni2",
+          "category": "family",
+          "taxonOrder": 9617,
+          "sciName": "Phoeniculidae",
+          "comName": "Woodhoopoes and Scimitarbills",
+          "subTaxaCounts": {
+            "species": 8
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 8,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "bucero1",
+          "category": "family",
+          "taxonOrder": 9654,
+          "sciName": "Bucerotidae",
+          "comName": "Hornbills",
+          "illusAssetId": "151472341",
+          "subTaxaCounts": {
+            "species": 64
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 27,
+            "nt": 6,
+            "vu": 15,
+            "en": 6,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 8
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCoraciiformes",
+      "category": "order",
+      "taxonOrder": 9766,
+      "sciName": "Coraciiformes",
+      "comName": "Coraciiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "meropi1",
+          "category": "family",
+          "taxonOrder": 9766,
+          "sciName": "Meropidae",
+          "comName": "Bee-eaters",
+          "subTaxaCounts": {
+            "species": 31
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 30,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "todida1",
+          "category": "family",
+          "taxonOrder": 9838,
+          "sciName": "Todidae",
+          "comName": "Todies",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "momoti1",
+          "category": "family",
+          "taxonOrder": 9845,
+          "sciName": "Momotidae",
+          "comName": "Motmots",
+          "subTaxaCounts": {
+            "species": 14
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 13,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "alcedi1",
+          "category": "family",
+          "taxonOrder": 9910,
+          "sciName": "Alcedinidae",
+          "comName": "Kingfishers",
+          "subTaxaCounts": {
+            "species": 117
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 75,
+            "nt": 20,
+            "vu": 4,
+            "en": 0,
+            "cr": 4,
+            "ew": 1,
+            "ex": 0,
+            "unk": 12
+          }
+        },
+        {
+          "taxonCode": "coraci1",
+          "category": "family",
+          "taxonOrder": 10327,
+          "sciName": "Coraciidae",
+          "comName": "Rollers",
+          "subTaxaCounts": {
+            "species": 13
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 11,
+            "nt": 2,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "brachy2",
+          "category": "family",
+          "taxonOrder": 10370,
+          "sciName": "Brachypteraciidae",
+          "comName": "Ground-Rollers",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 1,
+            "vu": 3,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPiciformes",
+      "category": "order",
+      "taxonOrder": 10376,
+      "sciName": "Piciformes",
+      "comName": "Piciformes",
+      "subTaxa": [
+        {
+          "taxonCode": "buccon2",
+          "category": "family",
+          "taxonOrder": 10376,
+          "sciName": "Bucconidae",
+          "comName": "Puffbirds",
+          "illusAssetId": "151467801",
+          "subTaxaCounts": {
+            "species": 37
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 32,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 4
+          }
+        },
+        {
+          "taxonCode": "galbul2",
+          "category": "family",
+          "taxonOrder": 10479,
+          "sciName": "Galbulidae",
+          "comName": "Jacamars",
+          "illusAssetId": "151467391",
+          "subTaxaCounts": {
+            "species": 18
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 16,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "lybiid1",
+          "category": "family",
+          "taxonOrder": 10528,
+          "sciName": "Lybiidae",
+          "comName": "African Barbets",
+          "subTaxaCounts": {
+            "species": 43
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 31,
+            "nt": 1,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 10
+          }
+        },
+        {
+          "taxonCode": "megala2",
+          "category": "family",
+          "taxonOrder": 10684,
+          "sciName": "Megalaimidae",
+          "comName": "Asian Barbets",
+          "subTaxaCounts": {
+            "species": 35
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 31,
+            "nt": 4,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "capito2",
+          "category": "family",
+          "taxonOrder": 10784,
+          "sciName": "Capitonidae",
+          "comName": "New World Barbets",
+          "subTaxaCounts": {
+            "species": 15
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 9,
+            "nt": 3,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "semnor1",
+          "category": "family",
+          "taxonOrder": 10830,
+          "sciName": "Semnornithidae",
+          "comName": "Toucan-Barbets",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "rampha1",
+          "category": "family",
+          "taxonOrder": 10835,
+          "sciName": "Ramphastidae",
+          "comName": "Toucans",
+          "subTaxaCounts": {
+            "species": 37
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 24,
+            "nt": 4,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 9
+          }
+        },
+        {
+          "taxonCode": "indica1",
+          "category": "family",
+          "taxonOrder": 10952,
+          "sciName": "Indicatoridae",
+          "comName": "Honeyguides",
+          "subTaxaCounts": {
+            "species": 16
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 14,
+            "nt": 2,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "picida1",
+          "category": "family",
+          "taxonOrder": 11002,
+          "sciName": "Picidae",
+          "comName": "Woodpeckers",
+          "subTaxaCounts": {
+            "species": 236
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 190,
+            "nt": 14,
+            "vu": 6,
+            "en": 4,
+            "cr": 2,
+            "ew": 0,
+            "ex": 1,
+            "unk": 19
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderCariamiformes",
+      "category": "order",
+      "taxonOrder": 11935,
+      "sciName": "Cariamiformes",
+      "comName": "Cariamiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "cariam1",
+          "category": "family",
+          "taxonOrder": 11935,
+          "sciName": "Cariamidae",
+          "comName": "Seriemas",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderFalconiformes",
+      "category": "order",
+      "taxonOrder": 11938,
+      "sciName": "Falconiformes",
+      "comName": "Falconiformes",
+      "subTaxa": [
+        {
+          "taxonCode": "falcon1",
+          "category": "family",
+          "taxonOrder": 11938,
+          "sciName": "Falconidae",
+          "comName": "Falcons and Caracaras",
+          "subTaxaCounts": {
+            "species": 65
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 46,
+            "nt": 6,
+            "vu": 6,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 2,
+            "unk": 3
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPsittaciformes",
+      "category": "order",
+      "taxonOrder": 12143,
+      "sciName": "Psittaciformes",
+      "comName": "Psittaciformes",
+      "subTaxa": [
+        {
+          "taxonCode": "strigo1",
+          "category": "family",
+          "taxonOrder": 12143,
+          "sciName": "Strigopidae",
+          "comName": "New Zealand Parrots",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 1,
+            "en": 1,
+            "cr": 1,
+            "ew": 0,
+            "ex": 1,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "cacatu2",
+          "category": "family",
+          "taxonOrder": 12150,
+          "sciName": "Cacatuidae",
+          "comName": "Cockatoos",
+          "subTaxaCounts": {
+            "species": 22
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 10,
+            "nt": 2,
+            "vu": 3,
+            "en": 3,
+            "cr": 4,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "psitta4",
+          "category": "family",
+          "taxonOrder": 12220,
+          "sciName": "Psittaculidae",
+          "comName": "Old World Parrots",
+          "subTaxaCounts": {
+            "species": 201
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 111,
+            "nt": 29,
+            "vu": 20,
+            "en": 8,
+            "cr": 8,
+            "ew": 0,
+            "ex": 10,
+            "unk": 14
+          }
+        },
+        {
+          "taxonCode": "psitta3",
+          "category": "family",
+          "taxonOrder": 12758,
+          "sciName": "Psittacidae",
+          "comName": "New World and African Parrots",
+          "subTaxaCounts": {
+            "species": 183
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 90,
+            "nt": 18,
+            "vu": 25,
+            "en": 18,
+            "cr": 8,
+            "ew": 1,
+            "ex": 5,
+            "unk": 18
+          }
+        }
+      ]
+    },
+    {
+      "taxonCode": "orderPasseriformes",
+      "category": "order",
+      "taxonOrder": 13217,
+      "sciName": "Passeriformes",
+      "comName": "Passeriformes",
+      "subTaxa": [
+        {
+          "taxonCode": "acanth1",
+          "category": "family",
+          "taxonOrder": 13217,
+          "sciName": "Acanthisittidae",
+          "comName": "New Zealand Wrens",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 2,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "calypt1",
+          "category": "family",
+          "taxonOrder": 13227,
+          "sciName": "Calyptomenidae",
+          "comName": "African and Green Broadbills",
+          "subTaxaCounts": {
+            "species": 6
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "euryla1",
+          "category": "family",
+          "taxonOrder": 13252,
+          "sciName": "Eurylaimidae",
+          "comName": "Asian and Grauer's Broadbills",
+          "subTaxaCounts": {
+            "species": 10
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 1,
+            "vu": 3,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "sapayo2",
+          "category": "family",
+          "taxonOrder": 13297,
+          "sciName": "Sapayoidae",
+          "comName": "Sapayoa",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "philep1",
+          "category": "family",
+          "taxonOrder": 13299,
+          "sciName": "Philepittidae",
+          "comName": "Asities",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "pittid1",
+          "category": "family",
+          "taxonOrder": 13305,
+          "sciName": "Pittidae",
+          "comName": "Pittas",
+          "subTaxaCounts": {
+            "species": 46
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 30,
+            "nt": 6,
+            "vu": 3,
+            "en": 1,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 4
+          }
+        },
+        {
+          "taxonCode": "thamno3",
+          "category": "family",
+          "taxonOrder": 13432,
+          "sciName": "Thamnophilidae",
+          "comName": "Typical Antbirds",
+          "subTaxaCounts": {
+            "species": 238
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 186,
+            "nt": 17,
+            "vu": 12,
+            "en": 3,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 18
+          }
+        },
+        {
+          "taxonCode": "melano2",
+          "category": "family",
+          "taxonOrder": 14139,
+          "sciName": "Melanopareiidae",
+          "comName": "Crescentchests",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "conopo1",
+          "category": "family",
+          "taxonOrder": 14154,
+          "sciName": "Conopophagidae",
+          "comName": "Gnateaters",
+          "subTaxaCounts": {
+            "species": 12
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 11,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "gralla2",
+          "category": "family",
+          "taxonOrder": 14189,
+          "sciName": "Grallariidae",
+          "comName": "Antpittas",
+          "subTaxaCounts": {
+            "species": 70
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 36,
+            "nt": 6,
+            "vu": 7,
+            "en": 2,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 17
+          }
+        },
+        {
+          "taxonCode": "rhinoc1",
+          "category": "family",
+          "taxonOrder": 14364,
+          "sciName": "Rhinocryptidae",
+          "comName": "Tapaculos",
+          "subTaxaCounts": {
+            "species": 65
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 41,
+            "nt": 8,
+            "vu": 1,
+            "en": 6,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 8
+          }
+        },
+        {
+          "taxonCode": "formic2",
+          "category": "family",
+          "taxonOrder": 14466,
+          "sciName": "Formicariidae",
+          "comName": "Antthrushes",
+          "subTaxaCounts": {
+            "species": 13
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 11,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "furnar2",
+          "category": "family",
+          "taxonOrder": 14533,
+          "sciName": "Furnariidae",
+          "comName": "Ovenbirds and Woodcreepers",
+          "subTaxaCounts": {
+            "species": 321
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 263,
+            "nt": 20,
+            "vu": 10,
+            "en": 5,
+            "cr": 3,
+            "ew": 0,
+            "ex": 2,
+            "unk": 18
+          }
+        },
+        {
+          "taxonCode": "piprid1",
+          "category": "family",
+          "taxonOrder": 15687,
+          "sciName": "Pipridae",
+          "comName": "Manakins",
+          "subTaxaCounts": {
+            "species": 55
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 47,
+            "nt": 1,
+            "vu": 2,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 4
+          }
+        },
+        {
+          "taxonCode": "coting1",
+          "category": "family",
+          "taxonOrder": 15846,
+          "sciName": "Cotingidae",
+          "comName": "Cotingas",
+          "subTaxaCounts": {
+            "species": 65
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 45,
+            "nt": 8,
+            "vu": 7,
+            "en": 1,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "tityri1",
+          "category": "family",
+          "taxonOrder": 15957,
+          "sciName": "Tityridae",
+          "comName": "Tityras and Allies",
+          "subTaxaCounts": {
+            "species": 36
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 28,
+            "nt": 0,
+            "vu": 1,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 5
+          }
+        },
+        {
+          "taxonCode": "oxyrun1",
+          "category": "family",
+          "taxonOrder": 16092,
+          "sciName": "Oxyruncidae",
+          "comName": "Sharpbill",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "rfaall1",
+          "category": "family",
+          "taxonOrder": 16100,
+          "sciName": "Onychorhynchidae",
+          "comName": "Royal Flycatchers and Allies",
+          "subTaxaCounts": {
+            "species": 7
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "tyrann2",
+          "category": "family",
+          "taxonOrder": 16146,
+          "sciName": "Tyrannidae",
+          "comName": "Tyrant Flycatchers",
+          "subTaxaCounts": {
+            "species": 442
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 392,
+            "nt": 16,
+            "vu": 14,
+            "en": 4,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 14
+          }
+        },
+        {
+          "taxonCode": "menuri1",
+          "category": "family",
+          "taxonOrder": 17502,
+          "sciName": "Menuridae",
+          "comName": "Lyrebirds",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "atrich1",
+          "category": "family",
+          "taxonOrder": 17508,
+          "sciName": "Atrichornithidae",
+          "comName": "Scrub-birds",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 0,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "ptilon1",
+          "category": "family",
+          "taxonOrder": 17513,
+          "sciName": "Ptilonorhynchidae",
+          "comName": "Bowerbirds",
+          "subTaxaCounts": {
+            "species": 23
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 15,
+            "nt": 3,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 5
+          }
+        },
+        {
+          "taxonCode": "climac1",
+          "category": "family",
+          "taxonOrder": 17569,
+          "sciName": "Climacteridae",
+          "comName": "Australasian Treecreepers",
+          "subTaxaCounts": {
+            "species": 7
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 7,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "maluri1",
+          "category": "family",
+          "taxonOrder": 17596,
+          "sciName": "Maluridae",
+          "comName": "Fairywrens",
+          "subTaxaCounts": {
+            "species": 33
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 22,
+            "nt": 1,
+            "vu": 2,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 6
+          }
+        },
+        {
+          "taxonCode": "meliph3",
+          "category": "family",
+          "taxonOrder": 17697,
+          "sciName": "Meliphagidae",
+          "comName": "Honeyeaters",
+          "subTaxaCounts": {
+            "species": 195
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 172,
+            "nt": 4,
+            "vu": 6,
+            "en": 2,
+            "cr": 2,
+            "ew": 0,
+            "ex": 1,
+            "unk": 7
+          }
+        },
+        {
+          "taxonCode": "dasyor1",
+          "category": "family",
+          "taxonOrder": 18217,
+          "sciName": "Dasyornithidae",
+          "comName": "Bristlebirds",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 1,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "pardal2",
+          "category": "family",
+          "taxonOrder": 18226,
+          "sciName": "Pardalotidae",
+          "comName": "Pardalotes",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "acanth2",
+          "category": "family",
+          "taxonOrder": 18244,
+          "sciName": "Acanthizidae",
+          "comName": "Thornbills and Allies",
+          "subTaxaCounts": {
+            "species": 66
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 56,
+            "nt": 2,
+            "vu": 4,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "pomato2",
+          "category": "family",
+          "taxonOrder": 18500,
+          "sciName": "Pomatostomidae",
+          "comName": "Pseudo-Babblers",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "orthon1",
+          "category": "family",
+          "taxonOrder": 18517,
+          "sciName": "Orthonychidae",
+          "comName": "Logrunners",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "cinclo2",
+          "category": "family",
+          "taxonOrder": 18527,
+          "sciName": "Cinclosomatidae",
+          "comName": "Quail-thrushes and Jewel-babblers",
+          "subTaxaCounts": {
+            "species": 12
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 10,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "campep2",
+          "category": "family",
+          "taxonOrder": 18571,
+          "sciName": "Campephagidae",
+          "comName": "Cuckooshrikes",
+          "subTaxaCounts": {
+            "species": 108
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 67,
+            "nt": 9,
+            "vu": 3,
+            "en": 4,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 23
+          }
+        },
+        {
+          "taxonCode": "mohoui1",
+          "category": "family",
+          "taxonOrder": 18950,
+          "sciName": "Mohouidae",
+          "comName": "Whiteheads",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "neosit1",
+          "category": "family",
+          "taxonOrder": 18954,
+          "sciName": "Neosittidae",
+          "comName": "Sittellas",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "psopho1",
+          "category": "family",
+          "taxonOrder": 18970,
+          "sciName": "Psophodidae",
+          "comName": "Whipbirds and Wedgebills",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "eulace1",
+          "category": "family",
+          "taxonOrder": 18984,
+          "sciName": "Eulacestomatidae",
+          "comName": "Ploughbill",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "oreoic1",
+          "category": "family",
+          "taxonOrder": 18988,
+          "sciName": "Oreoicidae",
+          "comName": "Australo-Papuan Bellbirds",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "falcun1",
+          "category": "family",
+          "taxonOrder": 19001,
+          "sciName": "Falcunculidae",
+          "comName": "Shrike-tits",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "paramy1",
+          "category": "family",
+          "taxonOrder": 19005,
+          "sciName": "Paramythiidae",
+          "comName": "Tit Berrypecker and Crested Berrypecker",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "vireon1",
+          "category": "family",
+          "taxonOrder": 19014,
+          "sciName": "Vireonidae",
+          "comName": "Vireos, Shrike-Babblers, and Erpornis",
+          "subTaxaCounts": {
+            "species": 65
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 50,
+            "nt": 4,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 9
+          }
+        },
+        {
+          "taxonCode": "pachyc2",
+          "category": "family",
+          "taxonOrder": 19307,
+          "sciName": "Pachycephalidae",
+          "comName": "Whistlers and Allies",
+          "subTaxaCounts": {
+            "species": 61
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 38,
+            "nt": 2,
+            "vu": 2,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 18
+          }
+        },
+        {
+          "taxonCode": "orioli1",
+          "category": "family",
+          "taxonOrder": 19570,
+          "sciName": "Oriolidae",
+          "comName": "Old World Orioles",
+          "subTaxaCounts": {
+            "species": 41
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 35,
+            "nt": 0,
+            "vu": 1,
+            "en": 1,
+            "cr": 1,
+            "ew": 0,
+            "ex": 2,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "machae1",
+          "category": "family",
+          "taxonOrder": 19719,
+          "sciName": "Machaerirhynchidae",
+          "comName": "Boatbills",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "artami1",
+          "category": "family",
+          "taxonOrder": 19733,
+          "sciName": "Artamidae",
+          "comName": "Woodswallows, Bellmagpies, and Allies",
+          "subTaxaCounts": {
+            "species": 24
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 23,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "rhagol1",
+          "category": "family",
+          "taxonOrder": 19827,
+          "sciName": "Rhagologidae",
+          "comName": "Mottled Berryhunter",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "platys1",
+          "category": "family",
+          "taxonOrder": 19832,
+          "sciName": "Platysteiridae",
+          "comName": "Wattle-eyes and Batises",
+          "subTaxaCounts": {
+            "species": 32
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 28,
+            "nt": 1,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "vangid2",
+          "category": "family",
+          "taxonOrder": 19904,
+          "sciName": "Vangidae",
+          "comName": "Vangas, Helmetshrikes, and Allies",
+          "subTaxaCounts": {
+            "species": 40
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 22,
+            "nt": 10,
+            "vu": 5,
+            "en": 3,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "pityri1",
+          "category": "family",
+          "taxonOrder": 20008,
+          "sciName": "Pityriasidae",
+          "comName": "Bristlehead",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "aegith1",
+          "category": "family",
+          "taxonOrder": 20010,
+          "sciName": "Aegithinidae",
+          "comName": "Ioras",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "malaco2",
+          "category": "family",
+          "taxonOrder": 20033,
+          "sciName": "Malaconotidae",
+          "comName": "Bushshrikes and Allies",
+          "subTaxaCounts": {
+            "species": 50
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 38,
+            "nt": 3,
+            "vu": 1,
+            "en": 4,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 4
+          }
+        },
+        {
+          "taxonCode": "rhipid1",
+          "category": "family",
+          "taxonOrder": 20205,
+          "sciName": "Rhipiduridae",
+          "comName": "Fantails",
+          "subTaxaCounts": {
+            "species": 64
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 41,
+            "nt": 7,
+            "vu": 2,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 13
+          }
+        },
+        {
+          "taxonCode": "dicrur1",
+          "category": "family",
+          "taxonOrder": 20404,
+          "sciName": "Dicruridae",
+          "comName": "Drongos",
+          "subTaxaCounts": {
+            "species": 28
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 22,
+            "nt": 2,
+            "vu": 1,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "paradi7",
+          "category": "family",
+          "taxonOrder": 20550,
+          "sciName": "Paradisaeidae",
+          "comName": "Birds-of-Paradise",
+          "subTaxaCounts": {
+            "species": 44
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 34,
+            "nt": 6,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "ifriti1",
+          "category": "family",
+          "taxonOrder": 20667,
+          "sciName": "Ifritidae",
+          "comName": "Ifrita",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "monarc2",
+          "category": "family",
+          "taxonOrder": 20671,
+          "sciName": "Monarchidae",
+          "comName": "Monarch Flycatchers",
+          "illusAssetId": "153083641",
+          "subTaxaCounts": {
+            "species": 105
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 55,
+            "nt": 20,
+            "vu": 6,
+            "en": 5,
+            "cr": 5,
+            "ew": 0,
+            "ex": 4,
+            "unk": 10
+          }
+        },
+        {
+          "taxonCode": "corcor1",
+          "category": "family",
+          "taxonOrder": 21013,
+          "sciName": "Corcoracidae",
+          "comName": "White-winged Chough and Apostlebird",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "melamp1",
+          "category": "family",
+          "taxonOrder": 21020,
+          "sciName": "Melampittidae",
+          "comName": "Melampittas",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "platyl1",
+          "category": "family",
+          "taxonOrder": 21026,
+          "sciName": "Platylophidae",
+          "comName": "Crested Jayshrike",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "laniid1",
+          "category": "family",
+          "taxonOrder": 21031,
+          "sciName": "Laniidae",
+          "comName": "Shrikes",
+          "subTaxaCounts": {
+            "species": 34
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 28,
+            "nt": 2,
+            "vu": 1,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "corvid1",
+          "category": "family",
+          "taxonOrder": 21171,
+          "sciName": "Corvidae",
+          "comName": "Crows, Jays, and Magpies",
+          "subTaxaCounts": {
+            "species": 136
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 92,
+            "nt": 9,
+            "vu": 8,
+            "en": 2,
+            "cr": 3,
+            "ew": 1,
+            "ex": 0,
+            "unk": 21
+          }
+        },
+        {
+          "taxonCode": "cnemop1",
+          "category": "family",
+          "taxonOrder": 21636,
+          "sciName": "Cnemophilidae",
+          "comName": "Satinbirds",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "melano1",
+          "category": "family",
+          "taxonOrder": 21647,
+          "sciName": "Melanocharitidae",
+          "comName": "Berrypeckers and Longbills",
+          "subTaxaCounts": {
+            "species": 12
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 12,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "callae1",
+          "category": "family",
+          "taxonOrder": 21695,
+          "sciName": "Callaeidae",
+          "comName": "Wattlebirds",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 1,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "notiom1",
+          "category": "family",
+          "taxonOrder": 21701,
+          "sciName": "Notiomystidae",
+          "comName": "Stitchbird",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "petroi2",
+          "category": "family",
+          "taxonOrder": 21705,
+          "sciName": "Petroicidae",
+          "comName": "Australasian Robins",
+          "subTaxaCounts": {
+            "species": 51
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 40,
+            "nt": 3,
+            "vu": 2,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 5
+          }
+        },
+        {
+          "taxonCode": "picath1",
+          "category": "family",
+          "taxonOrder": 21882,
+          "sciName": "Picathartidae",
+          "comName": "Rockfowl",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 1,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "chaeto2",
+          "category": "family",
+          "taxonOrder": 21885,
+          "sciName": "Chaetopidae",
+          "comName": "Rockjumpers",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 2,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "eupeti1",
+          "category": "family",
+          "taxonOrder": 21888,
+          "sciName": "Eupetidae",
+          "comName": "Rail-babbler",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "hyliot1",
+          "category": "family",
+          "taxonOrder": 21892,
+          "sciName": "Hyliotidae",
+          "comName": "Hyliotas",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "stenos1",
+          "category": "family",
+          "taxonOrder": 21904,
+          "sciName": "Stenostiridae",
+          "comName": "Fairy Flycatchers",
+          "subTaxaCounts": {
+            "species": 9
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 9,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "parida1",
+          "category": "family",
+          "taxonOrder": 21936,
+          "sciName": "Paridae",
+          "comName": "Tits, Chickadees, and Titmice",
+          "subTaxaCounts": {
+            "species": 62
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 53,
+            "nt": 3,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 5
+          }
+        },
+        {
+          "taxonCode": "remizi1",
+          "category": "family",
+          "taxonOrder": 22268,
+          "sciName": "Remizidae",
+          "comName": "Penduline-Tits",
+          "subTaxaCounts": {
+            "species": 11
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 8,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        },
+        {
+          "taxonCode": "alaudi1",
+          "category": "family",
+          "taxonOrder": 22324,
+          "sciName": "Alaudidae",
+          "comName": "Larks",
+          "subTaxaCounts": {
+            "species": 98
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 79,
+            "nt": 2,
+            "vu": 2,
+            "en": 3,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 9
+          }
+        },
+        {
+          "taxonCode": "panuri1",
+          "category": "family",
+          "taxonOrder": 22837,
+          "sciName": "Panuridae",
+          "comName": "Bearded Reedling",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "nicato1",
+          "category": "family",
+          "taxonOrder": 22842,
+          "sciName": "Nicatoridae",
+          "comName": "Nicators",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "macros1",
+          "category": "family",
+          "taxonOrder": 22847,
+          "sciName": "Macrosphenidae",
+          "comName": "African Warblers",
+          "subTaxaCounts": {
+            "species": 18
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 14,
+            "nt": 0,
+            "vu": 0,
+            "en": 1,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "cistic2",
+          "category": "family",
+          "taxonOrder": 22916,
+          "sciName": "Cisticolidae",
+          "comName": "Cisticolas and Allies",
+          "subTaxaCounts": {
+            "species": 164
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 2,
+            "lc": 126,
+            "nt": 12,
+            "vu": 7,
+            "en": 2,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 14
+          }
+        },
+        {
+          "taxonCode": "acroce2",
+          "category": "family",
+          "taxonOrder": 23613,
+          "sciName": "Acrocephalidae",
+          "comName": "Reed Warblers and Allies",
+          "subTaxaCounts": {
+            "species": 60
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 37,
+            "nt": 2,
+            "vu": 5,
+            "en": 6,
+            "cr": 3,
+            "ew": 0,
+            "ex": 6,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "locust5",
+          "category": "family",
+          "taxonOrder": 23773,
+          "sciName": "Locustellidae",
+          "comName": "Grassbirds and Allies",
+          "subTaxaCounts": {
+            "species": 67
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 48,
+            "nt": 8,
+            "vu": 5,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 3
+          }
+        },
+        {
+          "taxonCode": "donaco1",
+          "category": "family",
+          "taxonOrder": 23956,
+          "sciName": "Donacobiidae",
+          "comName": "Donacobius",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "bernie1",
+          "category": "family",
+          "taxonOrder": 23962,
+          "sciName": "Bernieridae",
+          "comName": "Malagasy Warblers",
+          "subTaxaCounts": {
+            "species": 11
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 3,
+            "nt": 6,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "pnoepy1",
+          "category": "family",
+          "taxonOrder": 23980,
+          "sciName": "Pnoepygidae",
+          "comName": "Cupwings",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "hirund2",
+          "category": "family",
+          "taxonOrder": 23998,
+          "sciName": "Hirundinidae",
+          "comName": "Swallows",
+          "subTaxaCounts": {
+            "species": 92
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 74,
+            "nt": 1,
+            "vu": 3,
+            "en": 3,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 9
+          }
+        },
+        {
+          "taxonCode": "pycnon4",
+          "category": "family",
+          "taxonOrder": 24306,
+          "sciName": "Pycnonotidae",
+          "comName": "Bulbuls",
+          "subTaxaCounts": {
+            "species": 161
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 2,
+            "lc": 116,
+            "nt": 17,
+            "vu": 6,
+            "en": 3,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 15
+          }
+        },
+        {
+          "taxonCode": "phyllo4",
+          "category": "family",
+          "taxonOrder": 24791,
+          "sciName": "Phylloscopidae",
+          "comName": "Leaf Warblers",
+          "subTaxaCounts": {
+            "species": 80
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 67,
+            "nt": 5,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 6
+          }
+        },
+        {
+          "taxonCode": "hylias1",
+          "category": "family",
+          "taxonOrder": 25045,
+          "sciName": "Hyliidae",
+          "comName": "Hylias",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "yelfly10",
+          "category": "family",
+          "taxonOrder": 25054,
+          "sciName": "Erythrocercidae",
+          "comName": "Yellow Flycatchers",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 3,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "scotoc1",
+          "category": "family",
+          "taxonOrder": 25064,
+          "sciName": "Cettiidae",
+          "comName": "Bush Warblers and Allies",
+          "illusAssetId": "153501801",
+          "subTaxaCounts": {
+            "species": 32
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 30,
+            "nt": 2,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "aegith2",
+          "category": "family",
+          "taxonOrder": 25202,
+          "sciName": "Aegithalidae",
+          "comName": "Long-tailed Tits",
+          "subTaxaCounts": {
+            "species": 11
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 9,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "sylvii1",
+          "category": "family",
+          "taxonOrder": 25266,
+          "sciName": "Sylviidae",
+          "comName": "Sylviid Warblers and Allies",
+          "subTaxaCounts": {
+            "species": 32
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 26,
+            "nt": 2,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        },
+        {
+          "taxonCode": "parado1",
+          "category": "family",
+          "taxonOrder": 25381,
+          "sciName": "Paradoxornithidae",
+          "comName": "Parrotbills",
+          "subTaxaCounts": {
+            "species": 38
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 35,
+            "nt": 0,
+            "vu": 3,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "zoster2",
+          "category": "family",
+          "taxonOrder": 25517,
+          "sciName": "Zosteropidae",
+          "comName": "White-eyes, Yuhinas, and Allies",
+          "subTaxaCounts": {
+            "species": 150
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 93,
+            "nt": 21,
+            "vu": 5,
+            "en": 6,
+            "cr": 3,
+            "ew": 0,
+            "ex": 3,
+            "unk": 19
+          }
+        },
+        {
+          "taxonCode": "timali1",
+          "category": "family",
+          "taxonOrder": 25885,
+          "sciName": "Timaliidae",
+          "comName": "Tree-Babblers, Scimitar-Babblers, and Allies",
+          "subTaxaCounts": {
+            "species": 58
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 42,
+            "nt": 10,
+            "vu": 4,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "pellor2",
+          "category": "family",
+          "taxonOrder": 26138,
+          "sciName": "Pellorneidae",
+          "comName": "Ground Babblers and Allies",
+          "subTaxaCounts": {
+            "species": 65
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 40,
+            "nt": 16,
+            "vu": 5,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "leioth1",
+          "category": "family",
+          "taxonOrder": 26383,
+          "sciName": "Leiothrichidae",
+          "comName": "Laughingthrushes and Allies",
+          "subTaxaCounts": {
+            "species": 143
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 103,
+            "nt": 14,
+            "vu": 6,
+            "en": 7,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 11
+          }
+        },
+        {
+          "taxonCode": "reguli1",
+          "category": "family",
+          "taxonOrder": 26843,
+          "sciName": "Regulidae",
+          "comName": "Kinglets",
+          "subTaxaCounts": {
+            "species": 6
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 6,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "tichod1",
+          "category": "family",
+          "taxonOrder": 26879,
+          "sciName": "Tichodromidae",
+          "comName": "Wallcreeper",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "sittid1",
+          "category": "family",
+          "taxonOrder": 26883,
+          "sciName": "Sittidae",
+          "comName": "Nuthatches",
+          "subTaxaCounts": {
+            "species": 29
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 22,
+            "nt": 1,
+            "vu": 2,
+            "en": 3,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "spocre4",
+          "category": "family",
+          "taxonOrder": 27000,
+          "sciName": "Salpornithidae",
+          "comName": "Spotted Creepers",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "certhi2",
+          "category": "family",
+          "taxonOrder": 27009,
+          "sciName": "Certhiidae",
+          "comName": "Treecreepers",
+          "subTaxaCounts": {
+            "species": 9
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 9,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "poliop1",
+          "category": "family",
+          "taxonOrder": 27064,
+          "sciName": "Polioptilidae",
+          "comName": "Gnatcatchers",
+          "subTaxaCounts": {
+            "species": 22
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 11,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 11
+          }
+        },
+        {
+          "taxonCode": "troglo1",
+          "category": "family",
+          "taxonOrder": 27149,
+          "sciName": "Troglodytidae",
+          "comName": "Wrens",
+          "subTaxaCounts": {
+            "species": 96
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 73,
+            "nt": 5,
+            "vu": 4,
+            "en": 2,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 10
+          }
+        },
+        {
+          "taxonCode": "elachu1",
+          "category": "family",
+          "taxonOrder": 27647,
+          "sciName": "Elachuridae",
+          "comName": "Spotted Elachura",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "cincli1",
+          "category": "family",
+          "taxonOrder": 27649,
+          "sciName": "Cinclidae",
+          "comName": "Dippers",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "buphag1",
+          "category": "family",
+          "taxonOrder": 27679,
+          "sciName": "Buphagidae",
+          "comName": "Oxpeckers",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "sturni1",
+          "category": "family",
+          "taxonOrder": 27686,
+          "sciName": "Sturnidae",
+          "comName": "Starlings",
+          "subTaxaCounts": {
+            "species": 125
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 94,
+            "nt": 8,
+            "vu": 4,
+            "en": 4,
+            "cr": 3,
+            "ew": 0,
+            "ex": 6,
+            "unk": 6
+          }
+        },
+        {
+          "taxonCode": "mimida2",
+          "category": "family",
+          "taxonOrder": 27994,
+          "sciName": "Mimidae",
+          "comName": "Mockingbirds and Thrashers",
+          "subTaxaCounts": {
+            "species": 35
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 27,
+            "nt": 1,
+            "vu": 2,
+            "en": 1,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "turdid1",
+          "category": "family",
+          "taxonOrder": 28123,
+          "sciName": "Turdidae",
+          "comName": "Thrushes and Allies",
+          "subTaxaCounts": {
+            "species": 194
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 122,
+            "nt": 24,
+            "vu": 7,
+            "en": 2,
+            "cr": 3,
+            "ew": 0,
+            "ex": 4,
+            "unk": 32
+          }
+        },
+        {
+          "taxonCode": "muscic3",
+          "category": "family",
+          "taxonOrder": 28780,
+          "sciName": "Muscicapidae",
+          "comName": "Old World Flycatchers",
+          "subTaxaCounts": {
+            "species": 353
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 254,
+            "nt": 34,
+            "vu": 15,
+            "en": 7,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 40
+          }
+        },
+        {
+          "taxonCode": "bombyc1",
+          "category": "family",
+          "taxonOrder": 29884,
+          "sciName": "Bombycillidae",
+          "comName": "Waxwings",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "mohoid1",
+          "category": "family",
+          "taxonOrder": 29893,
+          "sciName": "Mohoidae",
+          "comName": "Hawaiian Honeyeaters",
+          "subTaxaCounts": {
+            "species": 5
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 5,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "ptilio1",
+          "category": "family",
+          "taxonOrder": 29899,
+          "sciName": "Ptiliogonatidae",
+          "comName": "Silky-flycatchers",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "dulida1",
+          "category": "family",
+          "taxonOrder": 29912,
+          "sciName": "Dulidae",
+          "comName": "Palmchat",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "hyloci3",
+          "category": "family",
+          "taxonOrder": 29914,
+          "sciName": "Hylocitreidae",
+          "comName": "Hylocitrea",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "hypoco2",
+          "category": "family",
+          "taxonOrder": 29918,
+          "sciName": "Hypocoliidae",
+          "comName": "Hypocolius",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "promer1",
+          "category": "family",
+          "taxonOrder": 29920,
+          "sciName": "Promeropidae",
+          "comName": "Sugarbirds",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "modula1",
+          "category": "family",
+          "taxonOrder": 29925,
+          "sciName": "Modulatricidae",
+          "comName": "Dapple-throat and Allies",
+          "illusAssetId": "153536601",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 1,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "dicaei1",
+          "category": "family",
+          "taxonOrder": 29934,
+          "sciName": "Dicaeidae",
+          "comName": "Flowerpeckers",
+          "subTaxaCounts": {
+            "species": 56
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 47,
+            "nt": 4,
+            "vu": 0,
+            "en": 0,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 3
+          }
+        },
+        {
+          "taxonCode": "nectar1",
+          "category": "family",
+          "taxonOrder": 30133,
+          "sciName": "Nectariniidae",
+          "comName": "Sunbirds and Spiderhunters",
+          "subTaxaCounts": {
+            "species": 151
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 126,
+            "nt": 4,
+            "vu": 5,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 14
+          }
+        },
+        {
+          "taxonCode": "irenid1",
+          "category": "family",
+          "taxonOrder": 30643,
+          "sciName": "Irenidae",
+          "comName": "Fairy-bluebirds",
+          "subTaxaCounts": {
+            "species": 3
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 2,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "chloro5",
+          "category": "family",
+          "taxonOrder": 30657,
+          "sciName": "Chloropseidae",
+          "comName": "Leafbirds",
+          "subTaxaCounts": {
+            "species": 12
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 2,
+            "vu": 1,
+            "en": 3,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 1
+          }
+        },
+        {
+          "taxonCode": "peuced1",
+          "category": "family",
+          "taxonOrder": 30695,
+          "sciName": "Peucedramidae",
+          "comName": "Olive Warbler",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "urocyn1",
+          "category": "family",
+          "taxonOrder": 30702,
+          "sciName": "Urocynchramidae",
+          "comName": "Przevalski's Pinktail",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "plocei1",
+          "category": "family",
+          "taxonOrder": 30704,
+          "sciName": "Ploceidae",
+          "comName": "Weavers and Allies",
+          "subTaxaCounts": {
+            "species": 123
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 101,
+            "nt": 8,
+            "vu": 4,
+            "en": 7,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 2
+          }
+        },
+        {
+          "taxonCode": "estril1",
+          "category": "family",
+          "taxonOrder": 31008,
+          "sciName": "Estrildidae",
+          "comName": "Waxbills and Allies",
+          "subTaxaCounts": {
+            "species": 138
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 124,
+            "nt": 3,
+            "vu": 3,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 5
+          }
+        },
+        {
+          "taxonCode": "viduid1",
+          "category": "family",
+          "taxonOrder": 31442,
+          "sciName": "Viduidae",
+          "comName": "Whydahs and Indigobirds",
+          "subTaxaCounts": {
+            "species": 20
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 20,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "prunel1",
+          "category": "family",
+          "taxonOrder": 31479,
+          "sciName": "Prunellidae",
+          "comName": "Accentors",
+          "subTaxaCounts": {
+            "species": 12
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 12,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "passer4",
+          "category": "family",
+          "taxonOrder": 31528,
+          "sciName": "Passeridae",
+          "comName": "Old World Sparrows",
+          "subTaxaCounts": {
+            "species": 43
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 41,
+            "nt": 0,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "motaci1",
+          "category": "family",
+          "taxonOrder": 31666,
+          "sciName": "Motacillidae",
+          "comName": "Wagtails and Pipits",
+          "subTaxaCounts": {
+            "species": 70
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 52,
+            "nt": 5,
+            "vu": 5,
+            "en": 2,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 6
+          }
+        },
+        {
+          "taxonCode": "fringi1",
+          "category": "family",
+          "taxonOrder": 31947,
+          "sciName": "Fringillidae",
+          "comName": "Finches, Euphonias, and Allies",
+          "subTaxaCounts": {
+            "species": 236
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 158,
+            "nt": 9,
+            "vu": 7,
+            "en": 11,
+            "cr": 8,
+            "ew": 0,
+            "ex": 22,
+            "unk": 20
+          }
+        },
+        {
+          "taxonCode": "calcar1",
+          "category": "family",
+          "taxonOrder": 32663,
+          "sciName": "Calcariidae",
+          "comName": "Longspurs and Snow Buntings",
+          "subTaxaCounts": {
+            "species": 6
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 5,
+            "nt": 0,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "rhodin1",
+          "category": "family",
+          "taxonOrder": 32683,
+          "sciName": "Rhodinocichlidae",
+          "comName": "Thrush-Tanager",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "emberi2",
+          "category": "family",
+          "taxonOrder": 32691,
+          "sciName": "Emberizidae",
+          "comName": "Old World Buntings",
+          "subTaxaCounts": {
+            "species": 44
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 34,
+            "nt": 4,
+            "vu": 0,
+            "en": 1,
+            "cr": 1,
+            "ew": 0,
+            "ex": 0,
+            "unk": 4
+          }
+        },
+        {
+          "taxonCode": "passer3",
+          "category": "family",
+          "taxonOrder": 32845,
+          "sciName": "Passerellidae",
+          "comName": "New World Sparrows",
+          "subTaxaCounts": {
+            "species": 138
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 107,
+            "nt": 14,
+            "vu": 3,
+            "en": 4,
+            "cr": 1,
+            "ew": 0,
+            "ex": 1,
+            "unk": 8
+          }
+        },
+        {
+          "taxonCode": "calypt2",
+          "category": "family",
+          "taxonOrder": 33521,
+          "sciName": "Calyptophilidae",
+          "comName": "Chat-Tanagers",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 0,
+            "nt": 1,
+            "vu": 1,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "phaeni1",
+          "category": "family",
+          "taxonOrder": 33527,
+          "sciName": "Phaenicophilidae",
+          "comName": "Greater Antillean Tanagers",
+          "illusAssetId": "153231181",
+          "subTaxaCounts": {
+            "species": 9
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 6,
+            "nt": 1,
+            "vu": 2,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "zeledo1",
+          "category": "family",
+          "taxonOrder": 33549,
+          "sciName": "Zeledoniidae",
+          "comName": "Wrenthrush",
+          "illusAssetId": "153219791",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "tereti1",
+          "category": "family",
+          "taxonOrder": 33551,
+          "sciName": "Teretistridae",
+          "comName": "Cuban Warblers",
+          "subTaxaCounts": {
+            "species": 2
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 2,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "icteri2",
+          "category": "family",
+          "taxonOrder": 33558,
+          "sciName": "Icteriidae",
+          "comName": "Yellow-breasted Chat",
+          "subTaxaCounts": {
+            "species": 1
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 1,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "icteri1",
+          "category": "family",
+          "taxonOrder": 33562,
+          "sciName": "Icteridae",
+          "comName": "Troupials and Allies",
+          "subTaxaCounts": {
+            "species": 106
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 79,
+            "nt": 4,
+            "vu": 7,
+            "en": 7,
+            "cr": 0,
+            "ew": 0,
+            "ex": 1,
+            "unk": 8
+          }
+        },
+        {
+          "taxonCode": "paruli1",
+          "category": "family",
+          "taxonOrder": 33945,
+          "sciName": "Parulidae",
+          "comName": "New World Warblers",
+          "illusAssetId": "153230821",
+          "subTaxaCounts": {
+            "species": 116
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 81,
+            "nt": 10,
+            "vu": 4,
+            "en": 5,
+            "cr": 2,
+            "ew": 0,
+            "ex": 0,
+            "unk": 14
+          }
+        },
+        {
+          "taxonCode": "mitros1",
+          "category": "family",
+          "taxonOrder": 34399,
+          "sciName": "Mitrospingidae",
+          "comName": "Mitrospingid Tanagers",
+          "subTaxaCounts": {
+            "species": 4
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 4,
+            "nt": 0,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 0
+          }
+        },
+        {
+          "taxonCode": "cardin1",
+          "category": "family",
+          "taxonOrder": 34408,
+          "sciName": "Cardinalidae",
+          "comName": "Cardinals and Allies",
+          "subTaxaCounts": {
+            "species": 52
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 0,
+            "lc": 44,
+            "nt": 2,
+            "vu": 0,
+            "en": 0,
+            "cr": 0,
+            "ew": 0,
+            "ex": 0,
+            "unk": 6
+          }
+        },
+        {
+          "taxonCode": "thraup2",
+          "category": "family",
+          "taxonOrder": 34628,
+          "sciName": "Thraupidae",
+          "comName": "Tanagers and Allies",
+          "subTaxaCounts": {
+            "species": 389
+          },
+          "iucnStatusCounts": {
+            "ne": 0,
+            "dd": 1,
+            "lc": 302,
+            "nt": 30,
+            "vu": 26,
+            "en": 6,
+            "cr": 6,
+            "ew": 0,
+            "ex": 0,
+            "unk": 18
+          }
+        }
+      ]
+    }
+  ]
+}
