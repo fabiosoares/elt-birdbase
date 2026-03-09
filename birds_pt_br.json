@@ -1,0 +1,6838 @@
+[
+    {
+        "nm_cientifico": "Rhea americana",
+        "nm_portugues": "Ema"
+    },
+    {
+        "nm_cientifico": "Tinamus tao",
+        "nm_portugues": "Azulona"
+    },
+    {
+        "nm_cientifico": "Tinamus solitarius",
+        "nm_portugues": "Macuco"
+    },
+    {
+        "nm_cientifico": "Tinamus major",
+        "nm_portugues": "Inhambu-serra"
+    },
+    {
+        "nm_cientifico": "Tinamus guttatus",
+        "nm_portugues": "Inhambu-galinha"
+    },
+    {
+        "nm_cientifico": "Crypturellus cinereus",
+        "nm_portugues": "Inhambu-pixuna"
+    },
+    {
+        "nm_cientifico": "Crypturellus soui",
+        "nm_portugues": "Tururim"
+    },
+    {
+        "nm_cientifico": "Crypturellus obsoletus",
+        "nm_portugues": "Inhambuguaçu"
+    },
+    {
+        "nm_cientifico": "Crypturellus undulatus",
+        "nm_portugues": "Jaó"
+    },
+    {
+        "nm_cientifico": "Crypturellus strigulosus",
+        "nm_portugues": "Inhambu-relógio"
+    },
+    {
+        "nm_cientifico": "Crypturellus duidae",
+        "nm_portugues": "Inhambu-de-pé-cinza"
+    },
+    {
+        "nm_cientifico": "Crypturellus erythropus",
+        "nm_portugues": "Inhambu-de-perna-vermelha"
+    },
+    {
+        "nm_cientifico": "Crypturellus zabele",
+        "nm_portugues": "Zabelê"
+    },
+    {
+        "nm_cientifico": "Crypturellus noctivagus",
+        "nm_portugues": "Jaó-do-sul"
+    },
+    {
+        "nm_cientifico": "Crypturellus atrocapillus",
+        "nm_portugues": "Inhambu-de-coroa-preta"
+    },
+    {
+        "nm_cientifico": "Crypturellus variegatus",
+        "nm_portugues": "Inhambu-anhangá"
+    },
+    {
+        "nm_cientifico": "Crypturellus brevirostris",
+        "nm_portugues": "Inhambu-carijó"
+    },
+    {
+        "nm_cientifico": "Crypturellus bartletti",
+        "nm_portugues": "Inhambu-anhangaí"
+    },
+    {
+        "nm_cientifico": "Crypturellus parvirostris",
+        "nm_portugues": "Inhambu-chororó"
+    },
+    {
+        "nm_cientifico": "Crypturellus tataupa",
+        "nm_portugues": "Inhambu-chintã"
+    },
+    {
+        "nm_cientifico": "Rhynchotus rufescens",
+        "nm_portugues": "Perdiz"
+    },
+    {
+        "nm_cientifico": "Nothura boraquira",
+        "nm_portugues": "Codorna-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Nothura minor",
+        "nm_portugues": "Codorna-mineira"
+    },
+    {
+        "nm_cientifico": "Nothura maculosa",
+        "nm_portugues": "Codorna-amarela"
+    },
+    {
+        "nm_cientifico": "Taoniscus nanus",
+        "nm_portugues": "Codorna-carapé"
+    },
+    {
+        "nm_cientifico": "Anhima cornuta",
+        "nm_portugues": "Anhuma"
+    },
+    {
+        "nm_cientifico": "Chauna torquata",
+        "nm_portugues": "Tachã"
+    },
+    {
+        "nm_cientifico": "Dendrocygna bicolor",
+        "nm_portugues": "Marreca-caneleira"
+    },
+    {
+        "nm_cientifico": "Dendrocygna viduata",
+        "nm_portugues": "Irerê"
+    },
+    {
+        "nm_cientifico": "Dendrocygna autumnalis",
+        "nm_portugues": "Marreca-cabocla"
+    },
+    {
+        "nm_cientifico": "Cygnus melancoryphus",
+        "nm_portugues": "Cisne-de-pescoço-preto"
+    },
+    {
+        "nm_cientifico": "Coscoroba coscoroba",
+        "nm_portugues": "Capororoca"
+    },
+    {
+        "nm_cientifico": "Neochen jubata",
+        "nm_portugues": "Pato-corredor"
+    },
+    {
+        "nm_cientifico": "Chloephaga picta",
+        "nm_portugues": "Ganso-de-magalhães"
+    },
+    {
+        "nm_cientifico": "Cairina moschata",
+        "nm_portugues": "Pato-do-mato"
+    },
+    {
+        "nm_cientifico": "Sarkidiornis sylvicola",
+        "nm_portugues": "Pato-de-crista"
+    },
+    {
+        "nm_cientifico": "Callonetta leucophrys",
+        "nm_portugues": "Marreca-de-coleira"
+    },
+    {
+        "nm_cientifico": "Amazonetta brasiliensis",
+        "nm_portugues": "Marreca-ananaí"
+    },
+    {
+        "nm_cientifico": "Spatula versicolor",
+        "nm_portugues": "Marreca-cricri"
+    },
+    {
+        "nm_cientifico": "Spatula platalea",
+        "nm_portugues": "Marreca-colhereira"
+    },
+    {
+        "nm_cientifico": "Spatula discors",
+        "nm_portugues": "Marreca-de-asa-azul"
+    },
+    {
+        "nm_cientifico": "Spatula cyanoptera",
+        "nm_portugues": "Marreca-colorada"
+    },
+    {
+        "nm_cientifico": "Mareca sibilatrix",
+        "nm_portugues": "Marreca-oveira"
+    },
+    {
+        "nm_cientifico": "Anas bahamensis",
+        "nm_portugues": "Marreca-toicinho"
+    },
+    {
+        "nm_cientifico": "Anas acuta",
+        "nm_portugues": "Arrabio"
+    },
+    {
+        "nm_cientifico": "Anas georgica",
+        "nm_portugues": "Marreca-parda"
+    },
+    {
+        "nm_cientifico": "Anas flavirostris",
+        "nm_portugues": "Marreca-pardinha"
+    },
+    {
+        "nm_cientifico": "Netta erythrophthalma",
+        "nm_portugues": "Paturi-preta"
+    },
+    {
+        "nm_cientifico": "Netta peposaca",
+        "nm_portugues": "Marrecão"
+    },
+    {
+        "nm_cientifico": "Mergus octosetaceus",
+        "nm_portugues": "Pato-mergulhão"
+    },
+    {
+        "nm_cientifico": "Heteronetta atricapilla",
+        "nm_portugues": "Marreca-de-cabeça-preta"
+    },
+    {
+        "nm_cientifico": "Nomonyx dominicus",
+        "nm_portugues": "Marreca-caucau"
+    },
+    {
+        "nm_cientifico": "Oxyura vittata",
+        "nm_portugues": "Marreca-rabo-de-espinho"
+    },
+    {
+        "nm_cientifico": "Penelope marail",
+        "nm_portugues": "Jacumirim"
+    },
+    {
+        "nm_cientifico": "Penelope superciliaris",
+        "nm_portugues": "Jacupemba"
+    },
+    {
+        "nm_cientifico": "Penelope jacquacu",
+        "nm_portugues": "Jacu-de-spix"
+    },
+    {
+        "nm_cientifico": "Penelope obscura",
+        "nm_portugues": "Jacuguaçu"
+    },
+    {
+        "nm_cientifico": "Penelope pileata",
+        "nm_portugues": "Jacupiranga"
+    },
+    {
+        "nm_cientifico": "Penelope ochrogaster",
+        "nm_portugues": "Jacu-de-barriga-castanha"
+    },
+    {
+        "nm_cientifico": "Penelope jacucaca",
+        "nm_portugues": "Jacucaca"
+    },
+    {
+        "nm_cientifico": "Aburria cumanensis",
+        "nm_portugues": "Jacutinga-de-garganta-azul"
+    },
+    {
+        "nm_cientifico": "Aburria cujubi",
+        "nm_portugues": "Cujubi"
+    },
+    {
+        "nm_cientifico": "Aburria jacutinga",
+        "nm_portugues": "Jacutinga"
+    },
+    {
+        "nm_cientifico": "Ortalis canicollis",
+        "nm_portugues": "Aracuã-do-pantanal"
+    },
+    {
+        "nm_cientifico": "Ortalis guttata",
+        "nm_portugues": "Aracuã-pintado"
+    },
+    {
+        "nm_cientifico": "Ortalis remota",
+        "nm_portugues": "Aracuã-guarda-faca"
+    },
+    {
+        "nm_cientifico": "Ortalis araucuan",
+        "nm_portugues": "Aracuã-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Ortalis squamata",
+        "nm_portugues": "Aracuã-escamoso"
+    },
+    {
+        "nm_cientifico": "Ortalis motmot",
+        "nm_portugues": "Aracuã-pequeno"
+    },
+    {
+        "nm_cientifico": "Ortalis superciliaris",
+        "nm_portugues": "Aracuã-de-sobrancelhas"
+    },
+    {
+        "nm_cientifico": "Nothocrax urumutum",
+        "nm_portugues": "Urumutum"
+    },
+    {
+        "nm_cientifico": "Crax alector",
+        "nm_portugues": "Mutum-poranga"
+    },
+    {
+        "nm_cientifico": "Crax globulosa",
+        "nm_portugues": "Mutum-de-fava"
+    },
+    {
+        "nm_cientifico": "Crax fasciolata",
+        "nm_portugues": "Mutum-de-penacho"
+    },
+    {
+        "nm_cientifico": "Crax blumenbachii",
+        "nm_portugues": "Mutum-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Pauxi tomentosa",
+        "nm_portugues": "Mutum-do-norte"
+    },
+    {
+        "nm_cientifico": "Pauxi tuberosa",
+        "nm_portugues": "Mutum-cavalo"
+    },
+    {
+        "nm_cientifico": "Pauxi mitu",
+        "nm_portugues": "Mutum-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Colinus cristatus",
+        "nm_portugues": "Uru-do-campo"
+    },
+    {
+        "nm_cientifico": "Odontophorus gujanensis",
+        "nm_portugues": "Uru-corcovado"
+    },
+    {
+        "nm_cientifico": "Odontophorus capueira",
+        "nm_portugues": "Uru"
+    },
+    {
+        "nm_cientifico": "Odontophorus stellatus",
+        "nm_portugues": "Uru-de-topete"
+    },
+    {
+        "nm_cientifico": "Phoenicopterus chilensis",
+        "nm_portugues": "Flamingo-chileno"
+    },
+    {
+        "nm_cientifico": "Phoenicopterus ruber",
+        "nm_portugues": "Flamingo"
+    },
+    {
+        "nm_cientifico": "Phoenicoparrus andinus",
+        "nm_portugues": "Flamingo-dos-andes"
+    },
+    {
+        "nm_cientifico": "Phoenicoparrus jamesi",
+        "nm_portugues": "Flamingo-da-puna"
+    },
+    {
+        "nm_cientifico": "Rollandia rolland",
+        "nm_portugues": "Mergulhão-de-orelha-branca"
+    },
+    {
+        "nm_cientifico": "Tachybaptus dominicus",
+        "nm_portugues": "Mergulhão-pequeno"
+    },
+    {
+        "nm_cientifico": "Podilymbus podiceps",
+        "nm_portugues": "Mergulhão-caçador"
+    },
+    {
+        "nm_cientifico": "Podicephorus major",
+        "nm_portugues": "Mergulhão-grande"
+    },
+    {
+        "nm_cientifico": "Podiceps occipitalis",
+        "nm_portugues": "Mergulhão-de-orelha-amarela"
+    },
+    {
+        "nm_cientifico": "Eurypyga helias",
+        "nm_portugues": "Pavãozinho-do-pará"
+    },
+    {
+        "nm_cientifico": "Phaethon aethereus",
+        "nm_portugues": "Rabo-de-palha-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Phaethon rubricauda",
+        "nm_portugues": "Rabo-de-palha-de-cauda-vermelha"
+    },
+    {
+        "nm_cientifico": "Phaethon lepturus",
+        "nm_portugues": "Rabo-de-palha-de-bico-laranja"
+    },
+    {
+        "nm_cientifico": "Aptenodytes patagonicus",
+        "nm_portugues": "Pinguim-rei"
+    },
+    {
+        "nm_cientifico": "Spheniscus magellanicus",
+        "nm_portugues": "Pinguim-de-magalhães"
+    },
+    {
+        "nm_cientifico": "Eudyptes chrysolophus",
+        "nm_portugues": "Pinguim-macaroni"
+    },
+    {
+        "nm_cientifico": "Eudyptes chrysocome",
+        "nm_portugues": "Pinguim-de-penacho-amarelo"
+    },
+    {
+        "nm_cientifico": "Diomedea epomophora",
+        "nm_portugues": "Albatroz-real"
+    },
+    {
+        "nm_cientifico": "Diomedea sanfordi",
+        "nm_portugues": "Albatroz-real-do-norte"
+    },
+    {
+        "nm_cientifico": "Diomedea exulans",
+        "nm_portugues": "Albatroz-errante"
+    },
+    {
+        "nm_cientifico": "Diomedea dabbenena",
+        "nm_portugues": "Albatroz-de-tristão"
+    },
+    {
+        "nm_cientifico": "Phoebetria fusca",
+        "nm_portugues": "Piau-preto"
+    },
+    {
+        "nm_cientifico": "Phoebetria palpebrata",
+        "nm_portugues": "Piau-de-costas-claras"
+    },
+    {
+        "nm_cientifico": "Thalassarche chlororhynchos",
+        "nm_portugues": "Albatroz-de-nariz-amarelo"
+    },
+    {
+        "nm_cientifico": "Thalassarche melanophris",
+        "nm_portugues": "Albatroz-de-sobrancelha"
+    },
+    {
+        "nm_cientifico": "Thalassarche chrysostoma",
+        "nm_portugues": "Albatroz-de-cabeça-cinza"
+    },
+    {
+        "nm_cientifico": "Thalassarche cauta",
+        "nm_portugues": "Albatroz-de-coroa-branca"
+    },
+    {
+        "nm_cientifico": "Fregetta grallaria",
+        "nm_portugues": "Painho-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Fregetta tropica",
+        "nm_portugues": "Painho-de-barriga-preta"
+    },
+    {
+        "nm_cientifico": "Oceanites oceanicus",
+        "nm_portugues": "Alma-de-mestre"
+    },
+    {
+        "nm_cientifico": "Pelagodroma marina",
+        "nm_portugues": "Calcamar"
+    },
+    {
+        "nm_cientifico": "Hydrobates leucorhous",
+        "nm_portugues": "Painho-de-cauda-furcada"
+    },
+    {
+        "nm_cientifico": "Macronectes giganteus",
+        "nm_portugues": "Petrel-grande"
+    },
+    {
+        "nm_cientifico": "Macronectes halli",
+        "nm_portugues": "Petrel-grande-do-norte"
+    },
+    {
+        "nm_cientifico": "Fulmarus glacialoides",
+        "nm_portugues": "Pardelão-prateado"
+    },
+    {
+        "nm_cientifico": "Daption capense",
+        "nm_portugues": "Pomba-do-cabo"
+    },
+    {
+        "nm_cientifico": "Lugensa brevirostris",
+        "nm_portugues": "Grazina-de-bico-curto"
+    },
+    {
+        "nm_cientifico": "Pterodroma madeira",
+        "nm_portugues": "Grazina-da-madeira"
+    },
+    {
+        "nm_cientifico": "Pterodroma deserta",
+        "nm_portugues": "Grazina-de-desertas"
+    },
+    {
+        "nm_cientifico": "Pterodroma mollis",
+        "nm_portugues": "Grazina-delicada"
+    },
+    {
+        "nm_cientifico": "Pterodroma incerta",
+        "nm_portugues": "Grazina-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Pterodroma lessonii",
+        "nm_portugues": "Grazina-de-cabeça-branca"
+    },
+    {
+        "nm_cientifico": "Pterodroma macroptera",
+        "nm_portugues": "Fura-bucho-de-cara-cinza"
+    },
+    {
+        "nm_cientifico": "Pterodroma arminjoniana",
+        "nm_portugues": "Grazina-de-trindade"
+    },
+    {
+        "nm_cientifico": "Halobaena caerulea",
+        "nm_portugues": "Petrel-azul"
+    },
+    {
+        "nm_cientifico": "Pachyptila vittata",
+        "nm_portugues": "Faigão-de-bico-largo"
+    },
+    {
+        "nm_cientifico": "Pachyptila desolata",
+        "nm_portugues": "Faigão-rola"
+    },
+    {
+        "nm_cientifico": "Pachyptila belcheri",
+        "nm_portugues": "Faigão-de-bico-fino"
+    },
+    {
+        "nm_cientifico": "Bulweria bulwerii",
+        "nm_portugues": "Alma-negra"
+    },
+    {
+        "nm_cientifico": "Procellaria cinerea",
+        "nm_portugues": "Pardela-cinza"
+    },
+    {
+        "nm_cientifico": "Procellaria aequinoctialis",
+        "nm_portugues": "Pardela-preta"
+    },
+    {
+        "nm_cientifico": "Procellaria conspicillata",
+        "nm_portugues": "Pardela-de-óculos"
+    },
+    {
+        "nm_cientifico": "Calonectris diomedea",
+        "nm_portugues": "Cagarra-do-mediterrâneo"
+    },
+    {
+        "nm_cientifico": "Calonectris borealis",
+        "nm_portugues": "Cagarra-grande"
+    },
+    {
+        "nm_cientifico": "Calonectris edwardsii",
+        "nm_portugues": "Cagarra-de-cabo-verde"
+    },
+    {
+        "nm_cientifico": "Ardenna tenuirostris",
+        "nm_portugues": "Pardela-de-cauda-curta"
+    },
+    {
+        "nm_cientifico": "Ardenna grisea",
+        "nm_portugues": "Pardela-escura"
+    },
+    {
+        "nm_cientifico": "Ardenna gravis",
+        "nm_portugues": "Pardela-de-barrete"
+    },
+    {
+        "nm_cientifico": "Puffinus puffinus",
+        "nm_portugues": "Pardela-sombria"
+    },
+    {
+        "nm_cientifico": "Puffinus boydi",
+        "nm_portugues": "Pardela-de-cabo-verde"
+    },
+    {
+        "nm_cientifico": "Puffinus lherminieri",
+        "nm_portugues": "Pardela-de-asa-larga"
+    },
+    {
+        "nm_cientifico": "Pelecanoides magellani",
+        "nm_portugues": "Petrel-mergulhador"
+    },
+    {
+        "nm_cientifico": "Ciconia maguari",
+        "nm_portugues": "Maguari"
+    },
+    {
+        "nm_cientifico": "Jabiru mycteria",
+        "nm_portugues": "Tuiuiú"
+    },
+    {
+        "nm_cientifico": "Mycteria americana",
+        "nm_portugues": "Cabeça-seca"
+    },
+    {
+        "nm_cientifico": "Fregata trinitatis",
+        "nm_portugues": "Fragata-pequena"
+    },
+    {
+        "nm_cientifico": "Fregata aquila",
+        "nm_portugues": "Fragata-de-ascensão"
+    },
+    {
+        "nm_cientifico": "Fregata magnificens",
+        "nm_portugues": "Fragata"
+    },
+    {
+        "nm_cientifico": "Fregata minor",
+        "nm_portugues": "Fragata-grande"
+    },
+    {
+        "nm_cientifico": "Morus bassanus",
+        "nm_portugues": "Atobá-boreal"
+    },
+    {
+        "nm_cientifico": "Morus capensis",
+        "nm_portugues": "Atobá-do-cabo"
+    },
+    {
+        "nm_cientifico": "Morus serrator",
+        "nm_portugues": "Atobá-australiano"
+    },
+    {
+        "nm_cientifico": "Sula dactylatra",
+        "nm_portugues": "Atobá-grande"
+    },
+    {
+        "nm_cientifico": "Sula sula",
+        "nm_portugues": "Atobá-de-pé-vermelho"
+    },
+    {
+        "nm_cientifico": "Sula leucogaster",
+        "nm_portugues": "Atobá-pardo"
+    },
+    {
+        "nm_cientifico": "Anhinga anhinga",
+        "nm_portugues": "Biguatinga"
+    },
+    {
+        "nm_cientifico": "Nannopterum brasilianum",
+        "nm_portugues": "Biguá"
+    },
+    {
+        "nm_cientifico": "Pelecanus occidentalis",
+        "nm_portugues": "Pelicano"
+    },
+    {
+        "nm_cientifico": "Tigrisoma lineatum",
+        "nm_portugues": "Socó-boi"
+    },
+    {
+        "nm_cientifico": "Tigrisoma fasciatum",
+        "nm_portugues": "Socó-jararaca"
+    },
+    {
+        "nm_cientifico": "Agamia agami",
+        "nm_portugues": "Garça-da-mata"
+    },
+    {
+        "nm_cientifico": "Cochlearius cochlearius",
+        "nm_portugues": "Arapapá"
+    },
+    {
+        "nm_cientifico": "Zebrilus undulatus",
+        "nm_portugues": "Socoí-zigue-zague"
+    },
+    {
+        "nm_cientifico": "Botaurus pinnatus",
+        "nm_portugues": "Socó-boi-baio"
+    },
+    {
+        "nm_cientifico": "Ixobrychus exilis",
+        "nm_portugues": "Socoí-vermelho"
+    },
+    {
+        "nm_cientifico": "Ixobrychus involucris",
+        "nm_portugues": "Socoí-amarelo"
+    },
+    {
+        "nm_cientifico": "Nycticorax nycticorax",
+        "nm_portugues": "Socó-dorminhoco"
+    },
+    {
+        "nm_cientifico": "Nyctanassa violacea",
+        "nm_portugues": "Savacu-de-coroa"
+    },
+    {
+        "nm_cientifico": "Butorides striata",
+        "nm_portugues": "Socozinho"
+    },
+    {
+        "nm_cientifico": "Ardeola ralloides",
+        "nm_portugues": "Garça-caranguejeira"
+    },
+    {
+        "nm_cientifico": "Bubulcus ibis",
+        "nm_portugues": "Garça-vaqueira"
+    },
+    {
+        "nm_cientifico": "Ardea cinerea",
+        "nm_portugues": "Garça-moura-europeia"
+    },
+    {
+        "nm_cientifico": "Ardea herodias",
+        "nm_portugues": "Garça-azul-grande"
+    },
+    {
+        "nm_cientifico": "Ardea cocoi",
+        "nm_portugues": "Garça-moura"
+    },
+    {
+        "nm_cientifico": "Ardea purpurea",
+        "nm_portugues": "Garça-roxa"
+    },
+    {
+        "nm_cientifico": "Ardea alba",
+        "nm_portugues": "Garça-branca-grande"
+    },
+    {
+        "nm_cientifico": "Syrigma sibilatrix",
+        "nm_portugues": "Maria-faceira"
+    },
+    {
+        "nm_cientifico": "Pilherodius pileatus",
+        "nm_portugues": "Garça-real"
+    },
+    {
+        "nm_cientifico": "Egretta tricolor",
+        "nm_portugues": "Garça-tricolor"
+    },
+    {
+        "nm_cientifico": "Egretta gularis",
+        "nm_portugues": "Garça-negra"
+    },
+    {
+        "nm_cientifico": "Egretta garzetta",
+        "nm_portugues": "Garça-pequena-europeia"
+    },
+    {
+        "nm_cientifico": "Egretta thula",
+        "nm_portugues": "Garça-branca-pequena"
+    },
+    {
+        "nm_cientifico": "Egretta caerulea",
+        "nm_portugues": "Garça-azul"
+    },
+    {
+        "nm_cientifico": "Eudocimus ruber",
+        "nm_portugues": "Guará"
+    },
+    {
+        "nm_cientifico": "Plegadis chihi",
+        "nm_portugues": "Caraúna"
+    },
+    {
+        "nm_cientifico": "Cercibis oxycerca",
+        "nm_portugues": "Trombeteiro"
+    },
+    {
+        "nm_cientifico": "Mesembrinibis cayennensis",
+        "nm_portugues": "Coró-coró"
+    },
+    {
+        "nm_cientifico": "Phimosus infuscatus",
+        "nm_portugues": "Tapicuru"
+    },
+    {
+        "nm_cientifico": "Theristicus caerulescens",
+        "nm_portugues": "Curicaca-real"
+    },
+    {
+        "nm_cientifico": "Theristicus caudatus",
+        "nm_portugues": "Curicaca"
+    },
+    {
+        "nm_cientifico": "Platalea leucorodia",
+        "nm_portugues": "Colhereiro-europeu"
+    },
+    {
+        "nm_cientifico": "Platalea ajaja",
+        "nm_portugues": "Colhereiro"
+    },
+    {
+        "nm_cientifico": "Sarcoramphus papa",
+        "nm_portugues": "Urubu-rei"
+    },
+    {
+        "nm_cientifico": "Coragyps atratus",
+        "nm_portugues": "Urubu-preto"
+    },
+    {
+        "nm_cientifico": "Cathartes aura",
+        "nm_portugues": "Urubu-de-cabeça-vermelha"
+    },
+    {
+        "nm_cientifico": "Cathartes burrovianus",
+        "nm_portugues": "Urubu-de-cabeça-amarela"
+    },
+    {
+        "nm_cientifico": "Cathartes melambrotus",
+        "nm_portugues": "Urubu-da-mata"
+    },
+    {
+        "nm_cientifico": "Pandion haliaetus",
+        "nm_portugues": "Águia-pescadora"
+    },
+    {
+        "nm_cientifico": "Gampsonyx swainsonii",
+        "nm_portugues": "Gaviãozinho"
+    },
+    {
+        "nm_cientifico": "Elanus leucurus",
+        "nm_portugues": "Gavião-peneira"
+    },
+    {
+        "nm_cientifico": "Chondrohierax uncinatus",
+        "nm_portugues": "Gavião-caracoleiro"
+    },
+    {
+        "nm_cientifico": "Leptodon cayanensis",
+        "nm_portugues": "Gavião-gato"
+    },
+    {
+        "nm_cientifico": "Leptodon forbesi",
+        "nm_portugues": "Gavião-gato-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Elanoides forficatus",
+        "nm_portugues": "Gavião-tesoura"
+    },
+    {
+        "nm_cientifico": "Morphnus guianensis",
+        "nm_portugues": "Uiraçu"
+    },
+    {
+        "nm_cientifico": "Harpia harpyja",
+        "nm_portugues": "Gavião-real"
+    },
+    {
+        "nm_cientifico": "Spizaetus tyrannus",
+        "nm_portugues": "Gavião-pega-macaco"
+    },
+    {
+        "nm_cientifico": "Spizaetus melanoleucus",
+        "nm_portugues": "Gavião-pato"
+    },
+    {
+        "nm_cientifico": "Spizaetus ornatus",
+        "nm_portugues": "Gavião-de-penacho"
+    },
+    {
+        "nm_cientifico": "Busarellus nigricollis",
+        "nm_portugues": "Gavião-belo"
+    },
+    {
+        "nm_cientifico": "Rostrhamus sociabilis",
+        "nm_portugues": "Gavião-caramujeiro"
+    },
+    {
+        "nm_cientifico": "Helicolestes hamatus",
+        "nm_portugues": "Gavião-do-igapó"
+    },
+    {
+        "nm_cientifico": "Harpagus bidentatus",
+        "nm_portugues": "Gavião-ripina"
+    },
+    {
+        "nm_cientifico": "Harpagus diodon",
+        "nm_portugues": "Gavião-bombachinha"
+    },
+    {
+        "nm_cientifico": "Ictinia mississippiensis",
+        "nm_portugues": "Sovi-do-norte"
+    },
+    {
+        "nm_cientifico": "Ictinia plumbea",
+        "nm_portugues": "Sovi"
+    },
+    {
+        "nm_cientifico": "Circus cinereus",
+        "nm_portugues": "Gavião-cinza"
+    },
+    {
+        "nm_cientifico": "Circus buffoni",
+        "nm_portugues": "Gavião-do-banhado"
+    },
+    {
+        "nm_cientifico": "Hieraspiza superciliosa",
+        "nm_portugues": "Tauató-passarinho"
+    },
+    {
+        "nm_cientifico": "Accipiter poliogaster",
+        "nm_portugues": "Tauató-pintado"
+    },
+    {
+        "nm_cientifico": "Accipiter striatus",
+        "nm_portugues": "Tauató-miúdo"
+    },
+    {
+        "nm_cientifico": "Accipiter bicolor",
+        "nm_portugues": "Gavião-bombachinha-grande"
+    },
+    {
+        "nm_cientifico": "Milvus migrans",
+        "nm_portugues": "Milhafre-preto"
+    },
+    {
+        "nm_cientifico": "Geranospiza caerulescens",
+        "nm_portugues": "Gavião-pernilongo"
+    },
+    {
+        "nm_cientifico": "Buteogallus schistaceus",
+        "nm_portugues": "Gavião-azul"
+    },
+    {
+        "nm_cientifico": "Buteogallus aequinoctialis",
+        "nm_portugues": "Gavião-caranguejeiro"
+    },
+    {
+        "nm_cientifico": "Heterospizias meridionalis",
+        "nm_portugues": "Gavião-caboclo"
+    },
+    {
+        "nm_cientifico": "Amadonastur lacernulatus",
+        "nm_portugues": "Gavião-pombo-pequeno"
+    },
+    {
+        "nm_cientifico": "Urubitinga urubitinga",
+        "nm_portugues": "Gavião-preto"
+    },
+    {
+        "nm_cientifico": "Urubitinga solitaria",
+        "nm_portugues": "Águia-solitária"
+    },
+    {
+        "nm_cientifico": "Urubitinga coronata",
+        "nm_portugues": "Águia-cinzenta"
+    },
+    {
+        "nm_cientifico": "Rupornis magnirostris",
+        "nm_portugues": "Gavião-carijó"
+    },
+    {
+        "nm_cientifico": "Parabuteo unicinctus",
+        "nm_portugues": "Gavião-asa-de-telha"
+    },
+    {
+        "nm_cientifico": "Parabuteo leucorrhous",
+        "nm_portugues": "Gavião-de-sobre-branco"
+    },
+    {
+        "nm_cientifico": "Geranoaetus albicaudatus",
+        "nm_portugues": "Gavião-de-rabo-branco"
+    },
+    {
+        "nm_cientifico": "Geranoaetus melanoleucus",
+        "nm_portugues": "Águia-serrana"
+    },
+    {
+        "nm_cientifico": "Pseudastur albicollis",
+        "nm_portugues": "Gavião-branco"
+    },
+    {
+        "nm_cientifico": "Pseudastur polionotus",
+        "nm_portugues": "Gavião-pombo-grande"
+    },
+    {
+        "nm_cientifico": "Leucopternis melanops",
+        "nm_portugues": "Gavião-de-cara-preta"
+    },
+    {
+        "nm_cientifico": "Leucopternis kuhli",
+        "nm_portugues": "Gavião-vaqueiro"
+    },
+    {
+        "nm_cientifico": "Buteo nitidus",
+        "nm_portugues": "Gavião-pedrês"
+    },
+    {
+        "nm_cientifico": "Buteo platypterus",
+        "nm_portugues": "Gavião-de-asa-larga"
+    },
+    {
+        "nm_cientifico": "Buteo brachyurus",
+        "nm_portugues": "Gavião-de-cauda-curta"
+    },
+    {
+        "nm_cientifico": "Buteo swainsoni",
+        "nm_portugues": "Gavião-papa-gafanhoto"
+    },
+    {
+        "nm_cientifico": "Buteo albonotatus",
+        "nm_portugues": "Gavião-urubu"
+    },
+    {
+        "nm_cientifico": "Aramus guarauna",
+        "nm_portugues": "Carão"
+    },
+    {
+        "nm_cientifico": "Psophia napensis",
+        "nm_portugues": "Jacamim-do-napo"
+    },
+    {
+        "nm_cientifico": "Psophia crepitans",
+        "nm_portugues": "Jacamim-de-costas-cinzentas"
+    },
+    {
+        "nm_cientifico": "Psophia ochroptera",
+        "nm_portugues": "Jacamim-de-costas-amarelas"
+    },
+    {
+        "nm_cientifico": "Psophia leucoptera",
+        "nm_portugues": "Jacamim-de-costas-brancas"
+    },
+    {
+        "nm_cientifico": "Psophia viridis",
+        "nm_portugues": "Jacamim-de-costas-verdes"
+    },
+    {
+        "nm_cientifico": "Psophia dextralis",
+        "nm_portugues": "Jacamim-de-costas-marrons"
+    },
+    {
+        "nm_cientifico": "Psophia interjecta",
+        "nm_portugues": "Jacamim-do-xingu"
+    },
+    {
+        "nm_cientifico": "Psophia obscura",
+        "nm_portugues": "Jacamim-de-costas-escuras"
+    },
+    {
+        "nm_cientifico": "Crex crex",
+        "nm_portugues": "Codornizão"
+    },
+    {
+        "nm_cientifico": "Rallus longirostris",
+        "nm_portugues": "Saracura-matraca"
+    },
+    {
+        "nm_cientifico": "Porphyrio martinica",
+        "nm_portugues": "Frango-d'água-azul"
+    },
+    {
+        "nm_cientifico": "Porphyrio alleni",
+        "nm_portugues": "Frango-d'água-africano"
+    },
+    {
+        "nm_cientifico": "Porphyrio flavirostris",
+        "nm_portugues": "Frango-d'água-pequeno"
+    },
+    {
+        "nm_cientifico": "Anurolimnas castaneiceps",
+        "nm_portugues": "Sanã-de-cabeça-castanha"
+    },
+    {
+        "nm_cientifico": "Rufirallus viridis",
+        "nm_portugues": "Sanã-castanha"
+    },
+    {
+        "nm_cientifico": "Laterallus fasciatus",
+        "nm_portugues": "Sanã-zebrada"
+    },
+    {
+        "nm_cientifico": "Laterallus flaviventer",
+        "nm_portugues": "Sanã-amarela"
+    },
+    {
+        "nm_cientifico": "Laterallus melanophaius",
+        "nm_portugues": "Sanã-parda"
+    },
+    {
+        "nm_cientifico": "Laterallus exilis",
+        "nm_portugues": "Sanã-do-capim"
+    },
+    {
+        "nm_cientifico": "Laterallus jamaicensis",
+        "nm_portugues": "Sanã-preta"
+    },
+    {
+        "nm_cientifico": "Laterallus spilopterus",
+        "nm_portugues": "Sanã-cinza"
+    },
+    {
+        "nm_cientifico": "Laterallus leucopyrrhus",
+        "nm_portugues": "Sanã-vermelha"
+    },
+    {
+        "nm_cientifico": "Laterallus xenopterus",
+        "nm_portugues": "Sanã-de-cara-ruiva"
+    },
+    {
+        "nm_cientifico": "Coturnicops notatus",
+        "nm_portugues": "Pinto-d'água-carijó"
+    },
+    {
+        "nm_cientifico": "Micropygia schomburgkii",
+        "nm_portugues": "Maxalalagá"
+    },
+    {
+        "nm_cientifico": "Mustelirallus albicollis",
+        "nm_portugues": "Sanã-carijó"
+    },
+    {
+        "nm_cientifico": "Neocrex erythrops",
+        "nm_portugues": "Turu-turu"
+    },
+    {
+        "nm_cientifico": "Pardirallus maculatus",
+        "nm_portugues": "Saracura-carijó"
+    },
+    {
+        "nm_cientifico": "Pardirallus nigricans",
+        "nm_portugues": "Saracura-sanã"
+    },
+    {
+        "nm_cientifico": "Pardirallus sanguinolentus",
+        "nm_portugues": "Saracura-do-banhado"
+    },
+    {
+        "nm_cientifico": "Amaurolimnas concolor",
+        "nm_portugues": "Saracura-lisa"
+    },
+    {
+        "nm_cientifico": "Aramides ypecaha",
+        "nm_portugues": "Saracuruçu"
+    },
+    {
+        "nm_cientifico": "Aramides mangle",
+        "nm_portugues": "Saracura-do-mangue"
+    },
+    {
+        "nm_cientifico": "Aramides cajaneus",
+        "nm_portugues": "Saracura-três-potes"
+    },
+    {
+        "nm_cientifico": "Aramides calopterus",
+        "nm_portugues": "Saracura-de-asa-vermelha"
+    },
+    {
+        "nm_cientifico": "Aramides saracura",
+        "nm_portugues": "Saracura-do-mato"
+    },
+    {
+        "nm_cientifico": "Porphyriops melanops",
+        "nm_portugues": "Galinha-d'água-carijó"
+    },
+    {
+        "nm_cientifico": "Porzana carolina",
+        "nm_portugues": "Sora"
+    },
+    {
+        "nm_cientifico": "Paragallinula angulata",
+        "nm_portugues": "Galinha-d'água-pequena"
+    },
+    {
+        "nm_cientifico": "Gallinula galeata",
+        "nm_portugues": "Galinha-d'água"
+    },
+    {
+        "nm_cientifico": "Fulica rufifrons",
+        "nm_portugues": "Carqueja-de-escudo-vermelho"
+    },
+    {
+        "nm_cientifico": "Fulica armillata",
+        "nm_portugues": "Carqueja-de-bico-manchado"
+    },
+    {
+        "nm_cientifico": "Fulica leucoptera",
+        "nm_portugues": "Carqueja-de-bico-amarelo"
+    },
+    {
+        "nm_cientifico": "Heliornis fulica",
+        "nm_portugues": "Picaparra"
+    },
+    {
+        "nm_cientifico": "Pluvialis dominica",
+        "nm_portugues": "Batuiruçu"
+    },
+    {
+        "nm_cientifico": "Pluvialis squatarola",
+        "nm_portugues": "Batuiruçu-de-axila-preta"
+    },
+    {
+        "nm_cientifico": "Oreopholus ruficollis",
+        "nm_portugues": "Batuíra-de-papo-ferrugíneo"
+    },
+    {
+        "nm_cientifico": "Vanellus cayanus",
+        "nm_portugues": "Mexeriqueira"
+    },
+    {
+        "nm_cientifico": "Vanellus chilensis",
+        "nm_portugues": "Quero-quero"
+    },
+    {
+        "nm_cientifico": "Charadrius semipalmatus",
+        "nm_portugues": "Batuíra-de-bando"
+    },
+    {
+        "nm_cientifico": "Charadrius wilsonia",
+        "nm_portugues": "Batuíra-bicuda"
+    },
+    {
+        "nm_cientifico": "Charadrius collaris",
+        "nm_portugues": "Batuíra-de-coleira"
+    },
+    {
+        "nm_cientifico": "Charadrius falklandicus",
+        "nm_portugues": "Batuíra-de-coleira-dupla"
+    },
+    {
+        "nm_cientifico": "Haematopus palliatus",
+        "nm_portugues": "Piru-piru"
+    },
+    {
+        "nm_cientifico": "Himantopus mexicanus",
+        "nm_portugues": "Pernilongo-de-costas-negras"
+    },
+    {
+        "nm_cientifico": "Himantopus melanurus",
+        "nm_portugues": "Pernilongo-de-costas-brancas"
+    },
+    {
+        "nm_cientifico": "Burhinus bistriatus",
+        "nm_portugues": "Téu-téu-da-savana"
+    },
+    {
+        "nm_cientifico": "Chionis albus",
+        "nm_portugues": "Pomba-antártica"
+    },
+    {
+        "nm_cientifico": "Bartramia longicauda",
+        "nm_portugues": "Maçarico-do-campo"
+    },
+    {
+        "nm_cientifico": "Numenius borealis",
+        "nm_portugues": "Maçarico-esquimó"
+    },
+    {
+        "nm_cientifico": "Numenius hudsonicus",
+        "nm_portugues": "Maçarico-de-bico-torto"
+    },
+    {
+        "nm_cientifico": "Numenius phaeopus",
+        "nm_portugues": "Maçarico-galego"
+    },
+    {
+        "nm_cientifico": "Limosa lapponica",
+        "nm_portugues": "Fuselo"
+    },
+    {
+        "nm_cientifico": "Limosa haemastica",
+        "nm_portugues": "Maçarico-de-bico-virado"
+    },
+    {
+        "nm_cientifico": "Limosa fedoa",
+        "nm_portugues": "Maçarico-marmóreo"
+    },
+    {
+        "nm_cientifico": "Arenaria interpres",
+        "nm_portugues": "Vira-pedras"
+    },
+    {
+        "nm_cientifico": "Calidris canutus",
+        "nm_portugues": "Maçarico-de-papo-vermelho"
+    },
+    {
+        "nm_cientifico": "Calidris pugnax",
+        "nm_portugues": "Combatente"
+    },
+    {
+        "nm_cientifico": "Calidris himantopus",
+        "nm_portugues": "Maçarico-pernilongo"
+    },
+    {
+        "nm_cientifico": "Calidris ferruginea",
+        "nm_portugues": "Maçarico-de-bico-curvo"
+    },
+    {
+        "nm_cientifico": "Calidris alba",
+        "nm_portugues": "Maçarico-branco"
+    },
+    {
+        "nm_cientifico": "Calidris bairdii",
+        "nm_portugues": "Maçarico-de-bico-fino"
+    },
+    {
+        "nm_cientifico": "Calidris minuta",
+        "nm_portugues": "Maçarico-pequeno"
+    },
+    {
+        "nm_cientifico": "Calidris minutilla",
+        "nm_portugues": "Maçariquinho"
+    },
+    {
+        "nm_cientifico": "Calidris fuscicollis",
+        "nm_portugues": "Maçarico-de-sobre-branco"
+    },
+    {
+        "nm_cientifico": "Calidris subruficollis",
+        "nm_portugues": "Maçarico-acanelado"
+    },
+    {
+        "nm_cientifico": "Calidris melanotos",
+        "nm_portugues": "Maçarico-de-colete"
+    },
+    {
+        "nm_cientifico": "Calidris pusilla",
+        "nm_portugues": "Maçarico-rasteirinho"
+    },
+    {
+        "nm_cientifico": "Calidris mauri",
+        "nm_portugues": "Maçarico-do-alasca"
+    },
+    {
+        "nm_cientifico": "Limnodromus griseus",
+        "nm_portugues": "Maçarico-de-costas-brancas"
+    },
+    {
+        "nm_cientifico": "Gallinago undulata",
+        "nm_portugues": "Narcejão"
+    },
+    {
+        "nm_cientifico": "Gallinago paraguaiae",
+        "nm_portugues": "Narceja"
+    },
+    {
+        "nm_cientifico": "Phalaropus tricolor",
+        "nm_portugues": "Pisa-n'água"
+    },
+    {
+        "nm_cientifico": "Phalaropus lobatus",
+        "nm_portugues": "Pisa-n'água-de-pescoço-vermelho"
+    },
+    {
+        "nm_cientifico": "Phalaropus fulicarius",
+        "nm_portugues": "Pisa-n'água-de-bico-grosso"
+    },
+    {
+        "nm_cientifico": "Xenus cinereus",
+        "nm_portugues": "Maçarico-tereque"
+    },
+    {
+        "nm_cientifico": "Actitis macularius",
+        "nm_portugues": "Maçarico-pintado"
+    },
+    {
+        "nm_cientifico": "Tringa solitaria",
+        "nm_portugues": "Maçarico-solitário"
+    },
+    {
+        "nm_cientifico": "Tringa melanoleuca",
+        "nm_portugues": "Maçarico-grande-de-perna-amarela"
+    },
+    {
+        "nm_cientifico": "Tringa semipalmata",
+        "nm_portugues": "Maçarico-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Tringa flavipes",
+        "nm_portugues": "Maçarico-de-perna-amarela"
+    },
+    {
+        "nm_cientifico": "Tringa totanus",
+        "nm_portugues": "Maçarico-de-perna-vermelha"
+    },
+    {
+        "nm_cientifico": "Tringa glareola",
+        "nm_portugues": "Maçarico-de-bico-curto"
+    },
+    {
+        "nm_cientifico": "Thinocorus rumicivorus",
+        "nm_portugues": "Agachadeira-mirim"
+    },
+    {
+        "nm_cientifico": "Jacana jacana",
+        "nm_portugues": "Jaçanã"
+    },
+    {
+        "nm_cientifico": "Nycticryphes semicollaris",
+        "nm_portugues": "Narceja-de-bico-torto"
+    },
+    {
+        "nm_cientifico": "Glareola pratincola",
+        "nm_portugues": "Perdiz-do-mar"
+    },
+    {
+        "nm_cientifico": "Stercorarius skua",
+        "nm_portugues": "Mandrião-grande"
+    },
+    {
+        "nm_cientifico": "Stercorarius chilensis",
+        "nm_portugues": "Mandrião-chileno"
+    },
+    {
+        "nm_cientifico": "Stercorarius maccormicki",
+        "nm_portugues": "Mandrião-do-sul"
+    },
+    {
+        "nm_cientifico": "Stercorarius antarcticus",
+        "nm_portugues": "Mandrião-antártico"
+    },
+    {
+        "nm_cientifico": "Stercorarius pomarinus",
+        "nm_portugues": "Mandrião-pomarino"
+    },
+    {
+        "nm_cientifico": "Stercorarius parasiticus",
+        "nm_portugues": "Mandrião-parasítico"
+    },
+    {
+        "nm_cientifico": "Stercorarius longicaudus",
+        "nm_portugues": "Mandrião-de-cauda-comprida"
+    },
+    {
+        "nm_cientifico": "Xema sabini",
+        "nm_portugues": "Gaivota-de-sabine"
+    },
+    {
+        "nm_cientifico": "Chroicocephalus maculipennis",
+        "nm_portugues": "Gaivota-maria-velha"
+    },
+    {
+        "nm_cientifico": "Chroicocephalus cirrocephalus",
+        "nm_portugues": "Gaivota-de-cabeça-cinza"
+    },
+    {
+        "nm_cientifico": "Chroicocephalus ridibundus",
+        "nm_portugues": "Gaivota-de-capuz-escuro"
+    },
+    {
+        "nm_cientifico": "Leucophaeus modestus",
+        "nm_portugues": "Gaivota-cinzenta"
+    },
+    {
+        "nm_cientifico": "Leucophaeus atricilla",
+        "nm_portugues": "Gaivota-alegre"
+    },
+    {
+        "nm_cientifico": "Leucophaeus pipixcan",
+        "nm_portugues": "Gaivota-de-franklin"
+    },
+    {
+        "nm_cientifico": "Larus atlanticus",
+        "nm_portugues": "Gaivota-de-rabo-preto"
+    },
+    {
+        "nm_cientifico": "Larus delawarensis",
+        "nm_portugues": "Gaivota-de-bico-manchado"
+    },
+    {
+        "nm_cientifico": "Larus dominicanus",
+        "nm_portugues": "Gaivotão"
+    },
+    {
+        "nm_cientifico": "Larus fuscus",
+        "nm_portugues": "Gaivota-da-asa-escura"
+    },
+    {
+        "nm_cientifico": "Anous stolidus",
+        "nm_portugues": "Trinta-réis-escuro"
+    },
+    {
+        "nm_cientifico": "Anous minutus",
+        "nm_portugues": "Trinta-réis-preto"
+    },
+    {
+        "nm_cientifico": "Gygis alba",
+        "nm_portugues": "Grazina"
+    },
+    {
+        "nm_cientifico": "Rynchops niger",
+        "nm_portugues": "Talha-mar"
+    },
+    {
+        "nm_cientifico": "Onychoprion fuscatus",
+        "nm_portugues": "Trinta-réis-das-rocas"
+    },
+    {
+        "nm_cientifico": "Sternula antillarum",
+        "nm_portugues": "Trinta-réis-miúdo"
+    },
+    {
+        "nm_cientifico": "Sternula superciliaris",
+        "nm_portugues": "Trinta-réis-pequeno"
+    },
+    {
+        "nm_cientifico": "Phaetusa simplex",
+        "nm_portugues": "Trinta-réis-grande"
+    },
+    {
+        "nm_cientifico": "Gelochelidon nilotica",
+        "nm_portugues": "Trinta-réis-de-bico-preto"
+    },
+    {
+        "nm_cientifico": "Chlidonias niger",
+        "nm_portugues": "Trinta-réis-negro"
+    },
+    {
+        "nm_cientifico": "Chlidonias leucopterus",
+        "nm_portugues": "Trinta-réis-negro-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Sterna hirundo",
+        "nm_portugues": "Trinta-réis-boreal"
+    },
+    {
+        "nm_cientifico": "Sterna dougallii",
+        "nm_portugues": "Trinta-réis-róseo"
+    },
+    {
+        "nm_cientifico": "Sterna paradisaea",
+        "nm_portugues": "Trinta-réis-ártico"
+    },
+    {
+        "nm_cientifico": "Sterna hirundinacea",
+        "nm_portugues": "Trinta-réis-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Sterna vittata",
+        "nm_portugues": "Trinta-réis-antártico"
+    },
+    {
+        "nm_cientifico": "Sterna trudeaui",
+        "nm_portugues": "Trinta-réis-de-coroa-branca"
+    },
+    {
+        "nm_cientifico": "Thalasseus acuflavidus",
+        "nm_portugues": "Trinta-réis-de-bando"
+    },
+    {
+        "nm_cientifico": "Thalasseus maximus",
+        "nm_portugues": "Trinta-réis-real"
+    },
+    {
+        "nm_cientifico": "Columba livia",
+        "nm_portugues": "Pombo-doméstico"
+    },
+    {
+        "nm_cientifico": "Patagioenas speciosa",
+        "nm_portugues": "Pomba-trocal"
+    },
+    {
+        "nm_cientifico": "Patagioenas picazuro",
+        "nm_portugues": "Pomba-asa-branca"
+    },
+    {
+        "nm_cientifico": "Patagioenas maculosa",
+        "nm_portugues": "Pomba-do-orvalho"
+    },
+    {
+        "nm_cientifico": "Patagioenas fasciata",
+        "nm_portugues": "Pomba-de-coleira"
+    },
+    {
+        "nm_cientifico": "Patagioenas cayennensis",
+        "nm_portugues": "Pomba-galega"
+    },
+    {
+        "nm_cientifico": "Patagioenas plumbea",
+        "nm_portugues": "Pomba-amargosa"
+    },
+    {
+        "nm_cientifico": "Patagioenas subvinacea",
+        "nm_portugues": "Pomba-botafogo"
+    },
+    {
+        "nm_cientifico": "Geotrygon saphirina",
+        "nm_portugues": "Juriti-safira"
+    },
+    {
+        "nm_cientifico": "Geotrygon montana",
+        "nm_portugues": "Pariri"
+    },
+    {
+        "nm_cientifico": "Geotrygon violacea",
+        "nm_portugues": "Juriti-vermelha"
+    },
+    {
+        "nm_cientifico": "Leptotila verreauxi",
+        "nm_portugues": "Juriti-pupu"
+    },
+    {
+        "nm_cientifico": "Leptotila rufaxilla",
+        "nm_portugues": "Juriti-de-testa-branca"
+    },
+    {
+        "nm_cientifico": "Zenaida auriculata",
+        "nm_portugues": "Avoante"
+    },
+    {
+        "nm_cientifico": "Claravis pretiosa",
+        "nm_portugues": "Pararu-azul"
+    },
+    {
+        "nm_cientifico": "Uropelia campestris",
+        "nm_portugues": "Rolinha-vaqueira"
+    },
+    {
+        "nm_cientifico": "Paraclaravis geoffroyi",
+        "nm_portugues": "Pararu-espelho"
+    },
+    {
+        "nm_cientifico": "Columbina passerina",
+        "nm_portugues": "Rolinha-cinzenta"
+    },
+    {
+        "nm_cientifico": "Columbina minuta",
+        "nm_portugues": "Rolinha-de-asa-canela"
+    },
+    {
+        "nm_cientifico": "Columbina talpacoti",
+        "nm_portugues": "Rolinha-roxa"
+    },
+    {
+        "nm_cientifico": "Columbina squammata",
+        "nm_portugues": "Fogo-apagou"
+    },
+    {
+        "nm_cientifico": "Columbina picui",
+        "nm_portugues": "Rolinha-picui"
+    },
+    {
+        "nm_cientifico": "Columbina cyanopis",
+        "nm_portugues": "Rolinha-do-planalto"
+    },
+    {
+        "nm_cientifico": "Opisthocomus hoazin",
+        "nm_portugues": "Cigana"
+    },
+    {
+        "nm_cientifico": "Guira guira",
+        "nm_portugues": "Anu-branco"
+    },
+    {
+        "nm_cientifico": "Crotophaga major",
+        "nm_portugues": "Anu-coroca"
+    },
+    {
+        "nm_cientifico": "Crotophaga ani",
+        "nm_portugues": "Anu-preto"
+    },
+    {
+        "nm_cientifico": "Tapera naevia",
+        "nm_portugues": "Saci"
+    },
+    {
+        "nm_cientifico": "Dromococcyx phasianellus",
+        "nm_portugues": "Peixe-frito"
+    },
+    {
+        "nm_cientifico": "Dromococcyx pavoninus",
+        "nm_portugues": "Peixe-frito-pavonino"
+    },
+    {
+        "nm_cientifico": "Neomorphus geoffroyi",
+        "nm_portugues": "Jacu-estalo"
+    },
+    {
+        "nm_cientifico": "Neomorphus squamiger",
+        "nm_portugues": "Jacu-estalo-escamoso"
+    },
+    {
+        "nm_cientifico": "Neomorphus rufipennis",
+        "nm_portugues": "Jacu-estalo-de-asa-vermelha"
+    },
+    {
+        "nm_cientifico": "Neomorphus pucheranii",
+        "nm_portugues": "Jacu-estalo-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Coccycua minuta",
+        "nm_portugues": "Chincoã-pequeno"
+    },
+    {
+        "nm_cientifico": "Micrococcyx pumilus",
+        "nm_portugues": "Papa-lagarta-de-papo-ferrugem"
+    },
+    {
+        "nm_cientifico": "Micrococcyx cinereus",
+        "nm_portugues": "Papa-lagarta-cinzento"
+    },
+    {
+        "nm_cientifico": "Piaya cayana",
+        "nm_portugues": "Alma-de-gato"
+    },
+    {
+        "nm_cientifico": "Piaya melanogaster",
+        "nm_portugues": "Chincoã-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Coccyzus melacoryphus",
+        "nm_portugues": "Papa-lagarta-acanelado"
+    },
+    {
+        "nm_cientifico": "Coccyzus americanus",
+        "nm_portugues": "Papa-lagarta-de-asa-vermelha"
+    },
+    {
+        "nm_cientifico": "Coccyzus euleri",
+        "nm_portugues": "Papa-lagarta-de-euler"
+    },
+    {
+        "nm_cientifico": "Coccyzus minor",
+        "nm_portugues": "Papa-lagarta-do-mangue"
+    },
+    {
+        "nm_cientifico": "Cuculus canorus",
+        "nm_portugues": "Cuco-canoro"
+    },
+    {
+        "nm_cientifico": "Tyto furcata",
+        "nm_portugues": "Suindara"
+    },
+    {
+        "nm_cientifico": "Megascops choliba",
+        "nm_portugues": "Corujinha-do-mato"
+    },
+    {
+        "nm_cientifico": "Megascops roraimae",
+        "nm_portugues": "Corujinha-de-roraima"
+    },
+    {
+        "nm_cientifico": "Megascops sanctaecatarinae",
+        "nm_portugues": "Corujinha-do-sul"
+    },
+    {
+        "nm_cientifico": "Megascops watsonii",
+        "nm_portugues": "Corujinha-das-guianas"
+    },
+    {
+        "nm_cientifico": "Megascops usta",
+        "nm_portugues": "Corujinha-relógio"
+    },
+    {
+        "nm_cientifico": "Megascops atricapilla",
+        "nm_portugues": "Corujinha-sapo"
+    },
+    {
+        "nm_cientifico": "Lophostrix cristata",
+        "nm_portugues": "Coruja-de-crista"
+    },
+    {
+        "nm_cientifico": "Pulsatrix perspicillata",
+        "nm_portugues": "Murucututu"
+    },
+    {
+        "nm_cientifico": "Pulsatrix koeniswaldiana",
+        "nm_portugues": "Murucututu-de-barriga-amarela"
+    },
+    {
+        "nm_cientifico": "Bubo virginianus",
+        "nm_portugues": "Jacurutu"
+    },
+    {
+        "nm_cientifico": "Strix hylophila",
+        "nm_portugues": "Coruja-listrada"
+    },
+    {
+        "nm_cientifico": "Strix virgata",
+        "nm_portugues": "Coruja-do-mato"
+    },
+    {
+        "nm_cientifico": "Strix huhula",
+        "nm_portugues": "Coruja-preta"
+    },
+    {
+        "nm_cientifico": "Glaucidium hardyi",
+        "nm_portugues": "Caburé-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Glaucidium mooreorum",
+        "nm_portugues": "Caburé-de-pernambuco"
+    },
+    {
+        "nm_cientifico": "Glaucidium minutissimum",
+        "nm_portugues": "Caburé-miudinho"
+    },
+    {
+        "nm_cientifico": "Glaucidium brasilianum",
+        "nm_portugues": "Caburé"
+    },
+    {
+        "nm_cientifico": "Athene cunicularia",
+        "nm_portugues": "Coruja-buraqueira"
+    },
+    {
+        "nm_cientifico": "Aegolius harrisii",
+        "nm_portugues": "Caburé-acanelado"
+    },
+    {
+        "nm_cientifico": "Asio clamator",
+        "nm_portugues": "Coruja-orelhuda"
+    },
+    {
+        "nm_cientifico": "Asio stygius",
+        "nm_portugues": "Mocho-diabo"
+    },
+    {
+        "nm_cientifico": "Asio flammeus",
+        "nm_portugues": "Mocho-dos-banhados"
+    },
+    {
+        "nm_cientifico": "Steatornis caripensis",
+        "nm_portugues": "Guácharo"
+    },
+    {
+        "nm_cientifico": "Phyllaemulor bracteatus",
+        "nm_portugues": "Urutau-ferrugem"
+    },
+    {
+        "nm_cientifico": "Nyctibius grandis",
+        "nm_portugues": "Urutau-grande"
+    },
+    {
+        "nm_cientifico": "Nyctibius aethereus",
+        "nm_portugues": "Urutau-pardo"
+    },
+    {
+        "nm_cientifico": "Nyctibius griseus",
+        "nm_portugues": "Urutau"
+    },
+    {
+        "nm_cientifico": "Nyctibius leucopterus",
+        "nm_portugues": "Urutau-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Nyctiphrynus ocellatus",
+        "nm_portugues": "Bacurau-ocelado"
+    },
+    {
+        "nm_cientifico": "Antrostomus rufus",
+        "nm_portugues": "João-corta-pau"
+    },
+    {
+        "nm_cientifico": "Antrostomus sericocaudatus",
+        "nm_portugues": "Bacurau-rabo-de-seda"
+    },
+    {
+        "nm_cientifico": "Lurocalis semitorquatus",
+        "nm_portugues": "Tuju"
+    },
+    {
+        "nm_cientifico": "Nyctiprogne leucopyga",
+        "nm_portugues": "Bacurau-de-cauda-barrada"
+    },
+    {
+        "nm_cientifico": "Nyctiprogne vielliardi",
+        "nm_portugues": "Bacurau-do-são-francisco"
+    },
+    {
+        "nm_cientifico": "Nyctidromus nigrescens",
+        "nm_portugues": "Bacurau-de-lajeado"
+    },
+    {
+        "nm_cientifico": "Nyctidromus albicollis",
+        "nm_portugues": "Bacurau"
+    },
+    {
+        "nm_cientifico": "Nyctidromus hirundinaceus",
+        "nm_portugues": "Bacurauzinho-da-caatinga"
+    },
+    {
+        "nm_cientifico": "Hydropsalis parvula",
+        "nm_portugues": "Bacurau-chintã"
+    },
+    {
+        "nm_cientifico": "Hydropsalis whitelyi",
+        "nm_portugues": "Bacurau-dos-tepuis"
+    },
+    {
+        "nm_cientifico": "Hydropsalis anomala",
+        "nm_portugues": "Curiango-do-banhado"
+    },
+    {
+        "nm_cientifico": "Hydropsalis candicans",
+        "nm_portugues": "Bacurau-de-rabo-branco"
+    },
+    {
+        "nm_cientifico": "Hydropsalis longirostris",
+        "nm_portugues": "Bacurau-da-telha"
+    },
+    {
+        "nm_cientifico": "Hydropsalis maculicaudus",
+        "nm_portugues": "Bacurau-de-rabo-maculado"
+    },
+    {
+        "nm_cientifico": "Hydropsalis cayennensis",
+        "nm_portugues": "Bacurau-de-cauda-branca"
+    },
+    {
+        "nm_cientifico": "Hydropsalis climacocerca",
+        "nm_portugues": "Acurana"
+    },
+    {
+        "nm_cientifico": "Hydropsalis torquata",
+        "nm_portugues": "Bacurau-tesoura"
+    },
+    {
+        "nm_cientifico": "Hydropsalis forcipata",
+        "nm_portugues": "Bacurau-tesourão"
+    },
+    {
+        "nm_cientifico": "Nannochordeiles pusillus",
+        "nm_portugues": "Bacurauzinho"
+    },
+    {
+        "nm_cientifico": "Podager nacunda",
+        "nm_portugues": "Corucão"
+    },
+    {
+        "nm_cientifico": "Chordeiles minor",
+        "nm_portugues": "Bacurau-norte-americano"
+    },
+    {
+        "nm_cientifico": "Chordeiles gundlachii",
+        "nm_portugues": "Bacurau-das-antilhas"
+    },
+    {
+        "nm_cientifico": "Chordeiles rupestris",
+        "nm_portugues": "Bacurau-da-praia"
+    },
+    {
+        "nm_cientifico": "Chordeiles acutipennis",
+        "nm_portugues": "Bacurau-de-asa-fina"
+    },
+    {
+        "nm_cientifico": "Cypseloides cryptus",
+        "nm_portugues": "Taperuçu-de-mento-branco"
+    },
+    {
+        "nm_cientifico": "Cypseloides niger",
+        "nm_portugues": "Taperuçu-escuro"
+    },
+    {
+        "nm_cientifico": "Cypseloides fumigatus",
+        "nm_portugues": "Taperuçu-preto"
+    },
+    {
+        "nm_cientifico": "Cypseloides lemosi",
+        "nm_portugues": "Taperuçu-de-peito-branco"
+    },
+    {
+        "nm_cientifico": "Cypseloides senex",
+        "nm_portugues": "Taperuçu-velho"
+    },
+    {
+        "nm_cientifico": "Streptoprocne phelpsi",
+        "nm_portugues": "Taperuçu-dos-tepuis"
+    },
+    {
+        "nm_cientifico": "Streptoprocne zonaris",
+        "nm_portugues": "Taperuçu-de-coleira-branca"
+    },
+    {
+        "nm_cientifico": "Streptoprocne biscutata",
+        "nm_portugues": "Taperuçu-de-coleira-falha"
+    },
+    {
+        "nm_cientifico": "Chaetura cinereiventris",
+        "nm_portugues": "Andorinhão-de-sobre-cinzento"
+    },
+    {
+        "nm_cientifico": "Chaetura spinicaudus",
+        "nm_portugues": "Andorinhão-de-sobre-branco"
+    },
+    {
+        "nm_cientifico": "Chaetura egregia",
+        "nm_portugues": "Taperá-de-garganta-branca"
+    },
+    {
+        "nm_cientifico": "Chaetura pelagica",
+        "nm_portugues": "Andorinhão-peregrino"
+    },
+    {
+        "nm_cientifico": "Chaetura chapmani",
+        "nm_portugues": "Andorinhão-de-chapman"
+    },
+    {
+        "nm_cientifico": "Chaetura meridionalis",
+        "nm_portugues": "Andorinhão-do-temporal"
+    },
+    {
+        "nm_cientifico": "Chaetura brachyura",
+        "nm_portugues": "Andorinhão-de-rabo-curto"
+    },
+    {
+        "nm_cientifico": "Aeronautes montivagus",
+        "nm_portugues": "Andorinhão-serrano"
+    },
+    {
+        "nm_cientifico": "Tachornis squamata",
+        "nm_portugues": "Andorinhão-do-buriti"
+    },
+    {
+        "nm_cientifico": "Panyptila cayennensis",
+        "nm_portugues": "Andorinhão-estofador"
+    },
+    {
+        "nm_cientifico": "Topaza pella",
+        "nm_portugues": "Beija-flor-brilho-de-fogo"
+    },
+    {
+        "nm_cientifico": "Topaza pyra",
+        "nm_portugues": "Topázio-de-fogo"
+    },
+    {
+        "nm_cientifico": "Florisuga mellivora",
+        "nm_portugues": "Beija-flor-azul-de-rabo-branco"
+    },
+    {
+        "nm_cientifico": "Florisuga fusca",
+        "nm_portugues": "Beija-flor-preto"
+    },
+    {
+        "nm_cientifico": "Ramphodon naevius",
+        "nm_portugues": "Beija-flor-rajado"
+    },
+    {
+        "nm_cientifico": "Glaucis dohrnii",
+        "nm_portugues": "Balança-rabo-canela"
+    },
+    {
+        "nm_cientifico": "Glaucis hirsutus",
+        "nm_portugues": "Balança-rabo-de-bico-torto"
+    },
+    {
+        "nm_cientifico": "Threnetes leucurus",
+        "nm_portugues": "Balança-rabo-de-garganta-preta"
+    },
+    {
+        "nm_cientifico": "Threnetes niger",
+        "nm_portugues": "Balança-rabo-escuro"
+    },
+    {
+        "nm_cientifico": "Anopetia gounellei",
+        "nm_portugues": "Rabo-branco-de-cauda-larga"
+    },
+    {
+        "nm_cientifico": "Phaethornis squalidus",
+        "nm_portugues": "Rabo-branco-pequeno"
+    },
+    {
+        "nm_cientifico": "Phaethornis rupurumii",
+        "nm_portugues": "Rabo-branco-do-rupununi"
+    },
+    {
+        "nm_cientifico": "Phaethornis aethopygus",
+        "nm_portugues": "Rabo-branco-do-tapajós"
+    },
+    {
+        "nm_cientifico": "Phaethornis idaliae",
+        "nm_portugues": "Rabo-branco-mirim"
+    },
+    {
+        "nm_cientifico": "Phaethornis nattereri",
+        "nm_portugues": "Besourão-de-sobre-amarelo"
+    },
+    {
+        "nm_cientifico": "Phaethornis griseogularis",
+        "nm_portugues": "Rabo-branco-de-garganta-cinza"
+    },
+    {
+        "nm_cientifico": "Phaethornis ruber",
+        "nm_portugues": "Rabo-branco-rubro"
+    },
+    {
+        "nm_cientifico": "Phaethornis pretrei",
+        "nm_portugues": "Rabo-branco-acanelado"
+    },
+    {
+        "nm_cientifico": "Phaethornis eurynome",
+        "nm_portugues": "Rabo-branco-de-garganta-rajada"
+    },
+    {
+        "nm_cientifico": "Phaethornis malaris",
+        "nm_portugues": "Besourão-de-bico-grande"
+    },
+    {
+        "nm_cientifico": "Augastes scutatus",
+        "nm_portugues": "Beija-flor-de-gravata-verde"
+    },
+    {
+        "nm_cientifico": "Augastes lumachella",
+        "nm_portugues": "Beija-flor-de-gravata-vermelha"
+    },
+    {
+        "nm_cientifico": "Colibri delphinae",
+        "nm_portugues": "Beija-flor-marrom"
+    },
+    {
+        "nm_cientifico": "Colibri coruscans",
+        "nm_portugues": "Beija-flor-violeta"
+    },
+    {
+        "nm_cientifico": "Colibri serrirostris",
+        "nm_portugues": "Beija-flor-de-orelha-violeta"
+    },
+    {
+        "nm_cientifico": "Heliactin bilophus",
+        "nm_portugues": "Chifre-de-ouro"
+    },
+    {
+        "nm_cientifico": "Heliothryx auritus",
+        "nm_portugues": "Beija-flor-de-bochecha-azul"
+    },
+    {
+        "nm_cientifico": "Polytmus guainumbi",
+        "nm_portugues": "Beija-flor-de-bico-curvo"
+    },
+    {
+        "nm_cientifico": "Polytmus theresiae",
+        "nm_portugues": "Beija-flor-verde"
+    },
+    {
+        "nm_cientifico": "Avocettula recurvirostris",
+        "nm_portugues": "Beija-flor-de-bico-virado"
+    },
+    {
+        "nm_cientifico": "Chrysolampis mosquitus",
+        "nm_portugues": "Beija-flor-vermelho"
+    },
+    {
+        "nm_cientifico": "Anthracothorax viridigula",
+        "nm_portugues": "Beija-flor-de-veste-verde"
+    },
+    {
+        "nm_cientifico": "Anthracothorax nigricollis",
+        "nm_portugues": "Beija-flor-de-veste-preta"
+    },
+    {
+        "nm_cientifico": "Discosura langsdorffi",
+        "nm_portugues": "Rabo-de-espinho"
+    },
+    {
+        "nm_cientifico": "Discosura longicaudus",
+        "nm_portugues": "Bandeirinha"
+    },
+    {
+        "nm_cientifico": "Lophornis magnificus",
+        "nm_portugues": "Topetinho-vermelho"
+    },
+    {
+        "nm_cientifico": "Lophornis chalybeus",
+        "nm_portugues": "Topetinho-verde"
+    },
+    {
+        "nm_cientifico": "Lophornis pavoninus",
+        "nm_portugues": "Topetinho-pavão"
+    },
+    {
+        "nm_cientifico": "Heliodoxa xanthogonys",
+        "nm_portugues": "Brilhante-veludo"
+    },
+    {
+        "nm_cientifico": "Heliodoxa aurescens",
+        "nm_portugues": "Beija-flor-estrela"
+    },
+    {
+        "nm_cientifico": "Heliodoxa rubricauda",
+        "nm_portugues": "Beija-flor-rubi"
+    },
+    {
+        "nm_cientifico": "Heliomaster longirostris",
+        "nm_portugues": "Bico-reto-cinzento"
+    },
+    {
+        "nm_cientifico": "Heliomaster furcifer",
+        "nm_portugues": "Bico-reto-azul"
+    },
+    {
+        "nm_cientifico": "Calliphlox amethystina",
+        "nm_portugues": "Estrelinha-ametista"
+    },
+    {
+        "nm_cientifico": "Chlorostilbon mellisugus",
+        "nm_portugues": "Esmeralda-de-cauda-azul"
+    },
+    {
+        "nm_cientifico": "Chlorostilbon lucidus",
+        "nm_portugues": "Besourinho-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Stephanoxis lalandi",
+        "nm_portugues": "Beija-flor-de-topete-verde"
+    },
+    {
+        "nm_cientifico": "Campylopterus largipennis",
+        "nm_portugues": "Asa-de-sabre-da-guiana"
+    },
+    {
+        "nm_cientifico": "Campylopterus hyperythrus",
+        "nm_portugues": "Asa-de-sabre-canela"
+    },
+    {
+        "nm_cientifico": "Campylopterus duidae",
+        "nm_portugues": "Asa-de-sabre-de-peito-camurça"
+    },
+    {
+        "nm_cientifico": "Thalurania furcata",
+        "nm_portugues": "Beija-flor-tesoura-verde"
+    },
+    {
+        "nm_cientifico": "Thalurania watertonii",
+        "nm_portugues": "Beija-flor-de-costas-violeta"
+    },
+    {
+        "nm_cientifico": "Thalurania glaucopis",
+        "nm_portugues": "Beija-flor-de-fronte-violeta"
+    },
+    {
+        "nm_cientifico": "Eupetomena macroura",
+        "nm_portugues": "Beija-flor-tesoura"
+    },
+    {
+        "nm_cientifico": "Aphantochroa cirrochloris",
+        "nm_portugues": "Beija-flor-cinza"
+    },
+    {
+        "nm_cientifico": "Saucerottia viridigaster",
+        "nm_portugues": "Beija-flor-de-barriga-verde"
+    },
+    {
+        "nm_cientifico": "Chrysuronia versicolor",
+        "nm_portugues": "Beija-flor-de-banda-branca"
+    },
+    {
+        "nm_cientifico": "Chrysuronia oenone",
+        "nm_portugues": "Beija-flor-de-cauda-dourada"
+    },
+    {
+        "nm_cientifico": "Chrysuronia brevirostris",
+        "nm_portugues": "Beija-flor-de-bico-preto"
+    },
+    {
+        "nm_cientifico": "Chrysuronia leucogaster",
+        "nm_portugues": "Beija-flor-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Leucochloris albicollis",
+        "nm_portugues": "Beija-flor-de-papo-branco"
+    },
+    {
+        "nm_cientifico": "Chionomesa fimbriata",
+        "nm_portugues": "Beija-flor-de-garganta-verde"
+    },
+    {
+        "nm_cientifico": "Chionomesa lactea",
+        "nm_portugues": "Beija-flor-de-peito-azul"
+    },
+    {
+        "nm_cientifico": "Hylocharis sapphirina",
+        "nm_portugues": "Beija-flor-safira"
+    },
+    {
+        "nm_cientifico": "Hylocharis chrysura",
+        "nm_portugues": "Beija-flor-dourado"
+    },
+    {
+        "nm_cientifico": "Elliotomyia chionogaster",
+        "nm_portugues": "Beija-flor-verde-e-branco"
+    },
+    {
+        "nm_cientifico": "Chlorestes cyanus",
+        "nm_portugues": "Beija-flor-roxo"
+    },
+    {
+        "nm_cientifico": "Chlorestes notata",
+        "nm_portugues": "Beija-flor-de-garganta-azul"
+    },
+    {
+        "nm_cientifico": "Pharomachrus pavoninus",
+        "nm_portugues": "Quetzal-pavão"
+    },
+    {
+        "nm_cientifico": "Trogon melanurus",
+        "nm_portugues": "Surucuá-de-cauda-preta"
+    },
+    {
+        "nm_cientifico": "Trogon viridis",
+        "nm_portugues": "Surucuá-de-barriga-amarela"
+    },
+    {
+        "nm_cientifico": "Trogon ramonianus",
+        "nm_portugues": "Surucuá-pequeno"
+    },
+    {
+        "nm_cientifico": "Trogon surrucura",
+        "nm_portugues": "Surucuá-variado"
+    },
+    {
+        "nm_cientifico": "Trogon violaceus",
+        "nm_portugues": "Surucuá-violáceo"
+    },
+    {
+        "nm_cientifico": "Trogon curucui",
+        "nm_portugues": "Surucuá-de-barriga-vermelha"
+    },
+    {
+        "nm_cientifico": "Trogon rufus",
+        "nm_portugues": "Surucuá-dourado-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Trogon muriciensis",
+        "nm_portugues": "Surucuá-de-murici"
+    },
+    {
+        "nm_cientifico": "Trogon chrysochloros",
+        "nm_portugues": "Surucuá-dourado"
+    },
+    {
+        "nm_cientifico": "Trogon collaris",
+        "nm_portugues": "Surucuá-de-coleira"
+    },
+    {
+        "nm_cientifico": "Trogon personatus",
+        "nm_portugues": "Surucuá-mascarado"
+    },
+    {
+        "nm_cientifico": "Electron platyrhynchum",
+        "nm_portugues": "Udu-de-bico-largo"
+    },
+    {
+        "nm_cientifico": "Baryphthengus martii",
+        "nm_portugues": "Juruva-ruiva"
+    },
+    {
+        "nm_cientifico": "Baryphthengus ruficapillus",
+        "nm_portugues": "Juruva"
+    },
+    {
+        "nm_cientifico": "Momotus momota",
+        "nm_portugues": "udu-de-coroa-azul"
+    },
+    {
+        "nm_cientifico": "Megaceryle torquatus",
+        "nm_portugues": "Martim-pescador-grande"
+    },
+    {
+        "nm_cientifico": "Chloroceryle amazona",
+        "nm_portugues": "Martim-pescador-verde"
+    },
+    {
+        "nm_cientifico": "Chloroceryle aenea",
+        "nm_portugues": "Martim-pescador-miúdo"
+    },
+    {
+        "nm_cientifico": "Chloroceryle americana",
+        "nm_portugues": "Martim-pescador-pequeno"
+    },
+    {
+        "nm_cientifico": "Chloroceryle inda",
+        "nm_portugues": "Martim-pescador-da-mata"
+    },
+    {
+        "nm_cientifico": "Galbalcyrhynchus leucotis",
+        "nm_portugues": "Ariramba-vermelha"
+    },
+    {
+        "nm_cientifico": "Galbalcyrhynchus purusianus",
+        "nm_portugues": "Ariramba-castanha"
+    },
+    {
+        "nm_cientifico": "Brachygalba albogularis",
+        "nm_portugues": "Agulha-de-garganta-branca"
+    },
+    {
+        "nm_cientifico": "Brachygalba lugubris",
+        "nm_portugues": "Ariramba-preta"
+    },
+    {
+        "nm_cientifico": "Jacamaralcyon tridactyla",
+        "nm_portugues": "Cuitelão"
+    },
+    {
+        "nm_cientifico": "Galbula albirostris",
+        "nm_portugues": "Ariramba-de-bico-amarelo"
+    },
+    {
+        "nm_cientifico": "Galbula cyanicollis",
+        "nm_portugues": "Ariramba-da-mata"
+    },
+    {
+        "nm_cientifico": "Galbula ruficauda",
+        "nm_portugues": "Ariramba-de-cauda-ruiva"
+    },
+    {
+        "nm_cientifico": "Galbula galbula",
+        "nm_portugues": "Ariramba-de-cauda-verde"
+    },
+    {
+        "nm_cientifico": "Galbula tombacea",
+        "nm_portugues": "Ariramba-de-barba-branca"
+    },
+    {
+        "nm_cientifico": "Galbula cyanescens",
+        "nm_portugues": "Ariramba-da-capoeira"
+    },
+    {
+        "nm_cientifico": "Galbula chalcothorax",
+        "nm_portugues": "Ariramba-violácea"
+    },
+    {
+        "nm_cientifico": "Galbula leucogastra",
+        "nm_portugues": "Ariramba-bronzeada"
+    },
+    {
+        "nm_cientifico": "Galbula dea",
+        "nm_portugues": "Ariramba-do-paraíso"
+    },
+    {
+        "nm_cientifico": "Jacamerops aureus",
+        "nm_portugues": "Jacamaraçu"
+    },
+    {
+        "nm_cientifico": "Chelidoptera tenebrosa",
+        "nm_portugues": "Urubuzinho"
+    },
+    {
+        "nm_cientifico": "Monasa atra",
+        "nm_portugues": "Chora-chuva-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Monasa morphoeus",
+        "nm_portugues": "Chora-chuva-de-cara-branca"
+    },
+    {
+        "nm_cientifico": "Monasa nigrifrons",
+        "nm_portugues": "Chora-chuva-preto"
+    },
+    {
+        "nm_cientifico": "Monasa flavirostris",
+        "nm_portugues": "Chora-chuva-de-bico-amarelo"
+    },
+    {
+        "nm_cientifico": "Nonnula ruficapilla",
+        "nm_portugues": "Freirinha-de-coroa-castanha"
+    },
+    {
+        "nm_cientifico": "Nonnula amaurocephala",
+        "nm_portugues": "Freirinha-de-cabeça-castanha"
+    },
+    {
+        "nm_cientifico": "Nonnula sclateri",
+        "nm_portugues": "Freirinha-amarelada"
+    },
+    {
+        "nm_cientifico": "Nonnula rubecula",
+        "nm_portugues": "Macuru"
+    },
+    {
+        "nm_cientifico": "Malacoptila fusca",
+        "nm_portugues": "Barbudo-pardo"
+    },
+    {
+        "nm_cientifico": "Malacoptila semicincta",
+        "nm_portugues": "Barbudo-de-coleira"
+    },
+    {
+        "nm_cientifico": "Malacoptila striata",
+        "nm_portugues": "Barbudo-rajado"
+    },
+    {
+        "nm_cientifico": "Malacoptila rufa",
+        "nm_portugues": "Barbudo-de-pescoço-ferrugem"
+    },
+    {
+        "nm_cientifico": "Micromonacha lanceolata",
+        "nm_portugues": "Macuru-papa-mosca"
+    },
+    {
+        "nm_cientifico": "Notharchus tectus",
+        "nm_portugues": "Macuru-pintado"
+    },
+    {
+        "nm_cientifico": "Notharchus hyperrhynchus",
+        "nm_portugues": "Macuru-de-testa-branca"
+    },
+    {
+        "nm_cientifico": "Notharchus swainsoni",
+        "nm_portugues": "Macuru-de-barriga-castanha"
+    },
+    {
+        "nm_cientifico": "Notharchus macrorhynchos",
+        "nm_portugues": "Macuru-de-pescoço-branco"
+    },
+    {
+        "nm_cientifico": "Notharchus ordii",
+        "nm_portugues": "Macuru-de-peito-marrom"
+    },
+    {
+        "nm_cientifico": "Cyphos macrodactylus",
+        "nm_portugues": "Rapazinho-de-boné-vermelho"
+    },
+    {
+        "nm_cientifico": "Tamatia tamatia",
+        "nm_portugues": "Rapazinho-carijó"
+    },
+    {
+        "nm_cientifico": "Bucco capensis",
+        "nm_portugues": "Rapazinho-de-colar"
+    },
+    {
+        "nm_cientifico": "Nystalus maculatus",
+        "nm_portugues": "Rapazinho-dos-velhos"
+    },
+    {
+        "nm_cientifico": "Nystalus striatipectus",
+        "nm_portugues": "Rapazinho-do-chaco"
+    },
+    {
+        "nm_cientifico": "Nystalus obamai",
+        "nm_portugues": "Rapazinho-estriado-do-oeste"
+    },
+    {
+        "nm_cientifico": "Nystalus striolatus",
+        "nm_portugues": "Rapazinho-estriado-de-rondônia"
+    },
+    {
+        "nm_cientifico": "Nystalus torridus",
+        "nm_portugues": "Rapazinho-estriado-do-leste"
+    },
+    {
+        "nm_cientifico": "Nystalus chacuru",
+        "nm_portugues": "João-bobo"
+    },
+    {
+        "nm_cientifico": "Capito aurovirens",
+        "nm_portugues": "Capitão-de-coroa"
+    },
+    {
+        "nm_cientifico": "Capito dayi",
+        "nm_portugues": "Capitão-de-cinta"
+    },
+    {
+        "nm_cientifico": "Capito brunneipectus",
+        "nm_portugues": "Capitão-de-peito-marrom"
+    },
+    {
+        "nm_cientifico": "Capito niger",
+        "nm_portugues": "Capitão-de-bigode-carijó"
+    },
+    {
+        "nm_cientifico": "Capito auratus",
+        "nm_portugues": "Capitão-de-fronte-dourada"
+    },
+    {
+        "nm_cientifico": "Eubucco richardsoni",
+        "nm_portugues": "Capitão-de-bigode-limão"
+    },
+    {
+        "nm_cientifico": "Eubucco tucinkae",
+        "nm_portugues": "Capitão-de-colar-amarelo"
+    },
+    {
+        "nm_cientifico": "Ramphastos toco",
+        "nm_portugues": "Tucanuçu"
+    },
+    {
+        "nm_cientifico": "Ramphastos tucanus",
+        "nm_portugues": "Tucano-de-papo-branco"
+    },
+    {
+        "nm_cientifico": "Ramphastos vitellinus",
+        "nm_portugues": "Tucano-de-bico-preto"
+    },
+    {
+        "nm_cientifico": "Ramphastos dicolorus",
+        "nm_portugues": "Tucano-de-bico-verde"
+    },
+    {
+        "nm_cientifico": "Aulacorhynchus atrogularis",
+        "nm_portugues": "Tucaninho-de-nariz-amarelo"
+    },
+    {
+        "nm_cientifico": "Aulacorhynchus whitelianus",
+        "nm_portugues": "Tucaninho-verde"
+    },
+    {
+        "nm_cientifico": "Selenidera piperivora",
+        "nm_portugues": "Araçari-negro"
+    },
+    {
+        "nm_cientifico": "Selenidera reinwardtii",
+        "nm_portugues": "Saripoca-de-coleira"
+    },
+    {
+        "nm_cientifico": "Selenidera nattereri",
+        "nm_portugues": "Saripoca-de-bico-castanho"
+    },
+    {
+        "nm_cientifico": "Selenidera maculirostris",
+        "nm_portugues": "Araçari-poca"
+    },
+    {
+        "nm_cientifico": "Pteroglossus bailloni",
+        "nm_portugues": "Araçari-banana"
+    },
+    {
+        "nm_cientifico": "Pteroglossus viridis",
+        "nm_portugues": "Araçari-miudinho"
+    },
+    {
+        "nm_cientifico": "Pteroglossus inscriptus",
+        "nm_portugues": "Araçari-de-bico-riscado"
+    },
+    {
+        "nm_cientifico": "Pteroglossus aracari",
+        "nm_portugues": "Araçari-de-bico-branco"
+    },
+    {
+        "nm_cientifico": "Pteroglossus castanotis",
+        "nm_portugues": "Araçari-castanho"
+    },
+    {
+        "nm_cientifico": "Pteroglossus pluricinctus",
+        "nm_portugues": "Araçari-de-cinta-dupla"
+    },
+    {
+        "nm_cientifico": "Pteroglossus azara",
+        "nm_portugues": "Araçari-de-bico-de-marfim"
+    },
+    {
+        "nm_cientifico": "Pteroglossus flavirostris",
+        "nm_portugues": "Araçari-de-bico-amarelo"
+    },
+    {
+        "nm_cientifico": "Pteroglossus mariae",
+        "nm_portugues": "Araçari-de-bico-marrom"
+    },
+    {
+        "nm_cientifico": "Pteroglossus beauharnaesii",
+        "nm_portugues": "Araçari-mulato"
+    },
+    {
+        "nm_cientifico": "Pteroglossus bitorquatus",
+        "nm_portugues": "Araçari-de-pescoço-vermelho"
+    },
+    {
+        "nm_cientifico": "Picumnus aurifrons",
+        "nm_portugues": "Picapauzinho-dourado"
+    },
+    {
+        "nm_cientifico": "Picumnus pumilus",
+        "nm_portugues": "Picapauzinho-do-orinoco"
+    },
+    {
+        "nm_cientifico": "Picumnus lafresnayi",
+        "nm_portugues": "Picapauzinho-do-amazonas"
+    },
+    {
+        "nm_cientifico": "Picumnus exilis",
+        "nm_portugues": "Picapauzinho-de-pintas-amarelas"
+    },
+    {
+        "nm_cientifico": "Picumnus spilogaster",
+        "nm_portugues": "Picapauzinho-de-pescoço-branco"
+    },
+    {
+        "nm_cientifico": "Picumnus limae",
+        "nm_portugues": "Picapauzinho-da-caatinga"
+    },
+    {
+        "nm_cientifico": "Picumnus pygmaeus",
+        "nm_portugues": "Picapauzinho-pintado"
+    },
+    {
+        "nm_cientifico": "Picumnus varzeae",
+        "nm_portugues": "Picapauzinho-da-várzea"
+    },
+    {
+        "nm_cientifico": "Picumnus cirratus",
+        "nm_portugues": "Picapauzinho-barrado"
+    },
+    {
+        "nm_cientifico": "Picumnus temminckii",
+        "nm_portugues": "Picapauzinho-de-coleira"
+    },
+    {
+        "nm_cientifico": "Picumnus albosquamatus",
+        "nm_portugues": "Picapauzinho-escamoso"
+    },
+    {
+        "nm_cientifico": "Picumnus fuscus",
+        "nm_portugues": "Picapauzinho-fusco"
+    },
+    {
+        "nm_cientifico": "Picumnus rufiventris",
+        "nm_portugues": "Picapauzinho-vermelho"
+    },
+    {
+        "nm_cientifico": "Picumnus nebulosus",
+        "nm_portugues": "Picapauzinho-carijó"
+    },
+    {
+        "nm_cientifico": "Picumnus castelnau",
+        "nm_portugues": "Picapauzinho-creme"
+    },
+    {
+        "nm_cientifico": "Picumnus subtilis",
+        "nm_portugues": "Picapauzinho-de-barras-finas"
+    },
+    {
+        "nm_cientifico": "Melanerpes candidus",
+        "nm_portugues": "Pica-pau-branco"
+    },
+    {
+        "nm_cientifico": "Melanerpes cruentatus",
+        "nm_portugues": "Benedito-de-testa-vermelha"
+    },
+    {
+        "nm_cientifico": "Melanerpes flavifrons",
+        "nm_portugues": "Benedito-de-testa-amarela"
+    },
+    {
+        "nm_cientifico": "Melanerpes cactorum",
+        "nm_portugues": "Pica-pau-de-testa-branca"
+    },
+    {
+        "nm_cientifico": "Veniliornis kirkii",
+        "nm_portugues": "Pica-pau-de-sobre-vermelho"
+    },
+    {
+        "nm_cientifico": "Veniliornis cassini",
+        "nm_portugues": "Pica-pau-de-colar-dourado"
+    },
+    {
+        "nm_cientifico": "Veniliornis affinis",
+        "nm_portugues": "Pica-pau-avermelhado"
+    },
+    {
+        "nm_cientifico": "Veniliornis maculifrons",
+        "nm_portugues": "Pica-pau-de-testa-pintada"
+    },
+    {
+        "nm_cientifico": "Veniliornis passerinus",
+        "nm_portugues": "Pica-pau-pequeno"
+    },
+    {
+        "nm_cientifico": "Veniliornis spilogaster",
+        "nm_portugues": "Pica-pau-verde-carijó"
+    },
+    {
+        "nm_cientifico": "Veniliornis mixtus",
+        "nm_portugues": "Pica-pau-chorão"
+    },
+    {
+        "nm_cientifico": "Campephilus rubricollis",
+        "nm_portugues": "Pica-pau-de-barriga-vermelha"
+    },
+    {
+        "nm_cientifico": "Campephilus robustus",
+        "nm_portugues": "Pica-pau-rei"
+    },
+    {
+        "nm_cientifico": "Campephilus melanoleucos",
+        "nm_portugues": "Pica-pau-de-topete-vermelho"
+    },
+    {
+        "nm_cientifico": "Campephilus leucopogon",
+        "nm_portugues": "Pica-pau-de-barriga-preta"
+    },
+    {
+        "nm_cientifico": "Dryocopus lineatus",
+        "nm_portugues": "Pica-pau-de-banda-branca"
+    },
+    {
+        "nm_cientifico": "Celeus torquatus",
+        "nm_portugues": "Pica-pau-de-coleira"
+    },
+    {
+        "nm_cientifico": "Celeus galeatus",
+        "nm_portugues": "Pica-pau-de-cara-canela"
+    },
+    {
+        "nm_cientifico": "Celeus undatus",
+        "nm_portugues": "Pica-pau-barrado"
+    },
+    {
+        "nm_cientifico": "Celeus flavus",
+        "nm_portugues": "Pica-pau-amarelo"
+    },
+    {
+        "nm_cientifico": "Celeus spectabilis",
+        "nm_portugues": "Pica-pau-lindo"
+    },
+    {
+        "nm_cientifico": "Celeus obrieni",
+        "nm_portugues": "Pica-pau-da-taboca"
+    },
+    {
+        "nm_cientifico": "Celeus ochraceus",
+        "nm_portugues": "Pica-pau-ocráceo"
+    },
+    {
+        "nm_cientifico": "Celeus elegans",
+        "nm_portugues": "Pica-pau-chocolate"
+    },
+    {
+        "nm_cientifico": "Celeus lugubris",
+        "nm_portugues": "Pica-pau-louro"
+    },
+    {
+        "nm_cientifico": "Celeus flavescens",
+        "nm_portugues": "Pica-pau-de-cabeça-amarela"
+    },
+    {
+        "nm_cientifico": "Piculus leucolaemus",
+        "nm_portugues": "Pica-pau-de-garganta-branca"
+    },
+    {
+        "nm_cientifico": "Piculus flavigula",
+        "nm_portugues": "Pica-pau-bufador"
+    },
+    {
+        "nm_cientifico": "Piculus capistratus",
+        "nm_portugues": "Pica-pau-de-garganta-barrada"
+    },
+    {
+        "nm_cientifico": "Piculus laemostictus",
+        "nm_portugues": "Pica-pau-de-garganta-pintada"
+    },
+    {
+        "nm_cientifico": "Piculus paraensis",
+        "nm_portugues": "Pica-pau-dourado-de-belém"
+    },
+    {
+        "nm_cientifico": "Piculus chrysochloros",
+        "nm_portugues": "Pica-pau-dourado-escuro"
+    },
+    {
+        "nm_cientifico": "Piculus  polyzonus",
+        "nm_portugues": "Pica-pau-dourado-grande"
+    },
+    {
+        "nm_cientifico": "Piculus aurulentus",
+        "nm_portugues": "Pica-pau-dourado"
+    },
+    {
+        "nm_cientifico": "Colaptes rubiginosus",
+        "nm_portugues": "Pica-pau-oliváceo"
+    },
+    {
+        "nm_cientifico": "Colaptes punctigula",
+        "nm_portugues": "Pica-pau-de-peito-pontilhado"
+    },
+    {
+        "nm_cientifico": "Colaptes melanochloros",
+        "nm_portugues": "Pica-pau-verde-barrado"
+    },
+    {
+        "nm_cientifico": "Colaptes campestris",
+        "nm_portugues": "Pica-pau-do-campo"
+    },
+    {
+        "nm_cientifico": "Cariama cristata",
+        "nm_portugues": "Seriema"
+    },
+    {
+        "nm_cientifico": "Herpetotheres cachinnans",
+        "nm_portugues": "Acauã"
+    },
+    {
+        "nm_cientifico": "Micrastur ruficollis",
+        "nm_portugues": "Falcão-caburé"
+    },
+    {
+        "nm_cientifico": "Micrastur gilvicollis",
+        "nm_portugues": "Falcão-mateiro"
+    },
+    {
+        "nm_cientifico": "Micrastur mintoni",
+        "nm_portugues": "Falcão-críptico"
+    },
+    {
+        "nm_cientifico": "Micrastur mirandollei",
+        "nm_portugues": "Tanatau"
+    },
+    {
+        "nm_cientifico": "Micrastur semitorquatus",
+        "nm_portugues": "Falcão-relógio"
+    },
+    {
+        "nm_cientifico": "Micrastur buckleyi",
+        "nm_portugues": "Falcão-de-buckley"
+    },
+    {
+        "nm_cientifico": "Caracara plancus",
+        "nm_portugues": "Carcará"
+    },
+    {
+        "nm_cientifico": "Ibycter americanus",
+        "nm_portugues": "Cancão"
+    },
+    {
+        "nm_cientifico": "Daptrius ater",
+        "nm_portugues": "Gavião-de-anta"
+    },
+    {
+        "nm_cientifico": "Milvago chimachima",
+        "nm_portugues": "Carrapateiro"
+    },
+    {
+        "nm_cientifico": "Milvago chimango",
+        "nm_portugues": "Chimango"
+    },
+    {
+        "nm_cientifico": "Falco tinnunculus",
+        "nm_portugues": "Peneireiro-de-dorso-malhado"
+    },
+    {
+        "nm_cientifico": "Falco sparverius",
+        "nm_portugues": "Quiriquiri"
+    },
+    {
+        "nm_cientifico": "Falco columbarius",
+        "nm_portugues": "Esmerilhão"
+    },
+    {
+        "nm_cientifico": "Falco rufigularis",
+        "nm_portugues": "Cauré"
+    },
+    {
+        "nm_cientifico": "Falco deiroleucus",
+        "nm_portugues": "Falcão-de-peito-laranja"
+    },
+    {
+        "nm_cientifico": "Falco femoralis",
+        "nm_portugues": "Falcão-de-coleira"
+    },
+    {
+        "nm_cientifico": "Falco peregrinus",
+        "nm_portugues": "Falcão-peregrino"
+    },
+    {
+        "nm_cientifico": "Touit huetii",
+        "nm_portugues": "Apuim-de-asa-vermelha"
+    },
+    {
+        "nm_cientifico": "Touit purpuratus",
+        "nm_portugues": "Apuim-de-costas-azuis"
+    },
+    {
+        "nm_cientifico": "Touit melanonotus",
+        "nm_portugues": "Apuim-de-costas-pretas"
+    },
+    {
+        "nm_cientifico": "Touit surdus",
+        "nm_portugues": "Apuim-de-cauda-amarela"
+    },
+    {
+        "nm_cientifico": "Nannopsittaca panychlora",
+        "nm_portugues": "Periquito-dos-tepuis"
+    },
+    {
+        "nm_cientifico": "Nannopsittaca dachilleae",
+        "nm_portugues": "Periquito-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Myiopsitta monachus",
+        "nm_portugues": "Caturrita"
+    },
+    {
+        "nm_cientifico": "Brotogeris sanctithomae",
+        "nm_portugues": "Periquito-testinha"
+    },
+    {
+        "nm_cientifico": "Brotogeris tirica",
+        "nm_portugues": "Periquito-rico"
+    },
+    {
+        "nm_cientifico": "Brotogeris versicolurus",
+        "nm_portugues": "Periquito-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Brotogeris chiriri",
+        "nm_portugues": "Periquito-de-encontro-amarelo"
+    },
+    {
+        "nm_cientifico": "Brotogeris cyanoptera",
+        "nm_portugues": "Periquito-de-asa-azul"
+    },
+    {
+        "nm_cientifico": "Brotogeris chrysoptera",
+        "nm_portugues": "Periquito-de-asa-dourada"
+    },
+    {
+        "nm_cientifico": "Pionopsitta pileata",
+        "nm_portugues": "Cuiú-cuiú"
+    },
+    {
+        "nm_cientifico": "Triclaria malachitacea",
+        "nm_portugues": "Sabiá-cica"
+    },
+    {
+        "nm_cientifico": "Pyrilia barrabandi",
+        "nm_portugues": "Curica-de-bochecha-laranja"
+    },
+    {
+        "nm_cientifico": "Pyrilia caica",
+        "nm_portugues": "Curica-de-chapéu-preto"
+    },
+    {
+        "nm_cientifico": "Pyrilia aurantiocephala",
+        "nm_portugues": "Papagaio-de-cabeça-laranja"
+    },
+    {
+        "nm_cientifico": "Pyrilia vulturina",
+        "nm_portugues": "Curica-urubu"
+    },
+    {
+        "nm_cientifico": "Pionus fuscus",
+        "nm_portugues": "Maitaca-roxa"
+    },
+    {
+        "nm_cientifico": "Pionus maximiliani",
+        "nm_portugues": "Maitaca-verde"
+    },
+    {
+        "nm_cientifico": "Pionus menstruus",
+        "nm_portugues": "Maitaca-de-cabeça-azul"
+    },
+    {
+        "nm_cientifico": "Pionus reichenowi",
+        "nm_portugues": "Maitaca-de-barriga-azul"
+    },
+    {
+        "nm_cientifico": "Graydidascalus brachyurus",
+        "nm_portugues": "Curica-verde"
+    },
+    {
+        "nm_cientifico": "Alipiopsitta xanthops",
+        "nm_portugues": "Papagaio-galego"
+    },
+    {
+        "nm_cientifico": "Amazona festiva",
+        "nm_portugues": "Papagaio-da-várzea"
+    },
+    {
+        "nm_cientifico": "Amazona vinacea",
+        "nm_portugues": "Papagaio-de-peito-roxo"
+    },
+    {
+        "nm_cientifico": "Amazona pretrei",
+        "nm_portugues": "Papagaio-charão"
+    },
+    {
+        "nm_cientifico": "Amazona autumnalis",
+        "nm_portugues": "Papagaio-diadema"
+    },
+    {
+        "nm_cientifico": "Amazona dufresniana",
+        "nm_portugues": "Papagaio-de-bochecha-azul"
+    },
+    {
+        "nm_cientifico": "Amazona rhodocorytha",
+        "nm_portugues": "Chauá"
+    },
+    {
+        "nm_cientifico": "Amazona ochrocephala",
+        "nm_portugues": "Papagaio-campeiro"
+    },
+    {
+        "nm_cientifico": "Amazona aestiva",
+        "nm_portugues": "Papagaio-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Amazona farinosa",
+        "nm_portugues": "Papagaio-moleiro"
+    },
+    {
+        "nm_cientifico": "Amazona kawalli",
+        "nm_portugues": "Papagaio-dos-garbes"
+    },
+    {
+        "nm_cientifico": "Amazona brasiliensis",
+        "nm_portugues": "Papagaio-de-cara-roxa"
+    },
+    {
+        "nm_cientifico": "Amazona amazonica",
+        "nm_portugues": "Curica"
+    },
+    {
+        "nm_cientifico": "Forpus modestus",
+        "nm_portugues": "Periquito-santo-do-norte"
+    },
+    {
+        "nm_cientifico": "Forpus sclateri",
+        "nm_portugues": "Periquito-santo-de-bico-escuro"
+    },
+    {
+        "nm_cientifico": "Forpus xanthopterygius",
+        "nm_portugues": "Tuim"
+    },
+    {
+        "nm_cientifico": "Forpus passerinus",
+        "nm_portugues": "Periquito-santo"
+    },
+    {
+        "nm_cientifico": "Pionites melanocephalus",
+        "nm_portugues": "Marianinha-de-cabeça-preta"
+    },
+    {
+        "nm_cientifico": "Pionites leucogaster",
+        "nm_portugues": "Marianinha-de-cabeça-amarela"
+    },
+    {
+        "nm_cientifico": "Deroptyus accipitrinus",
+        "nm_portugues": "Anacã"
+    },
+    {
+        "nm_cientifico": "Pyrrhura cruentata",
+        "nm_portugues": "Tiriba-grande"
+    },
+    {
+        "nm_cientifico": "Pyrrhura devillei",
+        "nm_portugues": "Tiriba-fogo"
+    },
+    {
+        "nm_cientifico": "Pyrrhura frontalis",
+        "nm_portugues": "Tiriba-de-testa-vermelha"
+    },
+    {
+        "nm_cientifico": "Pyrrhura anerythra",
+        "nm_portugues": "Tiriba-do-xingu"
+    },
+    {
+        "nm_cientifico": "Pyrrhura coerulescens",
+        "nm_portugues": "Tiriba-pérola"
+    },
+    {
+        "nm_cientifico": "Pyrrhura perlata",
+        "nm_portugues": "Tiriba-de-barriga-vermelha"
+    },
+    {
+        "nm_cientifico": "Pyrrhura molinae",
+        "nm_portugues": "Cara-suja-do-pantanal"
+    },
+    {
+        "nm_cientifico": "Pyrrhura griseipectus",
+        "nm_portugues": "Cara-suja"
+    },
+    {
+        "nm_cientifico": "Pyrrhura leucotis",
+        "nm_portugues": "Tiriba-de-orelha-branca"
+    },
+    {
+        "nm_cientifico": "Pyrrhura pfrimeri",
+        "nm_portugues": "Tiriba-do-paranã"
+    },
+    {
+        "nm_cientifico": "Pyrrhura picta",
+        "nm_portugues": "Tiriba-de-testa-azul"
+    },
+    {
+        "nm_cientifico": "Pyrrhura amazonum",
+        "nm_portugues": "Tiriba-de-hellmayr"
+    },
+    {
+        "nm_cientifico": "Pyrrhura pallescens",
+        "nm_portugues": "Tiriba-do-madeira"
+    },
+    {
+        "nm_cientifico": "Pyrrhura lucianii",
+        "nm_portugues": "Tiriba-de-deville"
+    },
+    {
+        "nm_cientifico": "Pyrrhura roseifrons",
+        "nm_portugues": "Tiriba-de-cabeça-vermelha"
+    },
+    {
+        "nm_cientifico": "Pyrrhura egregia",
+        "nm_portugues": "Tiriba-de-cauda-roxa"
+    },
+    {
+        "nm_cientifico": "Pyrrhura melanura",
+        "nm_portugues": "Tiriba-fura-mata"
+    },
+    {
+        "nm_cientifico": "Pyrrhura rupicola",
+        "nm_portugues": "Tiriba-rupestre"
+    },
+    {
+        "nm_cientifico": "Anodorhynchus hyacinthinus",
+        "nm_portugues": "Arara-azul"
+    },
+    {
+        "nm_cientifico": "Anodorhynchus glaucus",
+        "nm_portugues": "Arara-azul-pequena"
+    },
+    {
+        "nm_cientifico": "Anodorhynchus leari",
+        "nm_portugues": "Arara-azul-de-lear"
+    },
+    {
+        "nm_cientifico": "Eupsittula aurea",
+        "nm_portugues": "Periquito-rei"
+    },
+    {
+        "nm_cientifico": "Eupsittula pertinax",
+        "nm_portugues": "Periquito-de-bochecha-parda"
+    },
+    {
+        "nm_cientifico": "Eupsittula cactorum",
+        "nm_portugues": "Periquito-da-caatinga"
+    },
+    {
+        "nm_cientifico": "Aratinga weddellii",
+        "nm_portugues": "Periquito-de-cabeça-suja"
+    },
+    {
+        "nm_cientifico": "Aratinga nenday",
+        "nm_portugues": "Periquito-de-cabeça-preta"
+    },
+    {
+        "nm_cientifico": "Aratinga solstitialis",
+        "nm_portugues": "Jandaia-amarela"
+    },
+    {
+        "nm_cientifico": "Aratinga maculata",
+        "nm_portugues": "Cacaué"
+    },
+    {
+        "nm_cientifico": "Aratinga jandaya",
+        "nm_portugues": "Jandaia-verdadeira"
+    },
+    {
+        "nm_cientifico": "Aratinga auricapillus",
+        "nm_portugues": "Jandaia-de-testa-vermelha"
+    },
+    {
+        "nm_cientifico": "Cyanopsitta spixii",
+        "nm_portugues": "Ararinha-azul"
+    },
+    {
+        "nm_cientifico": "Orthopsittaca manilatus",
+        "nm_portugues": "Maracanã-do-buriti"
+    },
+    {
+        "nm_cientifico": "Primolius maracana",
+        "nm_portugues": "Maracanã"
+    },
+    {
+        "nm_cientifico": "Primolius couloni",
+        "nm_portugues": "Maracanã-de-cabeça-azul"
+    },
+    {
+        "nm_cientifico": "Primolius auricollis",
+        "nm_portugues": "Maracanã-de-colar"
+    },
+    {
+        "nm_cientifico": "Ara ararauna",
+        "nm_portugues": "Arara-canindé"
+    },
+    {
+        "nm_cientifico": "Ara severus",
+        "nm_portugues": "Maracanã-guaçu"
+    },
+    {
+        "nm_cientifico": "Ara macao",
+        "nm_portugues": "Araracanga"
+    },
+    {
+        "nm_cientifico": "Ara chloropterus",
+        "nm_portugues": "Arara-vermelha"
+    },
+    {
+        "nm_cientifico": "Guaruba guarouba",
+        "nm_portugues": "Ararajuba"
+    },
+    {
+        "nm_cientifico": "Thectocercus acuticaudatus",
+        "nm_portugues": "Aratinga-de-testa-azul"
+    },
+    {
+        "nm_cientifico": "Diopsittaca nobilis",
+        "nm_portugues": "Maracanã-pequena"
+    },
+    {
+        "nm_cientifico": "Psittacara leucophthalmus",
+        "nm_portugues": "Periquitão"
+    },
+    {
+        "nm_cientifico": "Euchrepomis humeralis",
+        "nm_portugues": "Zidedê-de-encontro"
+    },
+    {
+        "nm_cientifico": "Euchrepomis spodioptila",
+        "nm_portugues": "Zidedê-de-asa-cinza"
+    },
+    {
+        "nm_cientifico": "Myrmornis torquata",
+        "nm_portugues": "Pinto-do-mato-carijó"
+    },
+    {
+        "nm_cientifico": "Pygiptila stellaris",
+        "nm_portugues": "Choca-cantadora"
+    },
+    {
+        "nm_cientifico": "Microrhopias quixensis",
+        "nm_portugues": "Papa-formiga-de-bando"
+    },
+    {
+        "nm_cientifico": "Myrmorchilus strigilatus",
+        "nm_portugues": "Tem-farinha-aí"
+    },
+    {
+        "nm_cientifico": "Neoctantes niger",
+        "nm_portugues": "Choca-preta"
+    },
+    {
+        "nm_cientifico": "Clytoctantes atrogularis",
+        "nm_portugues": "Choca-de-garganta-preta"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla gutturalis",
+        "nm_portugues": "Choquinha-de-barriga-parda"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla leucophthalma",
+        "nm_portugues": "Choquinha-de-olho-branco"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla haematonota",
+        "nm_portugues": "Choquinha-de-garganta-carijó"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla pyrrhonota",
+        "nm_portugues": "Choquinha-do-rio-negro"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla amazonica",
+        "nm_portugues": "Choquinha-do-madeira"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla dentei",
+        "nm_portugues": "Choquinha-do-rio-roosevelt"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla ornata",
+        "nm_portugues": "Choquinha-ornada"
+    },
+    {
+        "nm_cientifico": "Epinecrophylla erythrura",
+        "nm_portugues": "Choquinha-de-cauda-ruiva"
+    },
+    {
+        "nm_cientifico": "Aprositornis disjuncta",
+        "nm_portugues": "Formigueiro-de-yapacana"
+    },
+    {
+        "nm_cientifico": "Ammonastes pelzelni",
+        "nm_portugues": "Formigueiro-de-barriga-cinza"
+    },
+    {
+        "nm_cientifico": "Myrmophylax atrothorax",
+        "nm_portugues": "Formigueiro-de-peito-preto"
+    },
+    {
+        "nm_cientifico": "Myrmochanes hemileucus",
+        "nm_portugues": "Formigueiro-preto-e-branco"
+    },
+    {
+        "nm_cientifico": "Terenura sicki",
+        "nm_portugues": "Zidedê-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Terenura maculata",
+        "nm_portugues": "Zidedê"
+    },
+    {
+        "nm_cientifico": "Myrmotherula brachyura",
+        "nm_portugues": "Choquinha-miúda"
+    },
+    {
+        "nm_cientifico": "Myrmotherula obscura",
+        "nm_portugues": "Choquinha-de-bico-curto"
+    },
+    {
+        "nm_cientifico": "Myrmotherula ambigua",
+        "nm_portugues": "Choquinha-de-coroa-listrada"
+    },
+    {
+        "nm_cientifico": "Myrmotherula sclateri",
+        "nm_portugues": "Choquinha-de-garganta-amarela"
+    },
+    {
+        "nm_cientifico": "Myrmotherula surinamensis",
+        "nm_portugues": "Choquinha-estriada"
+    },
+    {
+        "nm_cientifico": "Myrmotherula multostriata",
+        "nm_portugues": "Choquinha-estriada-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Myrmotherula cherriei",
+        "nm_portugues": "Choquinha-de-peito-riscado"
+    },
+    {
+        "nm_cientifico": "Myrmotherula klagesi",
+        "nm_portugues": "Choquinha-do-tapajós"
+    },
+    {
+        "nm_cientifico": "Myrmotherula axillaris",
+        "nm_portugues": "Choquinha-de-flanco-branco"
+    },
+    {
+        "nm_cientifico": "Myrmotherula sunensis",
+        "nm_portugues": "Choquinha-do-oeste"
+    },
+    {
+        "nm_cientifico": "Myrmotherula minor",
+        "nm_portugues": "Choquinha-pequena"
+    },
+    {
+        "nm_cientifico": "Myrmotherula longipennis",
+        "nm_portugues": "Choquinha-de-asa-comprida"
+    },
+    {
+        "nm_cientifico": "Myrmotherula urosticta",
+        "nm_portugues": "Choquinha-de-rabo-cintado"
+    },
+    {
+        "nm_cientifico": "Myrmotherula iheringi",
+        "nm_portugues": "Choquinha-de-ihering"
+    },
+    {
+        "nm_cientifico": "Myrmotherula oreni",
+        "nm_portugues": "Choquinha-do-bambu"
+    },
+    {
+        "nm_cientifico": "Myrmotherula heteroptera",
+        "nm_portugues": "Choquinha-do-purus"
+    },
+    {
+        "nm_cientifico": "Myrmotherula fluminensis",
+        "nm_portugues": "Choquinha-fluminense"
+    },
+    {
+        "nm_cientifico": "Myrmotherula unicolor",
+        "nm_portugues": "Choquinha-cinzenta"
+    },
+    {
+        "nm_cientifico": "Myrmotherula snowi",
+        "nm_portugues": "Choquinha-de-alagoas"
+    },
+    {
+        "nm_cientifico": "Myrmotherula behni",
+        "nm_portugues": "Choquinha-de-asa-lisa"
+    },
+    {
+        "nm_cientifico": "Myrmotherula menetriesii",
+        "nm_portugues": "Choquinha-de-garganta-cinza"
+    },
+    {
+        "nm_cientifico": "Myrmotherula assimilis",
+        "nm_portugues": "Choquinha-da-várzea"
+    },
+    {
+        "nm_cientifico": "Formicivora iheringi",
+        "nm_portugues": "Formigueiro-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Formicivora erythronotos",
+        "nm_portugues": "Formigueiro-de-cabeça-negra"
+    },
+    {
+        "nm_cientifico": "Formicivora grisea",
+        "nm_portugues": "Papa-formiga-pardo"
+    },
+    {
+        "nm_cientifico": "Formicivora serrana",
+        "nm_portugues": "Formigueiro-da-serra"
+    },
+    {
+        "nm_cientifico": "Formicivora littoralis",
+        "nm_portugues": "Formigueiro-do-litoral"
+    },
+    {
+        "nm_cientifico": "Formicivora melanogaster",
+        "nm_portugues": "Formigueiro-de-barriga-preta"
+    },
+    {
+        "nm_cientifico": "Formicivora rufa",
+        "nm_portugues": "Papa-formiga-vermelho"
+    },
+    {
+        "nm_cientifico": "Formicivora grantsaui",
+        "nm_portugues": "Papa-formiga-do-sincorá"
+    },
+    {
+        "nm_cientifico": "Formicivora paludicola",
+        "nm_portugues": "Bicudinho-do-brejo-paulista"
+    },
+    {
+        "nm_cientifico": "Formicivora acutirostris",
+        "nm_portugues": "Bicudinho-do-brejo"
+    },
+    {
+        "nm_cientifico": "Isleria hauxwelli",
+        "nm_portugues": "Choquinha-de-garganta-clara"
+    },
+    {
+        "nm_cientifico": "Isleria guttata",
+        "nm_portugues": "Choquinha-de-barriga-ruiva"
+    },
+    {
+        "nm_cientifico": "Thamnomanes ardesiacus",
+        "nm_portugues": "Uirapuru-de-garganta-preta"
+    },
+    {
+        "nm_cientifico": "Thamnomanes saturninus",
+        "nm_portugues": "Uirapuru-selado"
+    },
+    {
+        "nm_cientifico": "Thamnomanes caesius",
+        "nm_portugues": "Ipecuá"
+    },
+    {
+        "nm_cientifico": "Thamnomanes schistogynus",
+        "nm_portugues": "Uirapuru-azul"
+    },
+    {
+        "nm_cientifico": "Dichrozona cincta",
+        "nm_portugues": "Tovaquinha"
+    },
+    {
+        "nm_cientifico": "Rhopias gularis",
+        "nm_portugues": "Choquinha-de-garganta-pintada"
+    },
+    {
+        "nm_cientifico": "Megastictus margaritatus",
+        "nm_portugues": "Choca-pintada"
+    },
+    {
+        "nm_cientifico": "Sakesphoroides cristatus",
+        "nm_portugues": "Choca-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Dysithamnus stictothorax",
+        "nm_portugues": "Choquinha-de-peito-pintado"
+    },
+    {
+        "nm_cientifico": "Dysithamnus mentalis",
+        "nm_portugues": "Choquinha-lisa"
+    },
+    {
+        "nm_cientifico": "Dysithamnus xanthopterus",
+        "nm_portugues": "Choquinha-de-asa-ferrugem"
+    },
+    {
+        "nm_cientifico": "Dysithamnus plumbeus",
+        "nm_portugues": "Choquinha-chumbo"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus pectoralis",
+        "nm_portugues": "Chorozinho-de-papo-preto"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus roraimae",
+        "nm_portugues": "Chorozinho-de-roraima"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus longirostris",
+        "nm_portugues": "Chorozinho-de-bico-comprido"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus sticturus",
+        "nm_portugues": "Chorozinho-de-cauda-pintada"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus frater",
+        "nm_portugues": "Chorozinho-de-asa-vermelha-do-norte"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus rufimarginatus",
+        "nm_portugues": "Chorozinho-de-asa-vermelha"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus stictocephalus",
+        "nm_portugues": "Chorozinho-de-cabeça-pintada"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus dorsimaculatus",
+        "nm_portugues": "Chorozinho-de-costas-manchadas"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus praedictus",
+        "nm_portugues": "Chorozinho-esperado"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus stotzi",
+        "nm_portugues": "Chorozinho-do-aripuanã"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus atricapillus",
+        "nm_portugues": "Chorozinho-de-chapéu-preto"
+    },
+    {
+        "nm_cientifico": "Herpsilochmus pileatus",
+        "nm_portugues": "Chorozinho-de-boné"
+    },
+    {
+        "nm_cientifico": "Sakesphorus canadensis",
+        "nm_portugues": "Choca-de-crista-preta"
+    },
+    {
+        "nm_cientifico": "Sakesphorus luctuosus",
+        "nm_portugues": "Choca-d'água"
+    },
+    {
+        "nm_cientifico": "Thamnophilus doliatus",
+        "nm_portugues": "Choca-barrada"
+    },
+    {
+        "nm_cientifico": "Thamnophilus capistratus",
+        "nm_portugues": "Choca-barrada-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Thamnophilus ruficapillus",
+        "nm_portugues": "Choca-de-chapéu-vermelho"
+    },
+    {
+        "nm_cientifico": "Thamnophilus torquatus",
+        "nm_portugues": "Choca-de-asa-vermelha"
+    },
+    {
+        "nm_cientifico": "Thamnophilus palliatus",
+        "nm_portugues": "Choca-listrada"
+    },
+    {
+        "nm_cientifico": "Thamnophilus schistaceus",
+        "nm_portugues": "Choca-de-olho-vermelho"
+    },
+    {
+        "nm_cientifico": "Thamnophilus murinus",
+        "nm_portugues": "Choca-murina"
+    },
+    {
+        "nm_cientifico": "Thamnophilus cryptoleucus",
+        "nm_portugues": "Choca-selada"
+    },
+    {
+        "nm_cientifico": "Thamnophilus nigrocinereus",
+        "nm_portugues": "Choca-preta-e-cinza"
+    },
+    {
+        "nm_cientifico": "Thamnophilus punctatus",
+        "nm_portugues": "Choca-bate-cabo"
+    },
+    {
+        "nm_cientifico": "Thamnophilus stictocephalus",
+        "nm_portugues": "Choca-de-natterer"
+    },
+    {
+        "nm_cientifico": "Thamnophilus sticturus",
+        "nm_portugues": "Choca-da-bolívia"
+    },
+    {
+        "nm_cientifico": "Thamnophilus pelzelni",
+        "nm_portugues": "Choca-do-planalto"
+    },
+    {
+        "nm_cientifico": "Thamnophilus ambiguus",
+        "nm_portugues": "Choca-de-sooretama"
+    },
+    {
+        "nm_cientifico": "Thamnophilus caerulescens",
+        "nm_portugues": "Choca-da-mata"
+    },
+    {
+        "nm_cientifico": "Thamnophilus aethiops",
+        "nm_portugues": "Choca-lisa"
+    },
+    {
+        "nm_cientifico": "Thamnophilus melanothorax",
+        "nm_portugues": "Choca-de-cauda-pintada"
+    },
+    {
+        "nm_cientifico": "Thamnophilus amazonicus",
+        "nm_portugues": "Choca-canela"
+    },
+    {
+        "nm_cientifico": "Thamnophilus insignis",
+        "nm_portugues": "Choca-de-roraima"
+    },
+    {
+        "nm_cientifico": "Thamnophilus divisorius",
+        "nm_portugues": "Choca-do-acre"
+    },
+    {
+        "nm_cientifico": "Cymbilaimus lineatus",
+        "nm_portugues": "Papa-formiga-barrado"
+    },
+    {
+        "nm_cientifico": "Cymbilaimus sanctaemariae",
+        "nm_portugues": "Choca-do-bambu"
+    },
+    {
+        "nm_cientifico": "Taraba major",
+        "nm_portugues": "Choró-boi"
+    },
+    {
+        "nm_cientifico": "Hypoedaleus guttatus",
+        "nm_portugues": "Chocão-carijó"
+    },
+    {
+        "nm_cientifico": "Batara cinerea",
+        "nm_portugues": "Matracão"
+    },
+    {
+        "nm_cientifico": "Mackenziaena leachii",
+        "nm_portugues": "Borralhara-assobiadora"
+    },
+    {
+        "nm_cientifico": "Mackenziaena severa",
+        "nm_portugues": "Borralhara-preta"
+    },
+    {
+        "nm_cientifico": "Frederickena viridis",
+        "nm_portugues": "Borralhara-do-norte"
+    },
+    {
+        "nm_cientifico": "Frederickena unduliger",
+        "nm_portugues": "Borralhara-ondulada"
+    },
+    {
+        "nm_cientifico": "Radinopsyche sellowi",
+        "nm_portugues": "Chorozinho-da-caatinga"
+    },
+    {
+        "nm_cientifico": "Biatas nigropectus",
+        "nm_portugues": "Papo-branco"
+    },
+    {
+        "nm_cientifico": "Myrmoderus ferrugineus",
+        "nm_portugues": "Formigueiro-ferrugem"
+    },
+    {
+        "nm_cientifico": "Myrmoderus ruficauda",
+        "nm_portugues": "Formigueiro-de-cauda-ruiva"
+    },
+    {
+        "nm_cientifico": "Myrmoderus loricatus",
+        "nm_portugues": "Formigueiro-assobiador"
+    },
+    {
+        "nm_cientifico": "Myrmoderus squamosus",
+        "nm_portugues": "Papa-formiga-de-grota"
+    },
+    {
+        "nm_cientifico": "Hypocnemoides maculicauda",
+        "nm_portugues": "Solta-asa"
+    },
+    {
+        "nm_cientifico": "Hypocnemoides melanopogon",
+        "nm_portugues": "Solta-asa-do-norte"
+    },
+    {
+        "nm_cientifico": "Hylophylax naevius",
+        "nm_portugues": "Guarda-floresta"
+    },
+    {
+        "nm_cientifico": "Hylophylax punctulatus",
+        "nm_portugues": "Guarda-várzea"
+    },
+    {
+        "nm_cientifico": "Sclateria naevia",
+        "nm_portugues": "Papa-formiga-do-igarapé"
+    },
+    {
+        "nm_cientifico": "Myrmelastes saturatus",
+        "nm_portugues": "Formigueiro-de-roraima"
+    },
+    {
+        "nm_cientifico": "Myrmelastes schistaceus",
+        "nm_portugues": "Formigueiro-cinza"
+    },
+    {
+        "nm_cientifico": "Myrmelastes hyperythrus",
+        "nm_portugues": "Formigueiro-chumbo"
+    },
+    {
+        "nm_cientifico": "Myrmelastes rufifacies",
+        "nm_portugues": "Formigueiro-de-cara-ruiva"
+    },
+    {
+        "nm_cientifico": "Myrmelastes leucostigma",
+        "nm_portugues": "Formigueiro-de-asa-pintada"
+    },
+    {
+        "nm_cientifico": "Myrmelastes humaythae",
+        "nm_portugues": "Formigueiro-de-cauda-curta"
+    },
+    {
+        "nm_cientifico": "Myrmelastes caurensis",
+        "nm_portugues": "Formigueiro-do-caura"
+    },
+    {
+        "nm_cientifico": "Myrmeciza longipes",
+        "nm_portugues": "Formigueiro-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Myrmoborus melanurus",
+        "nm_portugues": "Formigueiro-de-cauda-preta"
+    },
+    {
+        "nm_cientifico": "Myrmoborus lophotes",
+        "nm_portugues": "Formigueiro-do-bambu"
+    },
+    {
+        "nm_cientifico": "Myrmoborus myotherinus",
+        "nm_portugues": "Formigueiro-de-cara-preta"
+    },
+    {
+        "nm_cientifico": "Myrmoborus leucophrys",
+        "nm_portugues": "Papa-formiga-de-sobrancelha"
+    },
+    {
+        "nm_cientifico": "Myrmoborus berlepschi",
+        "nm_portugues": "Formigueiro-liso-do-solimões"
+    },
+    {
+        "nm_cientifico": "Myrmoborus stictoperus",
+        "nm_portugues": "Formigueiro-liso-do-rio-negro"
+    },
+    {
+        "nm_cientifico": "Myrmoborus lugubris",
+        "nm_portugues": "Formigueiro-liso-do-pará"
+    },
+    {
+        "nm_cientifico": "Pyriglena maura",
+        "nm_portugues": "Papa-taoca-do-pantanal"
+    },
+    {
+        "nm_cientifico": "Pyriglena similis",
+        "nm_portugues": "Papa-taoca-do-tapajós"
+    },
+    {
+        "nm_cientifico": "Pyriglena leuconota",
+        "nm_portugues": "Papa-taoca-de-belém"
+    },
+    {
+        "nm_cientifico": "Pyriglena pernambucensis",
+        "nm_portugues": "Papa-taoca-de-pernambuco"
+    },
+    {
+        "nm_cientifico": "Pyriglena atra",
+        "nm_portugues": "Papa-taoca-da-bahia"
+    },
+    {
+        "nm_cientifico": "Pyriglena leucoptera",
+        "nm_portugues": "Papa-taoca-do-sul"
+    },
+    {
+        "nm_cientifico": "Rhopornis ardesiacus",
+        "nm_portugues": "Gravatazeiro"
+    },
+    {
+        "nm_cientifico": "Percnostola rufifrons",
+        "nm_portugues": "Formigueiro-de-cabeça-preta"
+    },
+    {
+        "nm_cientifico": "Percnostola subcristata",
+        "nm_portugues": "Formigueiro-de-hellmayr"
+    },
+    {
+        "nm_cientifico": "Percnostola minor",
+        "nm_portugues": "Formigueiro-de-pelzeln"
+    },
+    {
+        "nm_cientifico": "Akletos melanoceps",
+        "nm_portugues": "Formigueiro-grande"
+    },
+    {
+        "nm_cientifico": "Akletos goeldii",
+        "nm_portugues": "Formigueiro-de-goeldi"
+    },
+    {
+        "nm_cientifico": "Hafferia fortis",
+        "nm_portugues": "Formigueiro-de-taoca"
+    },
+    {
+        "nm_cientifico": "Sciaphylax hemimelaena",
+        "nm_portugues": "Formigueiro-de-cauda-castanha"
+    },
+    {
+        "nm_cientifico": "Sciaphylax pallens",
+        "nm_portugues": "Formigueiro-de-cauda-baia"
+    },
+    {
+        "nm_cientifico": "Cercomacra manu",
+        "nm_portugues": "Chororó-de-manu"
+    },
+    {
+        "nm_cientifico": "Cercomacra brasiliana",
+        "nm_portugues": "Chororó-cinzento"
+    },
+    {
+        "nm_cientifico": "Cercomacra cinerascens",
+        "nm_portugues": "Chororó-pocuá"
+    },
+    {
+        "nm_cientifico": "Cercomacra melanaria",
+        "nm_portugues": "Chororó-do-pantanal"
+    },
+    {
+        "nm_cientifico": "Cercomacra ferdinandi",
+        "nm_portugues": "Chororó-de-goiás"
+    },
+    {
+        "nm_cientifico": "Cercomacra carbonaria",
+        "nm_portugues": "Chororó-do-rio-branco"
+    },
+    {
+        "nm_cientifico": "Cercomacroides nigrescens",
+        "nm_portugues": "Chororó-negro"
+    },
+    {
+        "nm_cientifico": "Cercomacroides fuscicauda",
+        "nm_portugues": "Chororó-negro-do-acre"
+    },
+    {
+        "nm_cientifico": "Cercomacroides laeta",
+        "nm_portugues": "Chororó-didi"
+    },
+    {
+        "nm_cientifico": "Cercomacroides tyrannina",
+        "nm_portugues": "Chororó-escuro"
+    },
+    {
+        "nm_cientifico": "Cercomacroides serva",
+        "nm_portugues": "Chororó-preto"
+    },
+    {
+        "nm_cientifico": "Drymophila ferruginea",
+        "nm_portugues": "Dituí"
+    },
+    {
+        "nm_cientifico": "Drymophila rubricollis",
+        "nm_portugues": "Choquinha-dublê"
+    },
+    {
+        "nm_cientifico": "Drymophila genei",
+        "nm_portugues": "Choquinha-da-serra"
+    },
+    {
+        "nm_cientifico": "Drymophila ochropyga",
+        "nm_portugues": "Choquinha-de-dorso-vermelho"
+    },
+    {
+        "nm_cientifico": "Drymophila malura",
+        "nm_portugues": "Choquinha-carijó"
+    },
+    {
+        "nm_cientifico": "Drymophila squamata",
+        "nm_portugues": "Pintadinho"
+    },
+    {
+        "nm_cientifico": "Drymophila devillei",
+        "nm_portugues": "Choquinha-listrada"
+    },
+    {
+        "nm_cientifico": "Hypocnemis hypoxantha",
+        "nm_portugues": "Cantador-amarelo"
+    },
+    {
+        "nm_cientifico": "Hypocnemis subflava",
+        "nm_portugues": "Cantador-galego"
+    },
+    {
+        "nm_cientifico": "Hypocnemis cantator",
+        "nm_portugues": "Cantador-da-guiana"
+    },
+    {
+        "nm_cientifico": "Hypocnemis flavescens",
+        "nm_portugues": "Cantador-sulfúreo"
+    },
+    {
+        "nm_cientifico": "Hypocnemis peruviana",
+        "nm_portugues": "Cantador-sinaleiro"
+    },
+    {
+        "nm_cientifico": "Hypocnemis ochrogyna",
+        "nm_portugues": "Cantador-ocráceo"
+    },
+    {
+        "nm_cientifico": "Hypocnemis rondoni",
+        "nm_portugues": "Cantador-de-rondon"
+    },
+    {
+        "nm_cientifico": "Hypocnemis striata",
+        "nm_portugues": "Cantador-estriado"
+    },
+    {
+        "nm_cientifico": "Pithys albifrons",
+        "nm_portugues": "Papa-formiga-de-topete"
+    },
+    {
+        "nm_cientifico": "Willisornis poecilinotus",
+        "nm_portugues": "Rendadinho"
+    },
+    {
+        "nm_cientifico": "Willisornis vidua",
+        "nm_portugues": "Rendadinho-do-xingu"
+    },
+    {
+        "nm_cientifico": "Phlegopsis nigromaculata",
+        "nm_portugues": "Mãe-de-taoca"
+    },
+    {
+        "nm_cientifico": "Phlegopsis borbae",
+        "nm_portugues": "Mãe-de-taoca-dourada"
+    },
+    {
+        "nm_cientifico": "Phlegopsis erythroptera",
+        "nm_portugues": "Mãe-de-taoca-avermelhada"
+    },
+    {
+        "nm_cientifico": "Gymnopithys leucaspis",
+        "nm_portugues": "Mãe-de-taoca-bochechuda"
+    },
+    {
+        "nm_cientifico": "Gymnopithys rufigula",
+        "nm_portugues": "Mãe-de-taoca-de-garganta-vermelha"
+    },
+    {
+        "nm_cientifico": "Oneillornis salvini",
+        "nm_portugues": "Mãe-de-taoca-de-cauda-barrada"
+    },
+    {
+        "nm_cientifico": "Rhegmatorhina gymnops",
+        "nm_portugues": "Mãe-de-taoca-de-cara-branca"
+    },
+    {
+        "nm_cientifico": "Rhegmatorhina berlepschi",
+        "nm_portugues": "Mãe-de-taoca-arlequim"
+    },
+    {
+        "nm_cientifico": "Rhegmatorhina hoffmannsi",
+        "nm_portugues": "Mãe-de-taoca-papuda"
+    },
+    {
+        "nm_cientifico": "Rhegmatorhina cristata",
+        "nm_portugues": "Mãe-de-taoca-cristada"
+    },
+    {
+        "nm_cientifico": "Rhegmatorhina melanosticta",
+        "nm_portugues": "Mãe-de-taoca-cabeçuda"
+    },
+    {
+        "nm_cientifico": "Melanopareia torquata",
+        "nm_portugues": "Tapaculo-de-colarinho"
+    },
+    {
+        "nm_cientifico": "Conopophaga lineata",
+        "nm_portugues": "Chupa-dente"
+    },
+    {
+        "nm_cientifico": "Conopophaga aurita",
+        "nm_portugues": "Chupa-dente-de-cinta"
+    },
+    {
+        "nm_cientifico": "Conopophaga roberti",
+        "nm_portugues": "Chupa-dente-de-capuz"
+    },
+    {
+        "nm_cientifico": "Conopophaga melanogaster",
+        "nm_portugues": "Chupa-dente-grande"
+    },
+    {
+        "nm_cientifico": "Conopophaga peruviana",
+        "nm_portugues": "Chupa-dente-do-peru"
+    },
+    {
+        "nm_cientifico": "Conopophaga melanops",
+        "nm_portugues": "Cuspidor-de-máscara-preta"
+    },
+    {
+        "nm_cientifico": "Grallaria varia",
+        "nm_portugues": "Tovacuçu-malhado"
+    },
+    {
+        "nm_cientifico": "Grallaria eludens",
+        "nm_portugues": "Tovacuçu-xodó"
+    },
+    {
+        "nm_cientifico": "Hylopezus macularius",
+        "nm_portugues": "Torom-carijó"
+    },
+    {
+        "nm_cientifico": "Hylopezus dilutus",
+        "nm_portugues": "Torom-do-imeri"
+    },
+    {
+        "nm_cientifico": "Hylopezus paraensis",
+        "nm_portugues": "Torom-do-pará"
+    },
+    {
+        "nm_cientifico": "Hylopezus ochroleucus",
+        "nm_portugues": "Torom-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Hylopezus nattereri",
+        "nm_portugues": "Pinto-do-mato"
+    },
+    {
+        "nm_cientifico": "Myrmothera campanisona",
+        "nm_portugues": "Tovaca-patinho"
+    },
+    {
+        "nm_cientifico": "Myrmothera simplex",
+        "nm_portugues": "Torom-de-peito-pardo"
+    },
+    {
+        "nm_cientifico": "Merulaxis ater",
+        "nm_portugues": "Entufado"
+    },
+    {
+        "nm_cientifico": "Merulaxis stresemanni",
+        "nm_portugues": "Entufado-baiano"
+    },
+    {
+        "nm_cientifico": "Scytalopus diamantinensis",
+        "nm_portugues": "Tapaculo-da-chapada-diamantina"
+    },
+    {
+        "nm_cientifico": "Scytalopus pachecoi",
+        "nm_portugues": "Tapaculo-ferreirinho"
+    },
+    {
+        "nm_cientifico": "Scytalopus novacapitalis",
+        "nm_portugues": "Tapaculo-de-brasília"
+    },
+    {
+        "nm_cientifico": "Eleoscytalopus indigoticus",
+        "nm_portugues": "Macuquinho"
+    },
+    {
+        "nm_cientifico": "Eleoscytalopus psychopompus",
+        "nm_portugues": "Macuquinho-baiano"
+    },
+    {
+        "nm_cientifico": "Liosceles thoracicus",
+        "nm_portugues": "Corneteiro-da-mata"
+    },
+    {
+        "nm_cientifico": "Psilorhamphus guttatus",
+        "nm_portugues": "Tapaculo-pintado"
+    },
+    {
+        "nm_cientifico": "Formicarius colma",
+        "nm_portugues": "Galinha-do-mato"
+    },
+    {
+        "nm_cientifico": "Formicarius analis",
+        "nm_portugues": "Pinto-do-mato-de-cara-preta"
+    },
+    {
+        "nm_cientifico": "Formicarius rufifrons",
+        "nm_portugues": "Pinto-do-mato-de-fronte-ruiva"
+    },
+    {
+        "nm_cientifico": "Chamaeza campanisona",
+        "nm_portugues": "Tovaca-campainha"
+    },
+    {
+        "nm_cientifico": "Chamaeza nobilis",
+        "nm_portugues": "Tovaca-estriada"
+    },
+    {
+        "nm_cientifico": "Chamaeza meruloides",
+        "nm_portugues": "Tovaca-cantadora"
+    },
+    {
+        "nm_cientifico": "Chamaeza ruficauda",
+        "nm_portugues": "Tovaca-de-rabo-vermelho"
+    },
+    {
+        "nm_cientifico": "Sclerurus caudacutus",
+        "nm_portugues": "Vira-folha-pardo"
+    },
+    {
+        "nm_cientifico": "Sclerurus cearensis",
+        "nm_portugues": "Vira-folha-cearense"
+    },
+    {
+        "nm_cientifico": "Geositta poeciloptera",
+        "nm_portugues": "Andarilho"
+    },
+    {
+        "nm_cientifico": "Dendrocincla merula",
+        "nm_portugues": "Arapaçu-da-taoca"
+    },
+    {
+        "nm_cientifico": "Deconychura longicauda",
+        "nm_portugues": "Arapaçu-rabudo"
+    },
+    {
+        "nm_cientifico": "Sittasomus griseicapillus",
+        "nm_portugues": "Arapaçu-verde"
+    },
+    {
+        "nm_cientifico": "Certhiasomus stictolaemus",
+        "nm_portugues": "Arapaçu-de-garganta-pintada"
+    },
+    {
+        "nm_cientifico": "Glyphorynchus spirurus",
+        "nm_portugues": "Arapaçu-de-bico-de-cunha"
+    },
+    {
+        "nm_cientifico": "Xiphorhynchus obsoletus",
+        "nm_portugues": "Arapaçu-riscado"
+    },
+    {
+        "nm_cientifico": "Xiphorhynchus guttatus",
+        "nm_portugues": "Arapaçu-de-garganta-amarela"
+    },
+    {
+        "nm_cientifico": "Campylorhamphus falcularius",
+        "nm_portugues": "Arapaçu-de-bico-torto"
+    },
+    {
+        "nm_cientifico": "Campylorhamphus trochilirostris",
+        "nm_portugues": "Arapaçu-beija-flor"
+    },
+    {
+        "nm_cientifico": "Campylorhamphus procurvoides",
+        "nm_portugues": "Arapaçu-de-bico-curvo"
+    },
+    {
+        "nm_cientifico": "Drymornis bridgesii",
+        "nm_portugues": "Arapaçu-platino"
+    },
+    {
+        "nm_cientifico": "Lepidocolaptes angustirostris",
+        "nm_portugues": "Arapaçu-de-cerrado"
+    },
+    {
+        "nm_cientifico": "Lepidocolaptes squamatus",
+        "nm_portugues": "Arapaçu-escamado"
+    },
+    {
+        "nm_cientifico": "Lepidocolaptes falcinellus",
+        "nm_portugues": "Arapaçu-escamado-do-sul"
+    },
+    {
+        "nm_cientifico": "Lepidocolaptes albolineatus",
+        "nm_portugues": "Arapaçu-de-listras-brancas"
+    },
+    {
+        "nm_cientifico": "Lepidocolaptes fuscicapillus",
+        "nm_portugues": "Arapaçu-de-rondônia"
+    },
+    {
+        "nm_cientifico": "Nasica longirostris",
+        "nm_portugues": "Arapaçu-de-bico-comprido"
+    },
+    {
+        "nm_cientifico": "Dendrexetastes rufigula",
+        "nm_portugues": "Arapaçu-galinha"
+    },
+    {
+        "nm_cientifico": "Dendrocolaptes certhia",
+        "nm_portugues": "Arapaçu-barrado"
+    },
+    {
+        "nm_cientifico": "Dendrocolaptes medius",
+        "nm_portugues": "Arapaçu-barrado-do-leste"
+    },
+    {
+        "nm_cientifico": "Dendrocolaptes picumnus",
+        "nm_portugues": "Arapaçu-meio-barrado"
+    },
+    {
+        "nm_cientifico": "Dendrocolaptes hoffmannsi",
+        "nm_portugues": "Arapaçu-marrom"
+    },
+    {
+        "nm_cientifico": "Dendrocolaptes platyrostris",
+        "nm_portugues": "Arapaçu-grande"
+    },
+    {
+        "nm_cientifico": "Xiphocolaptes promeropirhynchus",
+        "nm_portugues": "Arapaçu-vermelho"
+    },
+    {
+        "nm_cientifico": "Xiphocolaptes falcirostris",
+        "nm_portugues": "Arapaçu-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Xiphocolaptes albicollis",
+        "nm_portugues": "Arapaçu-de-garganta-branca"
+    },
+    {
+        "nm_cientifico": "Hylexetastes stresemanni",
+        "nm_portugues": "Arapaçu-de-barriga-pintada"
+    },
+    {
+        "nm_cientifico": "Hylexetastes perrotii",
+        "nm_portugues": "Arapaçu-de-bico-vermelho"
+    },
+    {
+        "nm_cientifico": "Hylexetastes uniformis",
+        "nm_portugues": "Arapaçu-uniforme"
+    },
+    {
+        "nm_cientifico": "Hylexetastes brigidai",
+        "nm_portugues": "Arapaçu-de-loro-cinza"
+    },
+    {
+        "nm_cientifico": "Xenops minutus",
+        "nm_portugues": "Bico-virado-miúdo"
+    },
+    {
+        "nm_cientifico": "Berlepschia rikeri",
+        "nm_portugues": "limpa-folha-do-buriti"
+    },
+    {
+        "nm_cientifico": "Cinclodes pabsti",
+        "nm_portugues": "João-pedreiro"
+    },
+    {
+        "nm_cientifico": "Cinclodes fuscus",
+        "nm_portugues": "Pedreiro-dos-andes"
+    },
+    {
+        "nm_cientifico": "Furnarius figulus",
+        "nm_portugues": "Casaca-de-couro-da-lama"
+    },
+    {
+        "nm_cientifico": "Furnarius leucopus",
+        "nm_portugues": "Casaca-de-couro-amarelo"
+    },
+    {
+        "nm_cientifico": "Furnarius torridus",
+        "nm_portugues": "João-de-bico-pálido"
+    },
+    {
+        "nm_cientifico": "Furnarius minor",
+        "nm_portugues": "Joãozinho"
+    },
+    {
+        "nm_cientifico": "Furnarius rufus",
+        "nm_portugues": "João-de-barro"
+    },
+    {
+        "nm_cientifico": "Limnornis curvirostris",
+        "nm_portugues": "João-da-palha"
+    },
+    {
+        "nm_cientifico": "Phleocryptes melanops",
+        "nm_portugues": "Bate-bico"
+    },
+    {
+        "nm_cientifico": "Lochmias nematura",
+        "nm_portugues": "João-porca"
+    },
+    {
+        "nm_cientifico": "Ancistrops strigilatus",
+        "nm_portugues": "Limpa-folha-picanço"
+    },
+    {
+        "nm_cientifico": "Clibanornis rectirostris",
+        "nm_portugues": "Fura-barreira"
+    },
+    {
+        "nm_cientifico": "Clibanornis dendrocolaptoides",
+        "nm_portugues": "Cisqueiro"
+    },
+    {
+        "nm_cientifico": "Clibanornis obscurus",
+        "nm_portugues": "Barranqueiro-ferrugem"
+    },
+    {
+        "nm_cientifico": "Automolus rufipileatus",
+        "nm_portugues": "Barranqueiro-de-coroa-castanha"
+    },
+    {
+        "nm_cientifico": "Automolus melanopezus",
+        "nm_portugues": "Barranqueiro-escuro"
+    },
+    {
+        "nm_cientifico": "Automolus subulatus",
+        "nm_portugues": "Limpa-folha-riscado"
+    },
+    {
+        "nm_cientifico": "Automolus ochrolaemus",
+        "nm_portugues": "Barranqueiro-camurça"
+    },
+    {
+        "nm_cientifico": "Automolus infuscatus",
+        "nm_portugues": "Barranqueiro-pardo"
+    },
+    {
+        "nm_cientifico": "Automolus paraensis",
+        "nm_portugues": "Barranqueiro-do-pará"
+    },
+    {
+        "nm_cientifico": "Automolus leucophthalmus",
+        "nm_portugues": "Barranqueiro-de-olho-branco"
+    },
+    {
+        "nm_cientifico": "Anabazenops dorsalis",
+        "nm_portugues": "Barranqueiro-de-topete"
+    },
+    {
+        "nm_cientifico": "Anabazenops fuscus",
+        "nm_portugues": "Trepador-coleira"
+    },
+    {
+        "nm_cientifico": "Anabacerthia amaurotis",
+        "nm_portugues": "Limpa-folha-miúdo"
+    },
+    {
+        "nm_cientifico": "Anabacerthia ruficaudatum",
+        "nm_portugues": "Limpa-folha-de-cauda-ruiva"
+    },
+    {
+        "nm_cientifico": "Philydor erythrocercum",
+        "nm_portugues": "Limpa-folha-de-sobre-ruivo"
+    },
+    {
+        "nm_cientifico": "Philydor novaesi",
+        "nm_portugues": "Limpa-folha-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Heliobletus contaminatus",
+        "nm_portugues": "Trepadorzinho"
+    },
+    {
+        "nm_cientifico": "Syndactyla roraimae",
+        "nm_portugues": "Barranqueiro-de-roraima"
+    },
+    {
+        "nm_cientifico": "Cichlocolaptes leucophrus",
+        "nm_portugues": "Trepador-sobrancelha"
+    },
+    {
+        "nm_cientifico": "Leptasthenura platensis",
+        "nm_portugues": "Rabudinho"
+    },
+    {
+        "nm_cientifico": "Leptasthenura striolata",
+        "nm_portugues": "Grimpeirinho"
+    },
+    {
+        "nm_cientifico": "Leptasthenura setaria",
+        "nm_portugues": "Grimpeiro"
+    },
+    {
+        "nm_cientifico": "Pseudoseisura cristata",
+        "nm_portugues": "Casaca-de-couro"
+    },
+    {
+        "nm_cientifico": "Pseudoseisura lophotes",
+        "nm_portugues": "Coperete"
+    },
+    {
+        "nm_cientifico": "Schoeniophylax phryganophilus",
+        "nm_portugues": "Bichoita"
+    },
+    {
+        "nm_cientifico": "Synallaxis ruficapilla",
+        "nm_portugues": "Pichororé"
+    },
+    {
+        "nm_cientifico": "Synallaxis whitneyi",
+        "nm_portugues": "João-baiano"
+    },
+    {
+        "nm_cientifico": "Synallaxis albigularis",
+        "nm_portugues": "João-de-peito-escuro"
+    },
+    {
+        "nm_cientifico": "Synallaxis spixi",
+        "nm_portugues": "João-teneném"
+    },
+    {
+        "nm_cientifico": "Synallaxis rutilans",
+        "nm_portugues": "Joao-teneném-castanho"
+    },
+    {
+        "nm_cientifico": "Synallaxis gujanensis",
+        "nm_portugues": "João-teneném-becuá"
+    },
+    {
+        "nm_cientifico": "Synallaxis albilora",
+        "nm_portugues": "João-do-pantanal"
+    },
+    {
+        "nm_cientifico": "Synallaxis kollari",
+        "nm_portugues": "João-de-barba-grisalha"
+    },
+    {
+        "nm_cientifico": "Synallaxis hellmayri",
+        "nm_portugues": "João-chique-chique"
+    },
+    {
+        "nm_cientifico": "Cranioleuca vulpina",
+        "nm_portugues": "Arredio-do-rio"
+    },
+    {
+        "nm_cientifico": "Cranioleuca vulpecula",
+        "nm_portugues": "Arredio-de-peito-branco"
+    },
+    {
+        "nm_cientifico": "Cranioleuca sulphurifera",
+        "nm_portugues": "Arredio-de-papo-manchado"
+    },
+    {
+        "nm_cientifico": "Cranioleuca pyrrhophia",
+        "nm_portugues": "João-arredio"
+    },
+    {
+        "nm_cientifico": "Cranioleuca obsoleta",
+        "nm_portugues": "Arredio-oliváceo"
+    },
+    {
+        "nm_cientifico": "Cranioleuca pallida",
+        "nm_portugues": "Arredio-pálido"
+    },
+    {
+        "nm_cientifico": "Cranioleuca semicinerea",
+        "nm_portugues": "João-de-cabeça-cinza"
+    },
+    {
+        "nm_cientifico": "Cranioleuca demissa",
+        "nm_portugues": "João-do-tepui"
+    },
+    {
+        "nm_cientifico": "Cranioleuca gutturata",
+        "nm_portugues": "João-pintado"
+    },
+    {
+        "nm_cientifico": "Cranioleuca muelleri",
+        "nm_portugues": "João-escamoso"
+    },
+    {
+        "nm_cientifico": "Limnoctites rectirostris",
+        "nm_portugues": "Arredio-do-gravatá"
+    },
+    {
+        "nm_cientifico": "Certhiaxis cinnamomeus",
+        "nm_portugues": "Curutié"
+    },
+    {
+        "nm_cientifico": "Certhiaxis mustelinus",
+        "nm_portugues": "João-da-canarana"
+    },
+    {
+        "nm_cientifico": "Thripophaga macroura",
+        "nm_portugues": "Rabo-amarelo"
+    },
+    {
+        "nm_cientifico": "Asthenes baeri",
+        "nm_portugues": "Lenheiro"
+    },
+    {
+        "nm_cientifico": "Asthenes luizae",
+        "nm_portugues": "Lenheiro-da-serra-do-cipó"
+    },
+    {
+        "nm_cientifico": "Asthenes pyrrholeuca",
+        "nm_portugues": "Lenheiro-de-rabo-comprido"
+    },
+    {
+        "nm_cientifico": "Asthenes moreirae",
+        "nm_portugues": "Garrincha-chorona"
+    },
+    {
+        "nm_cientifico": "Asthenes hudsoni",
+        "nm_portugues": "João-platino"
+    },
+    {
+        "nm_cientifico": "Phacellodomus rufifrons",
+        "nm_portugues": "João-de-pau"
+    },
+    {
+        "nm_cientifico": "Phacellodomus sibilatrix",
+        "nm_portugues": "Tio-tio-pequeno"
+    },
+    {
+        "nm_cientifico": "Phacellodomus striaticollis",
+        "nm_portugues": "Tio-tio"
+    },
+    {
+        "nm_cientifico": "Phacellodomus ruber",
+        "nm_portugues": "Graveteiro"
+    },
+    {
+        "nm_cientifico": "Phacellodomus erythrophthalmus",
+        "nm_portugues": "João-botina-da-mata"
+    },
+    {
+        "nm_cientifico": "Phacellodomus ferrugineigula",
+        "nm_portugues": "João-botina-do-brejo"
+    },
+    {
+        "nm_cientifico": "Anumbius annumbi",
+        "nm_portugues": "Cochicho"
+    },
+    {
+        "nm_cientifico": "Coryphistera alaudina",
+        "nm_portugues": "Corredor-crestudo"
+    },
+    {
+        "nm_cientifico": "Metopothrix aurantiaca",
+        "nm_portugues": "João-folheiro"
+    },
+    {
+        "nm_cientifico": "Acrobatornis fonsecai",
+        "nm_portugues": "Acrobata"
+    },
+    {
+        "nm_cientifico": "Roraimia adusta",
+        "nm_portugues": "João-de-roraima"
+    },
+    {
+        "nm_cientifico": "Neopelma pallescens",
+        "nm_portugues": "Fruxu-do-cerradão"
+    },
+    {
+        "nm_cientifico": "Neopelma chrysocephalum",
+        "nm_portugues": "Fruxu-do-carrasco"
+    },
+    {
+        "nm_cientifico": "Neopelma aurifrons",
+        "nm_portugues": "Fruxu-baiano"
+    },
+    {
+        "nm_cientifico": "Neopelma chrysolophum",
+        "nm_portugues": "Fruxu"
+    },
+    {
+        "nm_cientifico": "Neopelma sulphureiventer",
+        "nm_portugues": "Fruxu-de-barriga-amarela"
+    },
+    {
+        "nm_cientifico": "Pipra aureola",
+        "nm_portugues": "Uirapuru-vermelho"
+    },
+    {
+        "nm_cientifico": "Pipra fasciicauda",
+        "nm_portugues": "Uirapuru-laranja"
+    },
+    {
+        "nm_cientifico": "Ceratopipra erythrocephala",
+        "nm_portugues": "Cabeça-de-ouro"
+    },
+    {
+        "nm_cientifico": "Ceratopipra rubrocapilla",
+        "nm_portugues": "Cabeça-encarnada"
+    },
+    {
+        "nm_cientifico": "Lepidothrix coronata",
+        "nm_portugues": "Uirapuru-de-chapéu-azul"
+    },
+    {
+        "nm_cientifico": "Lepidothrix nattereri",
+        "nm_portugues": "Uirapuru-de-chapéu-branco"
+    },
+    {
+        "nm_cientifico": "Lepidothrix vilasboasi",
+        "nm_portugues": "Dançador-de-coroa-dourada"
+    },
+    {
+        "nm_cientifico": "Lepidothrix iris",
+        "nm_portugues": "Cabeça-de-prata"
+    },
+    {
+        "nm_cientifico": "Lepidothrix serena",
+        "nm_portugues": "Uirapuru-estrela"
+    },
+    {
+        "nm_cientifico": "Lepidothrix suavissima",
+        "nm_portugues": "Dançador-do-tepui"
+    },
+    {
+        "nm_cientifico": "Manacus manacus",
+        "nm_portugues": "Rendeira"
+    },
+    {
+        "nm_cientifico": "Heterocercus aurantiivertex",
+        "nm_portugues": "Dançarino-de-crista-laranja"
+    },
+    {
+        "nm_cientifico": "Heterocercus flavivertex",
+        "nm_portugues": "Dançarino-de-crista-amarela"
+    },
+    {
+        "nm_cientifico": "Heterocercus linteatus",
+        "nm_portugues": "Coroa-de-fogo"
+    },
+    {
+        "nm_cientifico": "Machaeropterus regulus",
+        "nm_portugues": "Tangará-rajado"
+    },
+    {
+        "nm_cientifico": "Machaeropterus pyrocephalus",
+        "nm_portugues": "Uirapuru-cigarra"
+    },
+    {
+        "nm_cientifico": "Dixiphia pipra",
+        "nm_portugues": "Cabeça-branca"
+    },
+    {
+        "nm_cientifico": "Xenopipo uniformis",
+        "nm_portugues": "Dançarino-oliváceo"
+    },
+    {
+        "nm_cientifico": "Ilicura militaris",
+        "nm_portugues": "Tangarazinho"
+    },
+    {
+        "nm_cientifico": "Corapipo gutturalis",
+        "nm_portugues": "Dançarino-de-garganta-branca"
+    },
+    {
+        "nm_cientifico": "Chiroxiphia pareola",
+        "nm_portugues": "Tangará-falso"
+    },
+    {
+        "nm_cientifico": "Chiroxiphia caudata",
+        "nm_portugues": "Tangará"
+    },
+    {
+        "nm_cientifico": "Antilophia bokermanni",
+        "nm_portugues": "Soldadinho-do-araripe"
+    },
+    {
+        "nm_cientifico": "Antilophia galeata",
+        "nm_portugues": "Soldadinho"
+    },
+    {
+        "nm_cientifico": "Oxyruncus cristatus",
+        "nm_portugues": "Araponga-do-horto"
+    },
+    {
+        "nm_cientifico": "Onychorhynchus coronatus",
+        "nm_portugues": "Maria-leque"
+    },
+    {
+        "nm_cientifico": "Onychorhynchus swainsoni",
+        "nm_portugues": "Maria-leque-do-sudeste"
+    },
+    {
+        "nm_cientifico": "Myiobius barbatus",
+        "nm_portugues": "Assanhadinho"
+    },
+    {
+        "nm_cientifico": "Myiobius atricaudus",
+        "nm_portugues": "Assadinho-de-cauda-preta"
+    },
+    {
+        "nm_cientifico": "Schiffornis major",
+        "nm_portugues": "Flautim-ruivo"
+    },
+    {
+        "nm_cientifico": "Schiffornis virescens",
+        "nm_portugues": "Flautim"
+    },
+    {
+        "nm_cientifico": "Schiffornis turdina",
+        "nm_portugues": "Flautim-marrom"
+    },
+    {
+        "nm_cientifico": "Schiffornis olivacea",
+        "nm_portugues": "Flautim-oliváceo"
+    },
+    {
+        "nm_cientifico": "Schiffornis amazonum",
+        "nm_portugues": "Flautim-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Laniocera hypopyrra",
+        "nm_portugues": "Chorona-cinza"
+    },
+    {
+        "nm_cientifico": "Laniisoma elegans",
+        "nm_portugues": "Chibante"
+    },
+    {
+        "nm_cientifico": "Iodopleura isabellae",
+        "nm_portugues": "Anambé-de-coroa"
+    },
+    {
+        "nm_cientifico": "Iodopleura fusca",
+        "nm_portugues": "Anambé-fusco"
+    },
+    {
+        "nm_cientifico": "Iodopleura pipra",
+        "nm_portugues": "Anambezinho"
+    },
+    {
+        "nm_cientifico": "Tityra inquisitor",
+        "nm_portugues": "Anambé-branco-de-bochecha-parda"
+    },
+    {
+        "nm_cientifico": "Tityra cayana",
+        "nm_portugues": "Anambé-branco-de-rabo-preto"
+    },
+    {
+        "nm_cientifico": "Tityra semifasciata",
+        "nm_portugues": "Anambé-branco-de-máscara-negra"
+    },
+    {
+        "nm_cientifico": "Pachyramphus viridis",
+        "nm_portugues": "Caneleiro-verde"
+    },
+    {
+        "nm_cientifico": "Pachyramphus xanthogenys",
+        "nm_portugues": "Caneleiro-de-cara-amarela"
+    },
+    {
+        "nm_cientifico": "Pachyramphus rufus",
+        "nm_portugues": "Caneleiro-cinzento"
+    },
+    {
+        "nm_cientifico": "Pachyramphus castaneus",
+        "nm_portugues": "Caneleiro"
+    },
+    {
+        "nm_cientifico": "Pachyramphus polychopterus",
+        "nm_portugues": "Caneleiro-preto"
+    },
+    {
+        "nm_cientifico": "Pachyramphus marginatus",
+        "nm_portugues": "Caneleiro-bordado"
+    },
+    {
+        "nm_cientifico": "Pachyramphus surinamus",
+        "nm_portugues": "Caneleiro-da-guiana"
+    },
+    {
+        "nm_cientifico": "Pachyramphus minor",
+        "nm_portugues": "Caneleiro-pequeno"
+    },
+    {
+        "nm_cientifico": "Pachyramphus validus",
+        "nm_portugues": "Caneleiro-de-chapéu-preto"
+    },
+    {
+        "nm_cientifico": "Xenopsaris albinucha",
+        "nm_portugues": "Tijerila"
+    },
+    {
+        "nm_cientifico": "Pipreola whitelyi",
+        "nm_portugues": "Anambé-de-whitely"
+    },
+    {
+        "nm_cientifico": "Phibalura flavirostris",
+        "nm_portugues": "Tesourinha-da-mata"
+    },
+    {
+        "nm_cientifico": "Carpornis cucullata",
+        "nm_portugues": "Corocochó"
+    },
+    {
+        "nm_cientifico": "Carpornis melanocephala",
+        "nm_portugues": "Sabiá-pimenta"
+    },
+    {
+        "nm_cientifico": "Cotinga maynana",
+        "nm_portugues": "Cotinga-azul"
+    },
+    {
+        "nm_cientifico": "Cotinga cotinga",
+        "nm_portugues": "Anambé-de-peito-roxo"
+    },
+    {
+        "nm_cientifico": "Cotinga maculata",
+        "nm_portugues": "Crejoá"
+    },
+    {
+        "nm_cientifico": "Cotinga cayana",
+        "nm_portugues": "Anambé-azul"
+    },
+    {
+        "nm_cientifico": "Procnias albus",
+        "nm_portugues": "Araponga-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Procnias averano",
+        "nm_portugues": "Araponga-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Procnias nudicollis",
+        "nm_portugues": "Araponga-comum"
+    },
+    {
+        "nm_cientifico": "Lipaugus ater",
+        "nm_portugues": "Saudade"
+    },
+    {
+        "nm_cientifico": "Lipaugus conditus",
+        "nm_portugues": "Saudade-de-asa-cinza"
+    },
+    {
+        "nm_cientifico": "Lipaugus vociferans",
+        "nm_portugues": "Cricrió"
+    },
+    {
+        "nm_cientifico": "Lipaugus lanioides",
+        "nm_portugues": "Tropeiro-da-serra"
+    },
+    {
+        "nm_cientifico": "Lipaugus streptophorus",
+        "nm_portugues": "Cricrió-de-cinta-vermelha"
+    },
+    {
+        "nm_cientifico": "Conioptilon mcilhennyi",
+        "nm_portugues": "Anambé-de-cara-preta"
+    },
+    {
+        "nm_cientifico": "Porphyrolaema porphyrolaema",
+        "nm_portugues": "Cotinga-de-garganta-encarnada"
+    },
+    {
+        "nm_cientifico": "Xipholena punicea",
+        "nm_portugues": "Anambé-pompadora"
+    },
+    {
+        "nm_cientifico": "Xipholena lamellipennis",
+        "nm_portugues": "Anambé-de-rabo-branco"
+    },
+    {
+        "nm_cientifico": "Xipholena atropurpurea",
+        "nm_portugues": "Anambé-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Gymnoderus foetidus",
+        "nm_portugues": "Anambé-pombo"
+    },
+    {
+        "nm_cientifico": "Querula purpurata",
+        "nm_portugues": "Anambé-uma"
+    },
+    {
+        "nm_cientifico": "Haematoderus militaris",
+        "nm_portugues": "Anambé-militar"
+    },
+    {
+        "nm_cientifico": "Pyroderus scutatus",
+        "nm_portugues": "Pavó"
+    },
+    {
+        "nm_cientifico": "Perissocephalus tricolor",
+        "nm_portugues": "Maú"
+    },
+    {
+        "nm_cientifico": "Cephalopterus ornatus",
+        "nm_portugues": "Anambé-preto"
+    },
+    {
+        "nm_cientifico": "Rupicola rupicola",
+        "nm_portugues": "Galo-da-serra"
+    },
+    {
+        "nm_cientifico": "Phoenicircus carnifex",
+        "nm_portugues": "Saurá"
+    },
+    {
+        "nm_cientifico": "Phytotoma rutila",
+        "nm_portugues": "Corta-ramos"
+    },
+    {
+        "nm_cientifico": "Piprites chloris",
+        "nm_portugues": "Papinho-amarelo"
+    },
+    {
+        "nm_cientifico": "Calyptura cristata",
+        "nm_portugues": "Tietê-de-coroa"
+    },
+    {
+        "nm_cientifico": "Neopipo cinnamomea",
+        "nm_portugues": "Enferrujadinho"
+    },
+    {
+        "nm_cientifico": "Platyrinchus saturatus",
+        "nm_portugues": "Patinho-escuro"
+    },
+    {
+        "nm_cientifico": "Platyrinchus coronatus",
+        "nm_portugues": "Patinho-de-coroa-dourada"
+    },
+    {
+        "nm_cientifico": "Platyrinchus leucoryphus",
+        "nm_portugues": "Patinho-gigante"
+    },
+    {
+        "nm_cientifico": "Tachuris rubrigastra",
+        "nm_portugues": "Papa-piri"
+    },
+    {
+        "nm_cientifico": "Cnipodectes subbrunneus",
+        "nm_portugues": "Flautim-pardo"
+    },
+    {
+        "nm_cientifico": "Mionectes amazonus",
+        "nm_portugues": "Abre-asa-do-acre"
+    },
+    {
+        "nm_cientifico": "Mionectes oleagineus",
+        "nm_portugues": "Abre-asa-comum"
+    },
+    {
+        "nm_cientifico": "Mionectes macconnelli",
+        "nm_portugues": "Abre-asa-da-mata"
+    },
+    {
+        "nm_cientifico": "Mionectes rufiventris",
+        "nm_portugues": "Abre-asa-de-cabeça-cinza"
+    },
+    {
+        "nm_cientifico": "Leptopogon amaurocephalus",
+        "nm_portugues": "Cabeçudo"
+    },
+    {
+        "nm_cientifico": "Corythopis torquatus",
+        "nm_portugues": "Estalador-do-norte"
+    },
+    {
+        "nm_cientifico": "Corythopis delalandi",
+        "nm_portugues": "Estalador"
+    },
+    {
+        "nm_cientifico": "Phylloscartes chapmani",
+        "nm_portugues": "Barbudinho-do-tepui"
+    },
+    {
+        "nm_cientifico": "Phylloscartes eximius",
+        "nm_portugues": "Barbudinho"
+    },
+    {
+        "nm_cientifico": "Phylloscartes ventralis",
+        "nm_portugues": "Borboletinha-do-mato"
+    },
+    {
+        "nm_cientifico": "Phylloscartes ceciliae",
+        "nm_portugues": "Cara-pintada"
+    },
+    {
+        "nm_cientifico": "Phylloscartes kronei",
+        "nm_portugues": "Maria-da-restinga"
+    },
+    {
+        "nm_cientifico": "Phylloscartes beckeri",
+        "nm_portugues": "Borboletinha-baiana"
+    },
+    {
+        "nm_cientifico": "Phylloscartes virescens",
+        "nm_portugues": "Borboletinha-guianense"
+    },
+    {
+        "nm_cientifico": "Phylloscartes nigrifrons",
+        "nm_portugues": "Maria-de-testa-preta"
+    },
+    {
+        "nm_cientifico": "Phylloscartes roquettei",
+        "nm_portugues": "Cara-dourada"
+    },
+    {
+        "nm_cientifico": "Phylloscartes paulista",
+        "nm_portugues": "Não-pode-parar"
+    },
+    {
+        "nm_cientifico": "Phylloscartes oustaleti",
+        "nm_portugues": "Papa-moscas-de-olheiras"
+    },
+    {
+        "nm_cientifico": "Phylloscartes difficilis",
+        "nm_portugues": "Estalinho"
+    },
+    {
+        "nm_cientifico": "Phylloscartes sylviolus",
+        "nm_portugues": "Maria-pequena"
+    },
+    {
+        "nm_cientifico": "Rhynchocyclus olivaceus",
+        "nm_portugues": "Bico-chato-grande"
+    },
+    {
+        "nm_cientifico": "Tolmomyias sulphurescens",
+        "nm_portugues": "Bico-chato-de-orelha-preta"
+    },
+    {
+        "nm_cientifico": "Tolmomyias assimilis",
+        "nm_portugues": "Bico-chato-da-copa"
+    },
+    {
+        "nm_cientifico": "Tolmomyias sucunduri",
+        "nm_portugues": "Bico-chato-do-sucunduri"
+    },
+    {
+        "nm_cientifico": "Tolmomyias poliocephalus",
+        "nm_portugues": "Bico-chato-de-cabeça-cinza"
+    },
+    {
+        "nm_cientifico": "Tolmomyias flaviventris",
+        "nm_portugues": "Bico-chato-amarelo"
+    },
+    {
+        "nm_cientifico": "Todirostrum maculatum",
+        "nm_portugues": "Ferreirinho-estriado"
+    },
+    {
+        "nm_cientifico": "Todirostrum poliocephalum",
+        "nm_portugues": "Teque-teque"
+    },
+    {
+        "nm_cientifico": "Todirostrum cinereum",
+        "nm_portugues": "Ferreirinho-relógio"
+    },
+    {
+        "nm_cientifico": "Todirostrum pictum",
+        "nm_portugues": "Ferreirinho-pintado"
+    },
+    {
+        "nm_cientifico": "Todirostrum chrysocrotaphum",
+        "nm_portugues": "Ferreirinho-de-sobrancelhas"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus albifacies",
+        "nm_portugues": "Ferreirinho-de-cara-branca"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus capitalis",
+        "nm_portugues": "Maria-picaça"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus senex",
+        "nm_portugues": "Maria-do-madeira"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus russatus",
+        "nm_portugues": "Ferreirinho-ferrugem"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus plumbeiceps",
+        "nm_portugues": "Tororó"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus fumifrons",
+        "nm_portugues": "Ferreirinho-de-testa-parda"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus latirostris",
+        "nm_portugues": "Ferreirinho-de-cara-parda"
+    },
+    {
+        "nm_cientifico": "Poecilotriccus sylvia",
+        "nm_portugues": "Ferreirinho-da-capoeira"
+    },
+    {
+        "nm_cientifico": "Myiornis auricularis",
+        "nm_portugues": "Miudinho"
+    },
+    {
+        "nm_cientifico": "Myiornis ecaudatus",
+        "nm_portugues": "Caçula"
+    },
+    {
+        "nm_cientifico": "Hemitriccus cohnhafti",
+        "nm_portugues": "Maria-sebinha-do-acre"
+    },
+    {
+        "nm_cientifico": "Hemitriccus minor",
+        "nm_portugues": "Maria-sebinha"
+    },
+    {
+        "nm_cientifico": "Hemitriccus flammulatus",
+        "nm_portugues": "Maria-de-peito-machetado"
+    },
+    {
+        "nm_cientifico": "Hemitriccus diops",
+        "nm_portugues": "Olho-falso"
+    },
+    {
+        "nm_cientifico": "Hemitriccus obsoletus",
+        "nm_portugues": "Catraca"
+    },
+    {
+        "nm_cientifico": "Hemitriccus josephinae",
+        "nm_portugues": "Maria-bicudinha"
+    },
+    {
+        "nm_cientifico": "Hemitriccus zosterops",
+        "nm_portugues": "Maria-de-olho-branco"
+    },
+    {
+        "nm_cientifico": "Hemitriccus griseipectus",
+        "nm_portugues": "Maria-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Hemitriccus orbitatus",
+        "nm_portugues": "Tiririzinho-do-mato"
+    },
+    {
+        "nm_cientifico": "Hemitriccus iohannis",
+        "nm_portugues": "Maria-peruviana"
+    },
+    {
+        "nm_cientifico": "Hemitriccus striaticollis",
+        "nm_portugues": "Sebinho-rajado-amarelo"
+    },
+    {
+        "nm_cientifico": "Hemitriccus nidipendulus",
+        "nm_portugues": "Tachuri-campainha"
+    },
+    {
+        "nm_cientifico": "Hemitriccus margaritaceiventer",
+        "nm_portugues": "Sebinho-de-olho-de-ouro"
+    },
+    {
+        "nm_cientifico": "Hemitriccus inornatus",
+        "nm_portugues": "Maria-da-campina"
+    },
+    {
+        "nm_cientifico": "Hemitriccus minimus",
+        "nm_portugues": "Maria-mirim"
+    },
+    {
+        "nm_cientifico": "Hemitriccus mirandae",
+        "nm_portugues": "Maria-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Hemitriccus kaempferi",
+        "nm_portugues": "Maria-catarinense"
+    },
+    {
+        "nm_cientifico": "Hemitriccus furcatus",
+        "nm_portugues": "Papa-moscas-estrela"
+    },
+    {
+        "nm_cientifico": "Atalotriccus pilaris",
+        "nm_portugues": "Maria-de-olho-claro"
+    },
+    {
+        "nm_cientifico": "Lophotriccus vitiosus",
+        "nm_portugues": "Maria-fiteira"
+    },
+    {
+        "nm_cientifico": "Lophotriccus eulophotes",
+        "nm_portugues": "Maria-topetuda"
+    },
+    {
+        "nm_cientifico": "Lophotriccus galeatus",
+        "nm_portugues": "Caga-sebinho-de-penacho"
+    },
+    {
+        "nm_cientifico": "Hirundinea ferruginea",
+        "nm_portugues": "Gibão-de-couro"
+    },
+    {
+        "nm_cientifico": "Stigmatura napensis",
+        "nm_portugues": "Papa-moscas-do-sertão"
+    },
+    {
+        "nm_cientifico": "Inezia inornata",
+        "nm_portugues": "Alegrinho-do-chaco"
+    },
+    {
+        "nm_cientifico": "Inezia subflava",
+        "nm_portugues": "Amarelinho"
+    },
+    {
+        "nm_cientifico": "Inezia caudata",
+        "nm_portugues": "Amarelinho-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Euscarthmus meloryphus",
+        "nm_portugues": "Barulhento"
+    },
+    {
+        "nm_cientifico": "Euscarthmus rufomarginatus",
+        "nm_portugues": "Maria-corruíra"
+    },
+    {
+        "nm_cientifico": "Tyranniscus burmeisteri",
+        "nm_portugues": "Piolhinho-chiador"
+    },
+    {
+        "nm_cientifico": "Ornithion inerme",
+        "nm_portugues": "Poiaeiro-de-sobrancelha"
+    },
+    {
+        "nm_cientifico": "Camptostoma obsoletum",
+        "nm_portugues": "Risadinha"
+    },
+    {
+        "nm_cientifico": "Elaenia flavogaster",
+        "nm_portugues": "Guaracava-de-barriga-amarela"
+    },
+    {
+        "nm_cientifico": "Elaenia spectabilis",
+        "nm_portugues": "Guaracava-grande"
+    },
+    {
+        "nm_cientifico": "Elaenia ridleyana",
+        "nm_portugues": "Cocoruta"
+    },
+    {
+        "nm_cientifico": "Elaenia chilensis",
+        "nm_portugues": "Guaracava-de-crista-branca"
+    },
+    {
+        "nm_cientifico": "Elaenia parvirostris",
+        "nm_portugues": "Guaracava-de-bico-curto"
+    },
+    {
+        "nm_cientifico": "Elaenia mesoleuca",
+        "nm_portugues": "Tuque"
+    },
+    {
+        "nm_cientifico": "Elaenia pelzelni",
+        "nm_portugues": "Guaracava-do-rio"
+    },
+    {
+        "nm_cientifico": "Elaenia cristata",
+        "nm_portugues": "Guaracava-de-topete-uniforme"
+    },
+    {
+        "nm_cientifico": "Elaenia chiriquensis",
+        "nm_portugues": "Chibum"
+    },
+    {
+        "nm_cientifico": "Elaenia ruficeps",
+        "nm_portugues": "Guaracava-de-topete-vermelho"
+    },
+    {
+        "nm_cientifico": "Elaenia obscura",
+        "nm_portugues": "Tucão"
+    },
+    {
+        "nm_cientifico": "Elaenia olivina",
+        "nm_portugues": "Guaracava-serrana"
+    },
+    {
+        "nm_cientifico": "Elaenia dayi",
+        "nm_portugues": "Guaracava-dos-tepuis"
+    },
+    {
+        "nm_cientifico": "Suiriri suiriri",
+        "nm_portugues": "Suiriri-cinzento"
+    },
+    {
+        "nm_cientifico": "Suiriri affinis",
+        "nm_portugues": "Suiriri-da-chapada"
+    },
+    {
+        "nm_cientifico": "Myiopagis caniceps",
+        "nm_portugues": "Guaracava-cinzenta"
+    },
+    {
+        "nm_cientifico": "Myiopagis flavivertex",
+        "nm_portugues": "Guaracava-de-penacho-amarelo"
+    },
+    {
+        "nm_cientifico": "Myiopagis viridicata",
+        "nm_portugues": "Guaracava-de-crista-alaranjada"
+    },
+    {
+        "nm_cientifico": "Tyrannulus elatus",
+        "nm_portugues": "Maria-te-viu"
+    },
+    {
+        "nm_cientifico": "Capsiempis flaveola",
+        "nm_portugues": "Marianinha-amarela"
+    },
+    {
+        "nm_cientifico": "Phaeomyias murina",
+        "nm_portugues": "Bagageiro"
+    },
+    {
+        "nm_cientifico": "Phyllomyias reiseri",
+        "nm_portugues": "Piolhinho-do-grotão"
+    },
+    {
+        "nm_cientifico": "Phyllomyias fasciatus",
+        "nm_portugues": "Piolhinho"
+    },
+    {
+        "nm_cientifico": "Mecocerculus leucophrys",
+        "nm_portugues": "Alegrinho-de-garganta-branca"
+    },
+    {
+        "nm_cientifico": "Culicivora caudacuta",
+        "nm_portugues": "Papa-moscas-do-campo"
+    },
+    {
+        "nm_cientifico": "Serpophaga nigricans",
+        "nm_portugues": "João-pobre"
+    },
+    {
+        "nm_cientifico": "Serpophaga subcristata",
+        "nm_portugues": "Alegrinho"
+    },
+    {
+        "nm_cientifico": "Attila phoenicurus",
+        "nm_portugues": "Capitão-castanho"
+    },
+    {
+        "nm_cientifico": "Attila cinnamomeus",
+        "nm_portugues": "Tinguaçu-ferrugem"
+    },
+    {
+        "nm_cientifico": "Attila citriniventris",
+        "nm_portugues": "Tinguaçu-de-barriga-amarela"
+    },
+    {
+        "nm_cientifico": "Attila bolivianus",
+        "nm_portugues": "Bate-pára"
+    },
+    {
+        "nm_cientifico": "Attila rufus",
+        "nm_portugues": "Capitão-de-saíra"
+    },
+    {
+        "nm_cientifico": "Attila spadiceus",
+        "nm_portugues": "Capitão-de-saíra-amarelo"
+    },
+    {
+        "nm_cientifico": "Legatus leucophaius",
+        "nm_portugues": "Bem-te-vi-pirata"
+    },
+    {
+        "nm_cientifico": "Myiarchus swainsoni",
+        "nm_portugues": "Irré"
+    },
+    {
+        "nm_cientifico": "Myiarchus ferox",
+        "nm_portugues": "Maria-cavaleira"
+    },
+    {
+        "nm_cientifico": "Rhytipterna simplex",
+        "nm_portugues": "Vissiá"
+    },
+    {
+        "nm_cientifico": "Rhytipterna immunda",
+        "nm_portugues": "Vissiá-cantor"
+    },
+    {
+        "nm_cientifico": "Casiornis rufus",
+        "nm_portugues": "Maria-ferrugem"
+    },
+    {
+        "nm_cientifico": "Casiornis fuscus",
+        "nm_portugues": "Caneleiro-enxofre"
+    },
+    {
+        "nm_cientifico": "Pitangus sulphuratus",
+        "nm_portugues": "Bem-te-vi"
+    },
+    {
+        "nm_cientifico": "Philohydor lictor",
+        "nm_portugues": "Bentevizinho-do-brejo"
+    },
+    {
+        "nm_cientifico": "Machetornis rixosa",
+        "nm_portugues": "Suiriri-cavaleiro"
+    },
+    {
+        "nm_cientifico": "Myiodynastes luteiventris",
+        "nm_portugues": "Bem-te-vi-de-barriga-sulfúrea"
+    },
+    {
+        "nm_cientifico": "Myiodynastes maculatus",
+        "nm_portugues": "Bem-te-vi-rajado"
+    },
+    {
+        "nm_cientifico": "Megarynchus pitangua",
+        "nm_portugues": "Neinei"
+    },
+    {
+        "nm_cientifico": "Myiozetetes cayanensis",
+        "nm_portugues": "Bentevizinho-de-asa-ferrugínea"
+    },
+    {
+        "nm_cientifico": "Myiozetetes similis",
+        "nm_portugues": "Bentevizinho-de-penacho-vermelho"
+    },
+    {
+        "nm_cientifico": "Myiozetetes luteiventris",
+        "nm_portugues": "Bem-te-vi-de-barriga-sulfúrea"
+    },
+    {
+        "nm_cientifico": "Tyrannus melancholicus",
+        "nm_portugues": "Suiriri"
+    },
+    {
+        "nm_cientifico": "Tyrannus savana",
+        "nm_portugues": "Tesourinha-do-campo"
+    },
+    {
+        "nm_cientifico": "Tyrannus tyrannus",
+        "nm_portugues": "Suiriri-valente"
+    },
+    {
+        "nm_cientifico": "Griseotyrannus aurantioatrocristatus",
+        "nm_portugues": "Peitica-de-chapéu-preto"
+    },
+    {
+        "nm_cientifico": "Empidonomus varius",
+        "nm_portugues": "Peitica"
+    },
+    {
+        "nm_cientifico": "Conopias trivirgatus",
+        "nm_portugues": "Bem-te-vi-pequeno"
+    },
+    {
+        "nm_cientifico": "Conopias parvus",
+        "nm_portugues": "Bem-te-vi-da-copa"
+    },
+    {
+        "nm_cientifico": "Colonia colonus",
+        "nm_portugues": "Viuvinha"
+    },
+    {
+        "nm_cientifico": "Myiophobus roraimae",
+        "nm_portugues": "Felipe-do-tepui"
+    },
+    {
+        "nm_cientifico": "Myiophobus fasciatus",
+        "nm_portugues": "Filipe"
+    },
+    {
+        "nm_cientifico": "Sublegatus modestus",
+        "nm_portugues": "Guaracava-modesta"
+    },
+    {
+        "nm_cientifico": "Pyrocephalus rubinus",
+        "nm_portugues": "Príncipe"
+    },
+    {
+        "nm_cientifico": "Fluvicola albiventer",
+        "nm_portugues": "Lavadeira-de-cara-branca"
+    },
+    {
+        "nm_cientifico": "Fluvicola nengeta",
+        "nm_portugues": "Lavadeira-mascarada"
+    },
+    {
+        "nm_cientifico": "Arundinicola leucocephala",
+        "nm_portugues": "Freirinha"
+    },
+    {
+        "nm_cientifico": "Alectrurus tricolor",
+        "nm_portugues": "Galito"
+    },
+    {
+        "nm_cientifico": "Alectrurus risora",
+        "nm_portugues": "Tesoura-do-campo"
+    },
+    {
+        "nm_cientifico": "Ochthornis littoralis",
+        "nm_portugues": "Maria-da-praia"
+    },
+    {
+        "nm_cientifico": "Cnemotriccus fuscatus",
+        "nm_portugues": "Guaracavuçu"
+    },
+    {
+        "nm_cientifico": "Contopus fumigatus",
+        "nm_portugues": "Piui-de-topete"
+    },
+    {
+        "nm_cientifico": "Contopus virens",
+        "nm_portugues": "Piui-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Contopus cinereus",
+        "nm_portugues": "Papa-moscas-cinzento"
+    },
+    {
+        "nm_cientifico": "Contopus albogularis",
+        "nm_portugues": "Piui-queixado"
+    },
+    {
+        "nm_cientifico": "Contopus nigrescens",
+        "nm_portugues": "Piui-preto"
+    },
+    {
+        "nm_cientifico": "Lessonia rufa",
+        "nm_portugues": "Colegial"
+    },
+    {
+        "nm_cientifico": "Knipolegus striaticeps",
+        "nm_portugues": "Maria-preta-acinzentada"
+    },
+    {
+        "nm_cientifico": "Knipolegus hudsoni",
+        "nm_portugues": "Maria-preta-do-sul"
+    },
+    {
+        "nm_cientifico": "Knipolegus poecilocercus",
+        "nm_portugues": "Pretinho-do-igapó"
+    },
+    {
+        "nm_cientifico": "Knipolegus cyanirostris",
+        "nm_portugues": "Maria-preta-de-bico-azulado"
+    },
+    {
+        "nm_cientifico": "Knipolegus poecilurus",
+        "nm_portugues": "Maria-preta-de-cauda-ruiva"
+    },
+    {
+        "nm_cientifico": "Knipolegus orenocensis",
+        "nm_portugues": "Maria-preta-ribeirinha"
+    },
+    {
+        "nm_cientifico": "Knipolegus aterrimus",
+        "nm_portugues": "Maria-preta-bate-rabo"
+    },
+    {
+        "nm_cientifico": "Knipolegus franciscanus",
+        "nm_portugues": "Maria-preta-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Knipolegus lophotes",
+        "nm_portugues": "Maria-preta-de-penacho"
+    },
+    {
+        "nm_cientifico": "Knipolegus nigerrimus",
+        "nm_portugues": "Maria-preta-de-garganta-vermelha"
+    },
+    {
+        "nm_cientifico": "Hymenops perspicillatus",
+        "nm_portugues": "Viuvinha-de-óculos"
+    },
+    {
+        "nm_cientifico": "Satrapa icterophrys",
+        "nm_portugues": "Suiriri-pequeno"
+    },
+    {
+        "nm_cientifico": "Muscisaxicola fluviatilis",
+        "nm_portugues": "Gaúcha-d'água"
+    },
+    {
+        "nm_cientifico": "Xolmis cinereus",
+        "nm_portugues": "Primavera"
+    },
+    {
+        "nm_cientifico": "Xolmis coronatus",
+        "nm_portugues": "Noivinha-coroada"
+    },
+    {
+        "nm_cientifico": "Xolmis velatus",
+        "nm_portugues": "Noivinha-branca"
+    },
+    {
+        "nm_cientifico": "Xolmis irupero",
+        "nm_portugues": "Noivinha"
+    },
+    {
+        "nm_cientifico": "Xolmis rubetra",
+        "nm_portugues": "Noivinha-castanha"
+    },
+    {
+        "nm_cientifico": "Xolmis dominicanus",
+        "nm_portugues": "Noivinha-de-rabo-preto"
+    },
+    {
+        "nm_cientifico": "Agriornis murinus",
+        "nm_portugues": "Gauchinho"
+    },
+    {
+        "nm_cientifico": "Neoxolmis rufiventris",
+        "nm_portugues": "Gaúcho-chocolate"
+    },
+    {
+        "nm_cientifico": "Muscipipra vetula",
+        "nm_portugues": "Tesoura-cinzenta"
+    },
+    {
+        "nm_cientifico": "Cyclarhis gujanensis",
+        "nm_portugues": "Pitiguari"
+    },
+    {
+        "nm_cientifico": "Vireolanius leucotis",
+        "nm_portugues": "Assobiador-do-castanhal"
+    },
+    {
+        "nm_cientifico": "Vireo olivaceus",
+        "nm_portugues": "Juruviara-boreal"
+    },
+    {
+        "nm_cientifico": "Vireo chivi",
+        "nm_portugues": "Juruviara"
+    },
+    {
+        "nm_cientifico": "Vireo gracilirostris",
+        "nm_portugues": "Juruviara-de-noronha"
+    },
+    {
+        "nm_cientifico": "Hylophilus poicilotis",
+        "nm_portugues": "Verdinho-coroado"
+    },
+    {
+        "nm_cientifico": "Hylophilus amaurocephalus",
+        "nm_portugues": "Vite-vite-de-olho-cinza"
+    },
+    {
+        "nm_cientifico": "Hylophilus thoracicus",
+        "nm_portugues": "Vite-vite"
+    },
+    {
+        "nm_cientifico": "Hylophilus semicinereus",
+        "nm_portugues": "Verdinho-da-várzea"
+    },
+    {
+        "nm_cientifico": "Hylophilus sclateri",
+        "nm_portugues": "Vite-vite-do-tepui"
+    },
+    {
+        "nm_cientifico": "Hylophilus brunneiceps",
+        "nm_portugues": "Vite-vite-de-cabeça-marrom"
+    },
+    {
+        "nm_cientifico": "Hylophilus hypoxanthus",
+        "nm_portugues": "Vite-vite-de-barriga-amarela"
+    },
+    {
+        "nm_cientifico": "Hylophilus muscicapinus",
+        "nm_portugues": "Vite-vite-camurça"
+    },
+    {
+        "nm_cientifico": "Hylophilus ochraceiceps",
+        "nm_portugues": "Vite-vite-uirapuru"
+    },
+    {
+        "nm_cientifico": "Cyanocorax violaceus",
+        "nm_portugues": "Gralha-violácea"
+    },
+    {
+        "nm_cientifico": "Cyanocorax cyanomelas",
+        "nm_portugues": "Gralha-do-pantanal"
+    },
+    {
+        "nm_cientifico": "Cyanocorax caeruleus",
+        "nm_portugues": "Gralha-azul"
+    },
+    {
+        "nm_cientifico": "Cyanocorax cristatellus",
+        "nm_portugues": "Gralha-do-campo"
+    },
+    {
+        "nm_cientifico": "Cyanocorax cayanus",
+        "nm_portugues": "Gralha-da-guiana"
+    },
+    {
+        "nm_cientifico": "Cyanocorax heilprini",
+        "nm_portugues": "Gralha-de-nuca-azul"
+    },
+    {
+        "nm_cientifico": "Cyanocorax hafferi",
+        "nm_portugues": "Cancão-da-campina"
+    },
+    {
+        "nm_cientifico": "Cyanocorax chrysops",
+        "nm_portugues": "Gralha-picaça"
+    },
+    {
+        "nm_cientifico": "Cyanocorax cyanopogon",
+        "nm_portugues": "Gralha-cancã"
+    },
+    {
+        "nm_cientifico": "Pygochelidon cyanoleuca",
+        "nm_portugues": "Andorinha-pequena-de-casa"
+    },
+    {
+        "nm_cientifico": "Pygochelidon melanoleuca",
+        "nm_portugues": "Andorinha-de-coleira"
+    },
+    {
+        "nm_cientifico": "Atticora fasciata",
+        "nm_portugues": "Peitoril"
+    },
+    {
+        "nm_cientifico": "Stelgidopteryx ruficollis",
+        "nm_portugues": "Andorinha-serradora"
+    },
+    {
+        "nm_cientifico": "Progne tapera",
+        "nm_portugues": "Andorinha-do-campo"
+    },
+    {
+        "nm_cientifico": "Progne chalybea",
+        "nm_portugues": "Andorinha-doméstica-grande"
+    },
+    {
+        "nm_cientifico": "Progne elegans",
+        "nm_portugues": "Andorinha-do-sul"
+    },
+    {
+        "nm_cientifico": "Tachycineta albiventer",
+        "nm_portugues": "Andorinha-do-rio"
+    },
+    {
+        "nm_cientifico": "Tachycineta leucorrhoa",
+        "nm_portugues": "Andorinha-de-sobre-branco"
+    },
+    {
+        "nm_cientifico": "Tachycineta leucopyga",
+        "nm_portugues": "Andorinha-chilena"
+    },
+    {
+        "nm_cientifico": "Riparia riparia",
+        "nm_portugues": "Andorinha-do-barranco"
+    },
+    {
+        "nm_cientifico": "Hirundo rustica",
+        "nm_portugues": "Andorinha-de-bando"
+    },
+    {
+        "nm_cientifico": "Petrochelidon pyrrhonota",
+        "nm_portugues": "Andorinha-de-dorso-acanelado"
+    },
+    {
+        "nm_cientifico": "Microcerculus marginatus",
+        "nm_portugues": "Uirapuru-veado"
+    },
+    {
+        "nm_cientifico": "Microcerculus ustulatus",
+        "nm_portugues": "Flautista-do-tepui"
+    },
+    {
+        "nm_cientifico": "Microcerculus bambla",
+        "nm_portugues": "Uirapuru-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Odontorchilus cinereus",
+        "nm_portugues": "Cambaxirra-cinzenta"
+    },
+    {
+        "nm_cientifico": "Troglodytes musculus",
+        "nm_portugues": "Corruíra"
+    },
+    {
+        "nm_cientifico": "Troglodytes rufulus",
+        "nm_portugues": "Corruíra-do-tepui"
+    },
+    {
+        "nm_cientifico": "Cistothorus platensis",
+        "nm_portugues": "Corruíra-do-campo"
+    },
+    {
+        "nm_cientifico": "Campylorhynchus griseus",
+        "nm_portugues": "Garrincha-dos-lhanos"
+    },
+    {
+        "nm_cientifico": "Campylorhynchus turdinus",
+        "nm_portugues": "Catatau"
+    },
+    {
+        "nm_cientifico": "Pheugopedius genibarbis",
+        "nm_portugues": "Garrinchão-pai-avô"
+    },
+    {
+        "nm_cientifico": "Pheugopedius coraya",
+        "nm_portugues": "Garrinchão-coraia"
+    },
+    {
+        "nm_cientifico": "Cantorchilus leucotis",
+        "nm_portugues": "Garrinchão-de-barriga-vermelha"
+    },
+    {
+        "nm_cientifico": "Cantorchilus longirostris",
+        "nm_portugues": "Garrinchão-de-bico-grande"
+    },
+    {
+        "nm_cientifico": "Cyphorhinus arada",
+        "nm_portugues": "Uirapuru-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Donacobius atricapilla",
+        "nm_portugues": "Japacanim"
+    },
+    {
+        "nm_cientifico": "Microbates collaris",
+        "nm_portugues": "Bico-assovelado-de-coleira"
+    },
+    {
+        "nm_cientifico": "Polioptila plumbea",
+        "nm_portugues": "Balança-rabo-de-chapéu-preto"
+    },
+    {
+        "nm_cientifico": "Catharus fuscescens",
+        "nm_portugues": "Sabiá-norte-americano"
+    },
+    {
+        "nm_cientifico": "Catharus minimus",
+        "nm_portugues": "Tordo-de-faces-cinzentas"
+    },
+    {
+        "nm_cientifico": "Cichlopsis leucogenys",
+        "nm_portugues": "Sabiá-castanho"
+    },
+    {
+        "nm_cientifico": "Turdus iliacus",
+        "nm_portugues": "Sabiá-ruivo"
+    },
+    {
+        "nm_cientifico": "Turdus leucops",
+        "nm_portugues": "Sabiá-preto"
+    },
+    {
+        "nm_cientifico": "Turdus flavipes",
+        "nm_portugues": "Sabiá-una"
+    },
+    {
+        "nm_cientifico": "Turdus rufiventris",
+        "nm_portugues": "Sabiá-laranjeira"
+    },
+    {
+        "nm_cientifico": "Turdus nudigenis",
+        "nm_portugues": "Caraxué"
+    },
+    {
+        "nm_cientifico": "Turdus sanchezorum",
+        "nm_portugues": "Sabiá-da-várzea"
+    },
+    {
+        "nm_cientifico": "Turdus leucomelas",
+        "nm_portugues": "Sabiá-barranco"
+    },
+    {
+        "nm_cientifico": "Turdus hauxwelli",
+        "nm_portugues": "Sabiá-bicolor"
+    },
+    {
+        "nm_cientifico": "Turdus fumigatus",
+        "nm_portugues": "Sabiá-da-mata"
+    },
+    {
+        "nm_cientifico": "Turdus lawrencii",
+        "nm_portugues": "Caraxué-de-bico-amarelo"
+    },
+    {
+        "nm_cientifico": "Turdus amaurochalinus",
+        "nm_portugues": "Sabiá-poca"
+    },
+    {
+        "nm_cientifico": "Turdus albicollis",
+        "nm_portugues": "Sabiá-coleira"
+    },
+    {
+        "nm_cientifico": "Mimus gilvus",
+        "nm_portugues": "Sabiá-da-praia"
+    },
+    {
+        "nm_cientifico": "Mimus saturninus",
+        "nm_portugues": "Sabiá-do-campo"
+    },
+    {
+        "nm_cientifico": "Mimus triurus",
+        "nm_portugues": "Calhandra-de-três-rabos"
+    },
+    {
+        "nm_cientifico": "Anthus lutescens",
+        "nm_portugues": "Caminheiro-zumbidor"
+    },
+    {
+        "nm_cientifico": "Anthus furcatus",
+        "nm_portugues": "Caminheiro-de-unha-curta"
+    },
+    {
+        "nm_cientifico": "Anthus correndera",
+        "nm_portugues": "Caminheiro-de-espora"
+    },
+    {
+        "nm_cientifico": "Anthus nattereri",
+        "nm_portugues": "Caminheiro-grande"
+    },
+    {
+        "nm_cientifico": "Anthus hellmayri",
+        "nm_portugues": "Caminheiro-de-barriga-acanelada"
+    },
+    {
+        "nm_cientifico": "Zonotrichia capensis",
+        "nm_portugues": "Tico-tico"
+    },
+    {
+        "nm_cientifico": "Ammodramus humeralis",
+        "nm_portugues": "Tico-tico-do-campo"
+    },
+    {
+        "nm_cientifico": "Ammodramus aurifrons",
+        "nm_portugues": "Cigarrinha-do-campo"
+    },
+    {
+        "nm_cientifico": "Arremonops conirostris",
+        "nm_portugues": "Tico-tico-cantor"
+    },
+    {
+        "nm_cientifico": "Arremon taciturnus",
+        "nm_portugues": "Tico-tico-de-bico-preto"
+    },
+    {
+        "nm_cientifico": "Arremon semitorquatus",
+        "nm_portugues": "Tico-tico-do-mato"
+    },
+    {
+        "nm_cientifico": "Arremon franciscanus",
+        "nm_portugues": "Tico-tico-do-são-francisco"
+    },
+    {
+        "nm_cientifico": "Arremon flavirostris",
+        "nm_portugues": "Tico-tico-de-bico-amarelo"
+    },
+    {
+        "nm_cientifico": "Atlapetes personatus",
+        "nm_portugues": "Tico-tico-do-tepui"
+    },
+    {
+        "nm_cientifico": "Setophaga pitiayumi",
+        "nm_portugues": "Mariquita"
+    },
+    {
+        "nm_cientifico": "Setophaga petechia",
+        "nm_portugues": "Mariquita-amarela"
+    },
+    {
+        "nm_cientifico": "Setophaga cerulea",
+        "nm_portugues": "Mariquita-azul"
+    },
+    {
+        "nm_cientifico": "Setophaga virens",
+        "nm_portugues": "Mariquita-de-garganta-preta"
+    },
+    {
+        "nm_cientifico": "Geothlypis agilis",
+        "nm_portugues": "Mariquita-de-connecticut"
+    },
+    {
+        "nm_cientifico": "Geothlypis aequinoctialis",
+        "nm_portugues": "Pia-cobra"
+    },
+    {
+        "nm_cientifico": "Cardellina canadensis",
+        "nm_portugues": "Mariquita-do-canadá"
+    },
+    {
+        "nm_cientifico": "Myioborus miniatus",
+        "nm_portugues": "Mariquita-cinza"
+    },
+    {
+        "nm_cientifico": "Myioborus castaneocapillus",
+        "nm_portugues": "Mariquita-de-cabeça-parda"
+    },
+    {
+        "nm_cientifico": "Basileuterus culicivorus",
+        "nm_portugues": "Pula-pula"
+    },
+    {
+        "nm_cientifico": "Myiothlypis bivittata",
+        "nm_portugues": "Pula-pula-de-duas-fitas"
+    },
+    {
+        "nm_cientifico": "Myiothlypis flaveola",
+        "nm_portugues": "Canário-do-mato"
+    },
+    {
+        "nm_cientifico": "Myiothlypis leucoblepharus",
+        "nm_portugues": "Pula-pula-assobiador"
+    },
+    {
+        "nm_cientifico": "Myiothlypis leucophrys",
+        "nm_portugues": "Pula-pula-de-sobrancelha"
+    },
+    {
+        "nm_cientifico": "Myiothlypis fulvicauda",
+        "nm_portugues": "Pula-pula-de-cauda-avermelhada"
+    },
+    {
+        "nm_cientifico": "Myiothlypis rivularis",
+        "nm_portugues": "Pula-pula-ribeirinho"
+    },
+    {
+        "nm_cientifico": "Psarocolius angustifrons",
+        "nm_portugues": "Japu-pardo"
+    },
+    {
+        "nm_cientifico": "Psarocolius viridis",
+        "nm_portugues": "Japu-verde"
+    },
+    {
+        "nm_cientifico": "Psarocolius decumanus",
+        "nm_portugues": "Japu"
+    },
+    {
+        "nm_cientifico": "Psarocolius bifasciatus",
+        "nm_portugues": "Japuaçu"
+    },
+    {
+        "nm_cientifico": "Procacicus solitarius",
+        "nm_portugues": "Iraúna-de-bico-branco"
+    },
+    {
+        "nm_cientifico": "Cacicus chrysopterus",
+        "nm_portugues": "Tecelão"
+    },
+    {
+        "nm_cientifico": "Cacicus haemorrhous",
+        "nm_portugues": "Guaxe"
+    },
+    {
+        "nm_cientifico": "Cacicus latirostris",
+        "nm_portugues": "Japu-de-rabo-verde"
+    },
+    {
+        "nm_cientifico": "Cacicus koepckeae",
+        "nm_portugues": "Tecelão-do-acre"
+    },
+    {
+        "nm_cientifico": "Cacicus cela",
+        "nm_portugues": "Xexéu"
+    },
+    {
+        "nm_cientifico": "Clypicterus oseryi",
+        "nm_portugues": "Japu-de-capacete"
+    },
+    {
+        "nm_cientifico": "Icterus cayanensis",
+        "nm_portugues": "Inhapim"
+    },
+    {
+        "nm_cientifico": "Icterus pyrrhopterus",
+        "nm_portugues": "Encontro"
+    },
+    {
+        "nm_cientifico": "Icterus chrysocephalus",
+        "nm_portugues": "Rouxinol-do-rio-negro"
+    },
+    {
+        "nm_cientifico": "Icterus nigrogularis",
+        "nm_portugues": "João-pinto-amarelo"
+    },
+    {
+        "nm_cientifico": "Icterus jamacaii",
+        "nm_portugues": "Corrupião"
+    },
+    {
+        "nm_cientifico": "Icterus croconotus",
+        "nm_portugues": "João-pinto"
+    },
+    {
+        "nm_cientifico": "Macroagelaius imthurni",
+        "nm_portugues": "Iraúna-da-guiana"
+    },
+    {
+        "nm_cientifico": "Gymnomystax mexicanus",
+        "nm_portugues": "Iratauá-grande"
+    },
+    {
+        "nm_cientifico": "Lampropsar tanagrinus",
+        "nm_portugues": "Iraúna-velada"
+    },
+    {
+        "nm_cientifico": "Gnorimopsar chopi",
+        "nm_portugues": "Graúna"
+    },
+    {
+        "nm_cientifico": "Curaeus forbesi",
+        "nm_portugues": "Anumará"
+    },
+    {
+        "nm_cientifico": "Amblyramphus holosericeus",
+        "nm_portugues": "Cardeal-do-banhado"
+    },
+    {
+        "nm_cientifico": "Agelasticus cyanopus",
+        "nm_portugues": "Carretão"
+    },
+    {
+        "nm_cientifico": "Agelasticus thilius",
+        "nm_portugues": "Sargento"
+    },
+    {
+        "nm_cientifico": "Chrysomus ruficapillus",
+        "nm_portugues": "Garibaldi"
+    },
+    {
+        "nm_cientifico": "Chrysomus icterocephalus",
+        "nm_portugues": "Iratauá-pequeno"
+    },
+    {
+        "nm_cientifico": "Xanthopsar flavus",
+        "nm_portugues": "Veste-amarela"
+    },
+    {
+        "nm_cientifico": "Pseudoleistes guirahuro",
+        "nm_portugues": "Chopim-do-brejo"
+    },
+    {
+        "nm_cientifico": "Agelaioides badius",
+        "nm_portugues": "Asa-de-telha"
+    },
+    {
+        "nm_cientifico": "Agelaioides fringillarius",
+        "nm_portugues": "Asa-de-telha-pálido"
+    },
+    {
+        "nm_cientifico": "Molothrus rufoaxillaris",
+        "nm_portugues": "Vira-bosta-picumã"
+    },
+    {
+        "nm_cientifico": "Molothrus oryzivorus",
+        "nm_portugues": "Iraúna-grande"
+    },
+    {
+        "nm_cientifico": "Molothrus bonariensis",
+        "nm_portugues": "Vira-bosta"
+    },
+    {
+        "nm_cientifico": "Sturnella militaris",
+        "nm_portugues": "Polícia-inglesa-do-norte"
+    },
+    {
+        "nm_cientifico": "Sturnella superciliaris",
+        "nm_portugues": "Polícia-inglesa-do-sul"
+    },
+    {
+        "nm_cientifico": "Sturnella defilippii",
+        "nm_portugues": "Peito-vermelho-grande"
+    },
+    {
+        "nm_cientifico": "Sturnella magna",
+        "nm_portugues": "Pedro-ceroulo"
+    },
+    {
+        "nm_cientifico": "Dolichonyx oryzivorus",
+        "nm_portugues": "Triste-pia"
+    },
+    {
+        "nm_cientifico": "Mitrospingus oleagineus",
+        "nm_portugues": "Pipira-olivácea"
+    },
+    {
+        "nm_cientifico": "Orthogonys chloricterus",
+        "nm_portugues": "Catirumbava"
+    },
+    {
+        "nm_cientifico": "Coereba flaveola",
+        "nm_portugues": "Cambacica"
+    },
+    {
+        "nm_cientifico": "Saltatricula atricollis",
+        "nm_portugues": "Batuqueiro"
+    },
+    {
+        "nm_cientifico": "Saltator fuliginosus",
+        "nm_portugues": "Bico-de-pimenta"
+    },
+    {
+        "nm_cientifico": "Saltator maximus",
+        "nm_portugues": "Tempera-viola"
+    },
+    {
+        "nm_cientifico": "Saltator similis",
+        "nm_portugues": "Trinca-ferro-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Saltator aurantiirostris",
+        "nm_portugues": "Bico-duro"
+    },
+    {
+        "nm_cientifico": "Conothraupis mesoleuca",
+        "nm_portugues": "Tiê-bicudo"
+    },
+    {
+        "nm_cientifico": "Compsothraupis loricata",
+        "nm_portugues": "Tiê-caburé"
+    },
+    {
+        "nm_cientifico": "Nemosia pileata",
+        "nm_portugues": "Saíra-de-chapéu-preto"
+    },
+    {
+        "nm_cientifico": "Nemosia rourei",
+        "nm_portugues": "Saíra-apunhalada"
+    },
+    {
+        "nm_cientifico": "Thlypopsis sordida",
+        "nm_portugues": "Saí-canário"
+    },
+    {
+        "nm_cientifico": "Tachyphonus rufus",
+        "nm_portugues": "Pipira-preta"
+    },
+    {
+        "nm_cientifico": "Tachyphonus coronatus",
+        "nm_portugues": "Tiê-preto"
+    },
+    {
+        "nm_cientifico": "Ramphocelus bresilius",
+        "nm_portugues": "Tiê-sangue"
+    },
+    {
+        "nm_cientifico": "Ramphocelus carbo",
+        "nm_portugues": "Pipira-vermelha"
+    },
+    {
+        "nm_cientifico": "Lanio cristatus",
+        "nm_portugues": "Tiê-galo"
+    },
+    {
+        "nm_cientifico": "Lanio versicolor",
+        "nm_portugues": "Pipira-de-asa-branca"
+    },
+    {
+        "nm_cientifico": "Lanio fulvus",
+        "nm_portugues": "Pipira-parda"
+    },
+    {
+        "nm_cientifico": "Coryphospingus pileatus",
+        "nm_portugues": "Tico-tico-rei-cinza"
+    },
+    {
+        "nm_cientifico": "Coryphospingus cucullatus",
+        "nm_portugues": "Tico-tico-rei"
+    },
+    {
+        "nm_cientifico": "Eucometis penicillata",
+        "nm_portugues": "Pipira-da-taoca"
+    },
+    {
+        "nm_cientifico": "Trichothraupis melanops",
+        "nm_portugues": "Tiê-de-topete"
+    },
+    {
+        "nm_cientifico": "Tangara schrankii",
+        "nm_portugues": "Saíra-ouro"
+    },
+    {
+        "nm_cientifico": "Tangara mexicana",
+        "nm_portugues": "Saíra-de-bando"
+    },
+    {
+        "nm_cientifico": "Tangara brasiliensis",
+        "nm_portugues": "Cambada-de-chaves"
+    },
+    {
+        "nm_cientifico": "Tangara velia",
+        "nm_portugues": "Saíra-diamante"
+    },
+    {
+        "nm_cientifico": "Tangara callophrys",
+        "nm_portugues": "Saíra-opala"
+    },
+    {
+        "nm_cientifico": "Tangara seledon",
+        "nm_portugues": "Saíra-sete-cores"
+    },
+    {
+        "nm_cientifico": "Tangara fastuosa",
+        "nm_portugues": "Pintor-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Tangara cyanocephala",
+        "nm_portugues": "Saíra-militar"
+    },
+    {
+        "nm_cientifico": "Tangara cyanoventris",
+        "nm_portugues": "Saíra-douradinha"
+    },
+    {
+        "nm_cientifico": "Tangara desmaresti",
+        "nm_portugues": "Saíra-lagarta"
+    },
+    {
+        "nm_cientifico": "Tangara varia",
+        "nm_portugues": "Saíra-carijó"
+    },
+    {
+        "nm_cientifico": "Tangara punctata",
+        "nm_portugues": "Saíra-negaça"
+    },
+    {
+        "nm_cientifico": "Tangara guttata",
+        "nm_portugues": "Saíra-pintada"
+    },
+    {
+        "nm_cientifico": "Thraupis episcopus",
+        "nm_portugues": "Sanhaçu-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Thraupis sayaca",
+        "nm_portugues": "Sanhaçu-cinzento"
+    },
+    {
+        "nm_cientifico": "Thraupis cyanoptera",
+        "nm_portugues": "Sanhaçu-de-encontro-azul"
+    },
+    {
+        "nm_cientifico": "Thraupis palmarum",
+        "nm_portugues": "Sanhaçu-do-coqueiro"
+    },
+    {
+        "nm_cientifico": "Thraupis ornata",
+        "nm_portugues": "Sanhaçu-de-encontro-amarelo"
+    },
+    {
+        "nm_cientifico": "Tangara peruviana",
+        "nm_portugues": "Saíra-sapucaia"
+    },
+    {
+        "nm_cientifico": "Tangara preciosa",
+        "nm_portugues": "Saíra-preciosa"
+    },
+    {
+        "nm_cientifico": "Tangara cayana",
+        "nm_portugues": "Saíra-amarela"
+    },
+    {
+        "nm_cientifico": "Stephanophorus diadematus",
+        "nm_portugues": "Sanhaçu-frade"
+    },
+    {
+        "nm_cientifico": "Diuca diuca",
+        "nm_portugues": "Diuca"
+    },
+    {
+        "nm_cientifico": "Neothraupis fasciata",
+        "nm_portugues": "Cigarra-do-campo"
+    },
+    {
+        "nm_cientifico": "Cissopis leverianus",
+        "nm_portugues": "Tietinga"
+    },
+    {
+        "nm_cientifico": "Schistochlamys ruficapillus",
+        "nm_portugues": "Bico-de-veludo"
+    },
+    {
+        "nm_cientifico": "Paroaria coronata",
+        "nm_portugues": "Cardeal"
+    },
+    {
+        "nm_cientifico": "Paroaria dominicana",
+        "nm_portugues": "Cardeal-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Paroaria baeri",
+        "nm_portugues": "Cardeal-do-araguaia"
+    },
+    {
+        "nm_cientifico": "Paroaria gularis",
+        "nm_portugues": "Cardeal-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Paroaria capitata",
+        "nm_portugues": "Cavalaria"
+    },
+    {
+        "nm_cientifico": "Pipraeidea melanonota",
+        "nm_portugues": "Saíra-viúva"
+    },
+    {
+        "nm_cientifico": "Pipraeidea bonariensis",
+        "nm_portugues": "Sanhaçu-papa-laranja"
+    },
+    {
+        "nm_cientifico": "Cyanicterus cyanicterus",
+        "nm_portugues": "Pipira-azul"
+    },
+    {
+        "nm_cientifico": "Tersina viridis",
+        "nm_portugues": "Saí-andorinha"
+    },
+    {
+        "nm_cientifico": "Dacnis albiventris",
+        "nm_portugues": "Saí-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Dacnis lineata",
+        "nm_portugues": "Saí-de-máscara-preta"
+    },
+    {
+        "nm_cientifico": "Dacnis flaviventer",
+        "nm_portugues": "Saí-amarela"
+    },
+    {
+        "nm_cientifico": "Dacnis nigripes",
+        "nm_portugues": "Saí-de-pernas-pretas"
+    },
+    {
+        "nm_cientifico": "Dacnis cayana",
+        "nm_portugues": "Saí-azul"
+    },
+    {
+        "nm_cientifico": "Cyanerpes nitidus",
+        "nm_portugues": "Saí-de-bico-curto"
+    },
+    {
+        "nm_cientifico": "Cyanerpes caeruleus",
+        "nm_portugues": "Saí-de-perna-amarela"
+    },
+    {
+        "nm_cientifico": "Cyanerpes cyaneus",
+        "nm_portugues": "Saíra-beija-flor"
+    },
+    {
+        "nm_cientifico": "Chlorophanes spiza",
+        "nm_portugues": "Saí-verde"
+    },
+    {
+        "nm_cientifico": "Hemithraupis guira",
+        "nm_portugues": "Saíra-de-papo-preto"
+    },
+    {
+        "nm_cientifico": "Hemithraupis ruficapilla",
+        "nm_portugues": "Saíra-ferrugem"
+    },
+    {
+        "nm_cientifico": "Hemithraupis flavicollis",
+        "nm_portugues": "Saíra-galega"
+    },
+    {
+        "nm_cientifico": "Conirostrum speciosum",
+        "nm_portugues": "Figuinha-de-rabo-castanho"
+    },
+    {
+        "nm_cientifico": "Conirostrum bicolor",
+        "nm_portugues": "Figuinha-do-mangue"
+    },
+    {
+        "nm_cientifico": "Conirostrum margaritae",
+        "nm_portugues": "Figuinha-amazônica"
+    },
+    {
+        "nm_cientifico": "Diglossa duidae",
+        "nm_portugues": "Fura-flor-escamado"
+    },
+    {
+        "nm_cientifico": "Diglossa major",
+        "nm_portugues": "Fura-flor-escamado"
+    },
+    {
+        "nm_cientifico": "Porphyrospiza caerulescens",
+        "nm_portugues": "Campainha-azul"
+    },
+    {
+        "nm_cientifico": "Phrygilus fruticeti",
+        "nm_portugues": "Canário-andino-negro"
+    },
+    {
+        "nm_cientifico": "Haplospiza unicolor",
+        "nm_portugues": "Cigarra-bambu"
+    },
+    {
+        "nm_cientifico": "Donacospiza albifrons",
+        "nm_portugues": "Tico-tico-do-banhado"
+    },
+    {
+        "nm_cientifico": "Poospiza nigrorufa",
+        "nm_portugues": "Quem-te-vestiu"
+    },
+    {
+        "nm_cientifico": "Poospiza lateralis",
+        "nm_portugues": "Quete"
+    },
+    {
+        "nm_cientifico": "Poospiza cinerea",
+        "nm_portugues": "Capacetinho-do-oco-do-pau"
+    },
+    {
+        "nm_cientifico": "Sicalis citrina",
+        "nm_portugues": "Canário-rasteiro"
+    },
+    {
+        "nm_cientifico": "Sicalis columbiana",
+        "nm_portugues": "Canário-do-amazonas"
+    },
+    {
+        "nm_cientifico": "Sicalis flaveola",
+        "nm_portugues": "Canário-da-terra-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Sicalis luteola",
+        "nm_portugues": "Tipio"
+    },
+    {
+        "nm_cientifico": "Emberizoides herbicola",
+        "nm_portugues": "Canário-do-campo"
+    },
+    {
+        "nm_cientifico": "Emberizoides ypiranganus",
+        "nm_portugues": "Canário-do-brejo"
+    },
+    {
+        "nm_cientifico": "Embernagra platensis",
+        "nm_portugues": "Sabiá-do-banhado"
+    },
+    {
+        "nm_cientifico": "Embernagra longicauda",
+        "nm_portugues": "Rabo-mole-da-serra"
+    },
+    {
+        "nm_cientifico": "Volatinia jacarina",
+        "nm_portugues": "Tiziu"
+    },
+    {
+        "nm_cientifico": "Sporophila frontalis",
+        "nm_portugues": "Pixoxó"
+    },
+    {
+        "nm_cientifico": "Sporophila falcirostris",
+        "nm_portugues": "Cigarra-verdadeira"
+    },
+    {
+        "nm_cientifico": "Sporophila plumbea",
+        "nm_portugues": "Patativa"
+    },
+    {
+        "nm_cientifico": "Sporophila beltoni",
+        "nm_portugues": "Patativa-tropeira"
+    },
+    {
+        "nm_cientifico": "Sporophila americana",
+        "nm_portugues": "Coleiro-do-norte"
+    },
+    {
+        "nm_cientifico": "Sporophila collaris",
+        "nm_portugues": "Coleiro-do-brejo"
+    },
+    {
+        "nm_cientifico": "Sporophila lineola",
+        "nm_portugues": "Bigodinho"
+    },
+    {
+        "nm_cientifico": "Sporophila luctuosa",
+        "nm_portugues": "Papa-capim-preto-e-branco"
+    },
+    {
+        "nm_cientifico": "Sporophila nigricollis",
+        "nm_portugues": "Baiano"
+    },
+    {
+        "nm_cientifico": "Sporophila caerulescens",
+        "nm_portugues": "Coleirinho"
+    },
+    {
+        "nm_cientifico": "Sporophila albogularis",
+        "nm_portugues": "Golinho"
+    },
+    {
+        "nm_cientifico": "Sporophila leucoptera",
+        "nm_portugues": "Chorão"
+    },
+    {
+        "nm_cientifico": "Sporophila nigrorufa",
+        "nm_portugues": "Caboclinho-do-sertão"
+    },
+    {
+        "nm_cientifico": "Sporophila bouvreuil",
+        "nm_portugues": "Caboclinho"
+    },
+    {
+        "nm_cientifico": "Sporophila minuta",
+        "nm_portugues": "Caboclinho-lindo"
+    },
+    {
+        "nm_cientifico": "Sporophila hypoxantha",
+        "nm_portugues": "Caboclinho-de-barriga-vermelha"
+    },
+    {
+        "nm_cientifico": "Sporophila ruficollis",
+        "nm_portugues": "Caboclinho-de-papo-escuro"
+    },
+    {
+        "nm_cientifico": "Sporophila palustris",
+        "nm_portugues": "Caboclinho-de-papo-branco"
+    },
+    {
+        "nm_cientifico": "Sporophila cinnamomea",
+        "nm_portugues": "Caboclinho-de-chapéu-cinzento"
+    },
+    {
+        "nm_cientifico": "Sporophila melanogaster",
+        "nm_portugues": "Caboclinho-de-barriga-preta"
+    },
+    {
+        "nm_cientifico": "Sporophila angolensis",
+        "nm_portugues": "Curió"
+    },
+    {
+        "nm_cientifico": "Sporophila crassirostris",
+        "nm_portugues": "Bicudinho"
+    },
+    {
+        "nm_cientifico": "Sporophila maximiliani",
+        "nm_portugues": "Bicudo"
+    },
+    {
+        "nm_cientifico": "Dolospingus fringilloides",
+        "nm_portugues": "Papa-capim-de-coleira"
+    },
+    {
+        "nm_cientifico": "Catamenia homochroa",
+        "nm_portugues": "Patativa-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Charitospiza eucosma",
+        "nm_portugues": "Mineirinho"
+    },
+    {
+        "nm_cientifico": "Coryphaspiza melanotis",
+        "nm_portugues": "Tico-tico-de-máscara-negra"
+    },
+    {
+        "nm_cientifico": "Gubernatrix cristata",
+        "nm_portugues": "Cardeal-amarelo"
+    },
+    {
+        "nm_cientifico": "Piranga flava",
+        "nm_portugues": "Sanhaço-de-fogo"
+    },
+    {
+        "nm_cientifico": "Piranga rubra",
+        "nm_portugues": "Sanhaço-vermelho"
+    },
+    {
+        "nm_cientifico": "Piranga olivacea",
+        "nm_portugues": "Sanhaço-escarlate"
+    },
+    {
+        "nm_cientifico": "Habia rubica",
+        "nm_portugues": "Tiê-de-bando"
+    },
+    {
+        "nm_cientifico": "Pheucticus aureoventris",
+        "nm_portugues": "Rei-do-bosque"
+    },
+    {
+        "nm_cientifico": "Granatellus pelzelni",
+        "nm_portugues": "Polícia-do-mato"
+    },
+    {
+        "nm_cientifico": "Caryothraustes canadensis",
+        "nm_portugues": "Furriel"
+    },
+    {
+        "nm_cientifico": "Periporphyrus erythromelas",
+        "nm_portugues": "Bicudo-encarnado"
+    },
+    {
+        "nm_cientifico": "Amaurospiza moesta",
+        "nm_portugues": "Negrinho-do-mato"
+    },
+    {
+        "nm_cientifico": "Cyanoloxia rothschildii",
+        "nm_portugues": "Azulão-da-amazônia"
+    },
+    {
+        "nm_cientifico": "Cyanoloxia brissonii",
+        "nm_portugues": "Azulão"
+    },
+    {
+        "nm_cientifico": "Spiza americana",
+        "nm_portugues": "Papa-capim-americano"
+    },
+    {
+        "nm_cientifico": "Chloris chloris",
+        "nm_portugues": "Verdelhão"
+    },
+    {
+        "nm_cientifico": "Carduelis carduelis",
+        "nm_portugues": "Pintassilgo-europeu"
+    },
+    {
+        "nm_cientifico": "Sporagra yarrellii",
+        "nm_portugues": "Pintassilgo-do-nordeste"
+    },
+    {
+        "nm_cientifico": "Sporagra magellanica",
+        "nm_portugues": "Pintassilgo"
+    },
+    {
+        "nm_cientifico": "Euphonia plumbea",
+        "nm_portugues": "Gaturamo-anão"
+    },
+    {
+        "nm_cientifico": "Euphonia chlorotica",
+        "nm_portugues": "Fim-fim"
+    },
+    {
+        "nm_cientifico": "Euphonia finschi",
+        "nm_portugues": "Gaturamo-capim"
+    },
+    {
+        "nm_cientifico": "Euphonia violacea",
+        "nm_portugues": "Gaturamo-verdadeiro"
+    },
+    {
+        "nm_cientifico": "Euphonia laniirostris",
+        "nm_portugues": "Gaturamo-de-bico-grosso"
+    },
+    {
+        "nm_cientifico": "Euphonia chalybea",
+        "nm_portugues": "Cais-cais"
+    },
+    {
+        "nm_cientifico": "Euphonia cyanocephala",
+        "nm_portugues": "Gaturamo-rei"
+    },
+    {
+        "nm_cientifico": "Euphonia chrysopasta",
+        "nm_portugues": "Gaturamo-verde"
+    },
+    {
+        "nm_cientifico": "Euphonia minuta",
+        "nm_portugues": "Gaturamo-de-barriga-branca"
+    },
+    {
+        "nm_cientifico": "Euphonia xanthogaster",
+        "nm_portugues": "Fim-fim-grande"
+    },
+    {
+        "nm_cientifico": "Euphonia rufiventris",
+        "nm_portugues": "Gaturamo-do-norte"
+    },
+    {
+        "nm_cientifico": "Euphonia cayennensis",
+        "nm_portugues": "Gaturamo-preto"
+    },
+    {
+        "nm_cientifico": "Euphonia pectoralis",
+        "nm_portugues": "Ferro-velho"
+    },
+    {
+        "nm_cientifico": "Chlorophonia cyanea",
+        "nm_portugues": "Gaturamo-bandeira"
+    },
+    {
+        "nm_cientifico": "Estrilda astrild",
+        "nm_portugues": "Bico-de-lacre"
+    },
+    {
+        "nm_cientifico": "Passer domesticus",
+        "nm_portugues": "Pardal"
+    }
+]
