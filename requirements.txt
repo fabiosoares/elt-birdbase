@@ -10,3 +10,7 @@ python-dotenv==1.2.1
 beautifulsoup4
 requests
 pandas-gbq
+
+pandas
+pyarrow
+openpyxl

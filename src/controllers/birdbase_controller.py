@@ -1,27 +1,41 @@
 from src.bootstrap import app
 from src.models.rest import Rest
 
+import requests
+import pandas as pd
+from google.cloud import storage
+
 
 @app.route("/birds/birdbase", methods=["POST"])
 def parse_birdbase():
 
-    # https://springernature.figshare.com/articles/dataset/BIRDBASE_A_Global_Database_of_Avian_Biogeography_Conservation_Ecology_and_Life_History_Traits/27051040?file=55634729
-    
-    # baixar xlsx /tmp
+    # URL do dataset
+    url = "https://springernature.figshare.com/ndownloader/files/55634729"
+
+    # caminhos locais
+    xlsx_path = "/tmp/birdbase.xlsx"
+    parquet_path = "/tmp/birdbase.parquet"
+
+    # baixar xlsx
+    response = requests.get(url)
+
+    with open(xlsx_path, "wb") as f:
+        f.write(response.content)
+
+    # ler xlsx
+    df = pd.read_excel(xlsx_path)
 
     # converter para parquet
+    df.to_parquet(parquet_path)
 
-    # carregar no https://console.cloud.google.com/storage/browser/birdbase_databse;tab=objects?project=mackenzie-engenharia-dados&prefix=&forceOnObjectsSortingFiltering=false
+    # enviar para Google Cloud Storage
+    client = storage.Client()
+    bucket = client.bucket("birdbase_databse")
 
-    # colunas no bq
-    # https://console.cloud.google.com/bigquery?referrer=search&project=mackenzie-engenharia-dados&ws=!1m5!1m4!4m3!1smackenzie-engenharia-dados!2sbirdbase_bronze!3sdata
+    blob = bucket.blob("birdbase.parquet")
+    blob.upload_from_filename(parquet_path)
 
-    # https://cloud.google.com/sdk?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1605194-LUAC0008672&utm_content=text-ad-none-any-DEV_c-CRE_526696106061-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Dev-Tools_SDK-KWID_43700040369790130-kwd-610235859304&utm_term=KW_google%20cloud%20sdk-ST_Google%20Cloud%20SDK&gclid=Cj0KCQjwiIOmBhDjARIsAP6YhSVKjAjopS3ryD-myeprNpCK20IfHcZ9mLoWaVv-fQq5dDsw0_oIO5caAtDzEALw_wcB&gclsrc=aw.ds&hl=pt-br
-    
     return Rest.get_response_default(
-        results={},
+        results={"file": "birdbase.parquet"},
         message="Captura concluída",
     )
-
-
-   
