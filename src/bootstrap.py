@@ -8,7 +8,7 @@ logging = app.logger
 
 
 def import_modules():
-    from src.controllers import names_controller, images_controller
+    from src.controllers import names_controller, images_controller, birdbase_controller
 
 
 import_modules()
