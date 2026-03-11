@@ -1,41 +1,53 @@
 from src.bootstrap import app
 from src.models.rest import Rest
 
-import requests
 import pandas as pd
 from google.cloud import storage
+import os
 
 
 @app.route("/birds/birdbase", methods=["POST"])
 def parse_birdbase():
 
-    # URL do dataset
-    url = "https://springernature.figshare.com/ndownloader/files/55634729"
+    try:
 
-    # caminhos locais
-    xlsx_path = "/tmp/birdbase.xlsx"
-    parquet_path = "/tmp/birdbase.parquet"
+        # caminho do excel local
+        xlsx_path = "data/birdbase.xlsx"
 
-    # baixar xlsx
-    response = requests.get(url)
+        # arquivo parquet temporário
+        parquet_path = "/tmp/birdbase.parquet"
 
-    with open(xlsx_path, "wb") as f:
-        f.write(response.content)
+        # bucket GCS
+        bucket_name = "birdbase_databse"
 
-    # ler xlsx
-    df = pd.read_excel(xlsx_path)
+        # 1️⃣ Ler Excel
+        df = pd.read_excel(xlsx_path, engine="openpyxl")
 
-    # converter para parquet
-    df.to_parquet(parquet_path)
+        # 2️⃣ Corrigir tipos mistos (erro comum ao converter para parquet)
+        df = df.astype(str)
 
-    # enviar para Google Cloud Storage
-    client = storage.Client()
-    bucket = client.bucket("birdbase_databse")
+        # 3️⃣ Converter para parquet
+        df.to_parquet(parquet_path, index=False)
 
-    blob = bucket.blob("birdbase.parquet")
-    blob.upload_from_filename(parquet_path)
+        # 4️⃣ Conectar ao Google Cloud Storage
+        client = storage.Client()
+        bucket = client.bucket(bucket_name)
 
-    return Rest.get_response_default(
-        results={"file": "birdbase.parquet"},
-        message="Captura concluída",
-    )
+        # 5️⃣ Upload do parquet
+        blob = bucket.blob("birdbase.parquet")
+        blob.upload_from_filename(parquet_path)
+
+        return Rest.get_response_default(
+            results={
+                "rows": len(df),
+                "file_uploaded": "birdbase.parquet"
+            },
+            message="Captura concluída com sucesso",
+        )
+
+    except Exception as e:
+
+        return Rest.get_response_default(
+            results={},
+            message=str(e),
+        )
