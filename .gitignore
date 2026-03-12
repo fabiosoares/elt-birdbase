@@ -49,3 +49,9 @@ Thumbs.db
 *.wmv
 
 /.venv/data/
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
