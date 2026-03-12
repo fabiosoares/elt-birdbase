@@ -51,3 +51,24 @@ Estas mesmas variáveis de ambiente podem ser configuradas launch.json do VSCode
 ```sh
 curl --location --request POST 'http://127.0.0.1:5000/birds/names'
 ```
+
+## 🚀 CI/CD
+
+A esteira CI/CD usa **GitHub Actions + Terraform + GCP** com um ambiente único.
+
+### Secrets necessários (GitHub Actions)
+
+Configure os secrets abaixo no repositório:
+
+- `GCP_PROJECT_ID`
+- `GCP_SERVICE_ACCOUNT`
+- `GCP_WORKLOAD_IDENTITY_PROVIDER`
+- `TF_STATE_BUCKET`
+- `GCP_REGION`
+
+### Fluxo
+
+1. Pull Request → valida Python + Terraform.
+2. Push em `main` → build + deploy.
+
+Consulte `infra/README.md` para detalhes de Terraform/WIF.

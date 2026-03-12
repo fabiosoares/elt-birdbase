@@ -1,0 +1,67 @@
+name: CD
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    env:
+      REGION: ${{ secrets.GCP_REGION }}
+      PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+      TF_STATE_BUCKET: ${{ secrets.TF_STATE_BUCKET }}
+      IMAGE_NAME: birdbase-api
+      ARTIFACT_REPO: birdbase-api
+      SERVICE_NAME: birdbase-api
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Auth to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ env.PROJECT_ID }}
+
+      - name: Configure Docker auth
+        run: gcloud auth configure-docker ${{ env.REGION }}-docker.pkg.dev --quiet
+
+      - name: Terraform init
+        working-directory: infra
+        run: |
+          terraform init \
+            -backend-config="bucket=${TF_STATE_BUCKET}" \
+            -backend-config="prefix=elt-birdbase/main"
+
+      - name: Terraform apply (infra base)
+        working-directory: infra
+        run: |
+          terraform apply -auto-approve \
+            -target=google_project_service.required \
+            -target=google_artifact_registry_repository.app \
+            -var-file=envs/main.tfvars
+
+      - name: Build & push image
+        run: |
+          docker build -t ${REGION}-docker.pkg.dev/${PROJECT_ID}/${ARTIFACT_REPO}/${IMAGE_NAME}:${GITHUB_SHA} .
+          docker push ${REGION}-docker.pkg.dev/${PROJECT_ID}/${ARTIFACT_REPO}/${IMAGE_NAME}:${GITHUB_SHA}
+
+      - name: Terraform apply (deploy)
+        working-directory: infra
+        run: |
+          terraform apply -auto-approve \
+            -var-file=envs/main.tfvars \
+            -var image_tag=${GITHUB_SHA}
