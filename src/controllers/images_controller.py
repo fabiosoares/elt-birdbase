@@ -29,8 +29,8 @@ def process_images(species):
             local_file_path = f"images/{ e['nm_arquivo']}"
             uploader.upload_image(local_file_path)
 
-    # table = BirdsOfTheWorldImagesTable()
-    # table.load_json_into_bq(bird_data_manager.filename)
+    table = BirdsOfTheWorldImagesTable()
+    table.load_json_into_bq(bird_data_manager.filename)
 
 @app.route("/birds/images", methods=["POST"])
 def parse_images():

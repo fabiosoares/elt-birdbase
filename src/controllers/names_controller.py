@@ -2,7 +2,7 @@ from src.bootstrap import app
 from src.models.rest import Rest
 from src.models.wiki_aves_brasil import WikiAvesBrasil
 from src.models.bird_pt_br_data_manager import BirdPtBrDataManager
-# from src.models.repository.aves_nomes_pt_br_table import AvesNomesPtBrTable
+from src.models.repository.aves_nomes_pt_br_table import AvesNomesPtBrTable
 
 
 @app.route("/birds/names", methods=["POST"])
@@ -19,8 +19,8 @@ def parse_ptbr_names():
             e["nm_portugues"]
         )
 
-    # table = AvesNomesPtBrTable()
-    # table.load_json_into_bq(bird_data_manager.filename)
+    table = AvesNomesPtBrTable()
+    table.load_json_into_bq(bird_data_manager.filename)
 
     return Rest.get_response_default(
         results={},
