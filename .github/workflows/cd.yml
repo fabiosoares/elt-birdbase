@@ -76,6 +76,9 @@ jobs:
           # Artifact Registry
           import_resource 'google_artifact_registry_repository.app' "projects/${PROJECT_ID}/locations/${REGION}/repositories/birdbase-api"
 
+          # Cloud Run
+          import_resource 'google_cloud_run_v2_service.app' "projects/${PROJECT_ID}/locations/${REGION}/services/birdbase-api"
+
           # Service Accounts
           import_resource 'google_service_account.runtime' "projects/${PROJECT_ID}/serviceAccounts/cloud-run-runtime@${PROJECT_ID}.iam.gserviceaccount.com"
           import_resource 'google_service_account.deployer' "projects/${PROJECT_ID}/serviceAccounts/github-actions-deployer@${PROJECT_ID}.iam.gserviceaccount.com"
