@@ -18,7 +18,7 @@ def parse_birdbase():
         parquet_path = "/tmp/birdbase.parquet"
 
         # bucket GCS
-        bucket_name = "birdbase_databse"
+        bucket_name = "birdbase-database"
 
         # 1️⃣ Ler Excel
         df = pd.read_excel(xlsx_path, engine="openpyxl")

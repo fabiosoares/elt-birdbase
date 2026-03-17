@@ -4,7 +4,7 @@ import os
 class ImageUploader:
     def __init__(self):
         self.project_id = "mackenzie-engenharia-dados"
-        self.bucket_name = "birdbase_birds_of_the_world"
+        self.bucket_name = "birdbase-birds-of-the-world"
 
     def upload_image(self, source_file_name):
 

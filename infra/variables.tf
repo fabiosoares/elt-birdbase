@@ -98,3 +98,19 @@ variable "runtime_sa_name" {
   description = "Nome da Service Account do Cloud Run."
   default     = "cloud-run-runtime"
 }
+
+variable "bucket_database" {
+  type        = string
+  description = "Nome do bucket GCS para dados do birdbase."
+}
+
+variable "bucket_birds_of_the_world" {
+  type        = string
+  description = "Nome do bucket GCS para dados do Birds of the World."
+}
+
+variable "storage_location" {
+  type        = string
+  description = "Localização dos buckets GCS."
+  default     = "US"
+}

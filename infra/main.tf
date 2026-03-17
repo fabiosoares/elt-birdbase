@@ -113,3 +113,50 @@ resource "google_service_account_iam_member" "deployer_wif" {
   role               = "roles/iam.workloadIdentityUser"
   member             = "principalSet://iam.googleapis.com/${google_iam_workload_identity_pool.github.name}/attribute.repository/${var.github_owner}/${var.github_repo}"
 }
+
+# ── GCS Buckets ──────────────────────────────────────────────────────────────
+
+resource "google_storage_bucket" "database" {
+  name          = var.bucket_database
+  location      = var.storage_location
+  force_destroy = false
+
+  uniform_bucket_level_access = true
+
+  versioning {
+    enabled = true
+  }
+
+  lifecycle {
+    prevent_destroy = true
+  }
+}
+
+resource "google_storage_bucket" "birds_of_the_world" {
+  name          = var.bucket_birds_of_the_world
+  location      = var.storage_location
+  force_destroy = false
+
+  uniform_bucket_level_access = true
+
+  versioning {
+    enabled = true
+  }
+
+  lifecycle {
+    prevent_destroy = true
+  }
+}
+
+# Permissão para a SA do Cloud Run nos dois buckets
+resource "google_storage_bucket_iam_member" "runtime_database" {
+  bucket = google_storage_bucket.database.name
+  role   = "roles/storage.objectAdmin"
+  member = "serviceAccount:${google_service_account.runtime.email}"
+}
+
+resource "google_storage_bucket_iam_member" "runtime_birds_of_the_world" {
+  bucket = google_storage_bucket.birds_of_the_world.name
+  role   = "roles/storage.objectAdmin"
+  member = "serviceAccount:${google_service_account.runtime.email}"
+}

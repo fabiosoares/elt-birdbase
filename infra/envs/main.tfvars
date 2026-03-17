@@ -8,3 +8,6 @@ image_name    = "birdbase-api"
 
 github_owner = "fabiosoares"
 github_repo  = "elt-birdbase"
+
+bucket_database           = "birdbase-database"
+bucket_birds_of_the_world = "birdbase-birds-of-the-world"

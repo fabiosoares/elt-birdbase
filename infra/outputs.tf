@@ -17,3 +17,13 @@ output "wif_provider" {
   description = "Nome completo do Workload Identity Provider."
   value       = google_iam_workload_identity_pool_provider.github.name
 }
+
+output "storage_bucket_database" {
+  description = "Nome do bucket GCS para dados do birdbase."
+  value       = google_storage_bucket.database.name
+}
+
+output "storage_bucket_birds_of_the_world" {
+  description = "Nome do bucket GCS para dados do Birds of the World."
+  value       = google_storage_bucket.birds_of_the_world.name
+}

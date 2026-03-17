@@ -37,7 +37,7 @@ class Specie:
                 "nm_arquivo": sci.lower().replace(" ", "_") + ".jpg",
                 "id_imagem": asset,
                 "ds_imagem_url": f"https://cdn.download.ams.birds.cornell.edu/api/v1/asset/{asset}/160",
-                "nm_gcp_path": f"https://storage.cloud.google.com/birdbase_birds_of_the_world/{sci.lower().replace(' ', '_')}.jpg"
+                "nm_gcp_path": f"https://storage.cloud.google.com/birdbase-birds-of-the-world/{sci.lower().replace(' ', '_')}.jpg"
             })
         return species
 
