@@ -51,6 +51,42 @@ jobs:
             -backend-config="bucket=${TF_STATE_BUCKET}" \
             -backend-config="prefix=elt-birdbase/main"
 
+      - name: Import existing resources (idempotent)
+        working-directory: infra
+        run: |
+          import_resource() {
+            local addr="$1"
+            local id="$2"
+            if ! terraform state show "$addr" > /dev/null 2>&1; then
+              echo "Importing $addr ..."
+              terraform import -var-file=envs/main.tfvars -var image_tag=${GITHUB_SHA} "$addr" "$id" || true
+            else
+              echo "Already in state: $addr"
+            fi
+          }
+
+          # APIs
+          import_resource 'google_project_service.required["artifactregistry.googleapis.com"]' "${PROJECT_ID}/artifactregistry.googleapis.com"
+          import_resource 'google_project_service.required["run.googleapis.com"]' "${PROJECT_ID}/run.googleapis.com"
+          import_resource 'google_project_service.required["iam.googleapis.com"]' "${PROJECT_ID}/iam.googleapis.com"
+          import_resource 'google_project_service.required["iamcredentials.googleapis.com"]' "${PROJECT_ID}/iamcredentials.googleapis.com"
+          import_resource 'google_project_service.required["cloudbuild.googleapis.com"]' "${PROJECT_ID}/cloudbuild.googleapis.com"
+
+          # Artifact Registry
+          import_resource 'google_artifact_registry_repository.app' "projects/${PROJECT_ID}/locations/${REGION}/repositories/birdbase-api"
+
+          # Service Accounts
+          import_resource 'google_service_account.runtime' "projects/${PROJECT_ID}/serviceAccounts/cloud-run-runtime@${PROJECT_ID}.iam.gserviceaccount.com"
+          import_resource 'google_service_account.deployer' "projects/${PROJECT_ID}/serviceAccounts/github-actions-deployer@${PROJECT_ID}.iam.gserviceaccount.com"
+
+          # WIF
+          import_resource 'google_iam_workload_identity_pool.github' "projects/${PROJECT_ID}/locations/global/workloadIdentityPools/github-pool"
+          import_resource 'google_iam_workload_identity_pool_provider.github' "projects/${PROJECT_ID}/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
+
+          # GCS Buckets
+          import_resource 'google_storage_bucket.database' "birdbase-database"
+          import_resource 'google_storage_bucket.birds_of_the_world' "birdbase-birds-of-the-world"
+
       - name: Terraform apply (infra base)
         working-directory: infra
         run: |
