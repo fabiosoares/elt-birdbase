@@ -245,12 +245,39 @@ resource "google_workflows_workflow" "birdbase_pipeline" {
               url: ${google_cloud_run_v2_service.app.uri}/birds/birdbase
               auth:
                 type: OIDC
-            result: ingest_result
+            result: ingest_birdbase_result
 
-        - log_ingest:
+        - log_ingest_birdbase:
             call: sys.log
             args:
-              text: $${"Ingestão concluída com status " + string(ingest_result.code)}
+              text: $${"Ingestão birdbase concluída com status " + string(ingest_birdbase_result.code)}
+
+        - ingest_names:
+            call: http.post
+            args:
+              url: ${google_cloud_run_v2_service.app.uri}/birds/names
+              auth:
+                type: OIDC
+            result: ingest_names_result
+
+        - log_ingest_names:
+            call: sys.log
+            args:
+              text: $${"Ingestão nomes PT-BR concluída com status " + string(ingest_names_result.code)}
+
+        - ingest_images:
+            call: http.post
+            args:
+              url: ${google_cloud_run_v2_service.app.uri}/birds/images
+              auth:
+                type: OIDC
+              timeout: 1800
+            result: ingest_images_result
+
+        - log_ingest_images:
+            call: sys.log
+            args:
+              text: $${"Ingestão imagens concluída com status " + string(ingest_images_result.code)}
 
         - run_dbt:
             call: googleapis.run.v2.projects.locations.jobs.run
@@ -265,7 +292,9 @@ resource "google_workflows_workflow" "birdbase_pipeline" {
 
         - return_result:
             return:
-              ingest_status: $${ingest_result.code}
+              ingest_birdbase: $${ingest_birdbase_result.code}
+              ingest_names: $${ingest_names_result.code}
+              ingest_images: $${ingest_images_result.code}
               dbt_status: "completed"
   YAML
 
