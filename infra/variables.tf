@@ -144,5 +144,5 @@ variable "dbt_image_tag" {
 variable "scheduler_cron" {
   type        = string
   description = "Expressão cron para o Cloud Scheduler."
-  default     = "30 20 18 * *"
+  default     = "0 20 18 * *"
 }
