@@ -75,6 +75,12 @@ variable "github_repo" {
   description = "Nome do repositório GitHub."
 }
 
+variable "github_repo_dbt" {
+  type        = string
+  description = "Nome do repositório GitHub do dbt."
+  default     = "birdbase"
+}
+
 variable "wif_pool_id" {
   type        = string
   description = "ID do Workload Identity Pool."
@@ -113,4 +119,30 @@ variable "storage_location" {
   type        = string
   description = "Localização dos buckets GCS."
   default     = "US"
+}
+
+# ── dbt Cloud Run Job ───────────────────────────────────────────────────────
+
+variable "dbt_job_name" {
+  type        = string
+  description = "Nome do Cloud Run Job para dbt."
+  default     = "birdbase-dbt"
+}
+
+variable "dbt_image_name" {
+  type        = string
+  description = "Nome da imagem Docker do dbt."
+  default     = "birdbase-dbt"
+}
+
+variable "dbt_image_tag" {
+  type        = string
+  description = "Tag da imagem Docker do dbt."
+  default     = "latest"
+}
+
+variable "scheduler_cron" {
+  type        = string
+  description = "Expressão cron para o Cloud Scheduler."
+  default     = "0 6 * * *"
 }

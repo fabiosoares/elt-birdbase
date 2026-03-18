@@ -8,7 +8,9 @@ resource "google_project_service" "required" {
     "run.googleapis.com",
     "iam.googleapis.com",
     "iamcredentials.googleapis.com",
-    "cloudbuild.googleapis.com"
+    "cloudbuild.googleapis.com",
+    "workflows.googleapis.com",
+    "cloudscheduler.googleapis.com"
   ])
 
   project = var.project_id
@@ -105,13 +107,19 @@ resource "google_iam_workload_identity_pool_provider" "github" {
     "attribute.ref"        = "assertion.ref"
   }
 
-  attribute_condition = "assertion.repository == \"${var.github_owner}/${var.github_repo}\""
+  attribute_condition = "assertion.repository == \"${var.github_owner}/${var.github_repo}\" || assertion.repository == \"${var.github_owner}/${var.github_repo_dbt}\""
 }
 
 resource "google_service_account_iam_member" "deployer_wif" {
   service_account_id = google_service_account.deployer.name
   role               = "roles/iam.workloadIdentityUser"
   member             = "principalSet://iam.googleapis.com/${google_iam_workload_identity_pool.github.name}/attribute.repository/${var.github_owner}/${var.github_repo}"
+}
+
+resource "google_service_account_iam_member" "deployer_wif_dbt" {
+  service_account_id = google_service_account.deployer.name
+  role               = "roles/iam.workloadIdentityUser"
+  member             = "principalSet://iam.googleapis.com/${google_iam_workload_identity_pool.github.name}/attribute.repository/${var.github_owner}/${var.github_repo_dbt}"
 }
 
 # ── GCS Buckets ──────────────────────────────────────────────────────────────
@@ -159,4 +167,133 @@ resource "google_storage_bucket_iam_member" "runtime_birds_of_the_world" {
   bucket = google_storage_bucket.birds_of_the_world.name
   role   = "roles/storage.objectAdmin"
   member = "serviceAccount:${google_service_account.runtime.email}"
+}
+
+# Permissões BigQuery para a SA runtime (API + dbt)
+resource "google_project_iam_member" "runtime_bq_roles" {
+  for_each = toset([
+    "roles/bigquery.dataEditor",
+    "roles/bigquery.jobUser",
+  ])
+
+  project = var.project_id
+  role    = each.value
+  member  = "serviceAccount:${google_service_account.runtime.email}"
+}
+
+# ── Cloud Run Job (dbt) ─────────────────────────────────────────────────────
+
+resource "google_cloud_run_v2_job" "dbt" {
+  name     = var.dbt_job_name
+  location = var.region
+
+  template {
+    template {
+      containers {
+        image = "${var.region}-docker.pkg.dev/${var.project_id}/${var.artifact_repo}/${var.dbt_image_name}:${var.dbt_image_tag}"
+
+        resources {
+          limits = {
+            cpu    = "2"
+            memory = "1Gi"
+          }
+        }
+      }
+
+      service_account = google_service_account.runtime.email
+      timeout         = "1800s"
+      max_retries     = 1
+    }
+  }
+
+  depends_on = [google_project_service.required]
+}
+
+# ── Service Account para Workflows / Scheduler ──────────────────────────────
+
+resource "google_service_account" "orchestrator" {
+  account_id   = "birdbase-orchestrator"
+  display_name = "Birdbase orchestrator (Workflows + Scheduler)"
+}
+
+resource "google_project_iam_member" "orchestrator_roles" {
+  for_each = toset([
+    "roles/run.invoker",
+    "roles/run.developer",
+    "roles/workflows.invoker",
+  ])
+
+  project = var.project_id
+  role    = each.value
+  member  = "serviceAccount:${google_service_account.orchestrator.email}"
+}
+
+# ── Cloud Workflows ─────────────────────────────────────────────────────────
+
+resource "google_workflows_workflow" "birdbase_pipeline" {
+  name            = "birdbase-pipeline"
+  region          = var.region
+  description     = "Orquestra: ingestão (API) → transformação (dbt)"
+  service_account = google_service_account.orchestrator.id
+
+  source_contents = <<-YAML
+    main:
+      steps:
+        - ingest_birdbase:
+            call: http.post
+            args:
+              url: ${google_cloud_run_v2_service.app.uri}/birds/birdbase
+              auth:
+                type: OIDC
+            result: ingest_result
+
+        - log_ingest:
+            call: sys.log
+            args:
+              text: $${"Ingestão concluída com status " + string(ingest_result.code)}
+
+        - run_dbt:
+            call: googleapis.run.v2.projects.locations.jobs.run
+            args:
+              name: projects/${var.project_id}/locations/${var.region}/jobs/${var.dbt_job_name}
+            result: dbt_result
+
+        - log_dbt:
+            call: sys.log
+            args:
+              text: $${"dbt job concluído"}
+
+        - return_result:
+            return:
+              ingest_status: $${ingest_result.code}
+              dbt_status: "completed"
+  YAML
+
+  depends_on = [
+    google_project_service.required,
+    google_cloud_run_v2_service.app,
+    google_cloud_run_v2_job.dbt
+  ]
+}
+
+# ── Cloud Scheduler ─────────────────────────────────────────────────────────
+
+resource "google_cloud_scheduler_job" "birdbase_daily" {
+  name        = "birdbase-daily-pipeline"
+  description = "Executa pipeline birdbase diariamente às 06:00 BRT"
+  schedule    = var.scheduler_cron
+  time_zone   = "America/Sao_Paulo"
+  region      = var.region
+
+  http_target {
+    http_method = "POST"
+    uri         = "https://workflowexecutions.googleapis.com/v1/${google_workflows_workflow.birdbase_pipeline.id}/executions"
+
+    oauth_token {
+      service_account_email = google_service_account.orchestrator.email
+      scope                 = "https://www.googleapis.com/auth/cloud-platform"
+    }
+  }
+
+  depends_on = [google_project_service.required]
 }
