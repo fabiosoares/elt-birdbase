@@ -67,6 +67,7 @@ resource "google_cloud_run_v2_service" "app" {
     }
 
     service_account = google_service_account.runtime.email
+    timeout         = "1800s"
 
     scaling {
       min_instance_count = var.min_instances
