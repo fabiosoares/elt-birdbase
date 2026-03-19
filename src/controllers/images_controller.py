@@ -13,13 +13,12 @@ def get_taxonomy_list():
     taxonomy_list = taxonomy.get_taxonomy_list()
     return taxonomy_list
 
-def process_images(species):
-    bird_data_manager = BirdDataManager()
-    uploader = ImageUploader()
+def process_images(species, bird_data_manager, uploader):
+    new_count = 0
     for e in species:
 
         if bird_data_manager.cientific_name_exists(e['nm_cientifico']):
-            print(f"Nome científico '{e['nm_cientifico']}' já exite no arquivo json. Pulando.")
+            print(f"Nome científico '{e['nm_cientifico']}' já existe no GCS. Pulando.")
             continue
         
         image = Image(e['ds_imagem_url'], e['nm_arquivo'])
@@ -28,22 +27,33 @@ def process_images(species):
 
             local_file_path = f"images/{ e['nm_arquivo']}"
             uploader.upload_image(local_file_path)
+            new_count += 1
 
-    table = BirdsOfTheWorldImagesTable()
-    table.load_json_into_bq(bird_data_manager.filename)
+    return new_count
 
 @app.route("/birds/images", methods=["POST"])
 def parse_images():
     specie = Specie()
     taxonomy_list = get_taxonomy_list()
+    bird_data_manager = BirdDataManager()
+    uploader = ImageUploader()
+    total_new = 0
 
     for url in taxonomy_list:
         print(f"URL: {url}")
         species = specie.get_species(url)
-        process_images(species)
+        total_new += process_images(species, bird_data_manager, uploader)
+
+    # Only load into BigQuery if there are new images
+    if total_new > 0:
+        table = BirdsOfTheWorldImagesTable()
+        table.load_json_into_bq(bird_data_manager.filename)
+        print(f"Carregou {total_new} novas imagens no BigQuery.")
+    else:
+        print("Nenhuma imagem nova encontrada. Carga no BigQuery não necessária.")
 
     return Rest.get_response_default(
-        results={},
+        results={"new_images": total_new},
         message="Captura concluída",
     )
 

@@ -16,7 +16,7 @@ class BirdsOfTheWorldImagesTable:
             df_birds,
             destination_table='birdbase_bronze.birds_of_the_world_images',
             project_id='mackenzie-engenharia-dados',
-            if_exists='replace',
+            if_exists='append',
             auth_local_webserver=False
         )
         print("DataFrame successfully loaded into BigQuery table.")
