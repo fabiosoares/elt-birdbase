@@ -279,7 +279,7 @@ resource "google_workflows_workflow" "birdbase_pipeline" {
                             url: ${google_cloud_run_v2_service.app.uri}/birds/images
                             auth:
                               type: OIDC
-                            timeout: 3600
+                            timeout: 1800
                           result: ingest_images_result
                       - log_ingest_images:
                           call: sys.log
