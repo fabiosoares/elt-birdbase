@@ -67,7 +67,7 @@ resource "google_cloud_run_v2_service" "app" {
     }
 
     service_account = google_service_account.runtime.email
-    timeout         = "1800s"
+    timeout         = "3600s"
 
     scaling {
       min_instance_count = var.min_instances
@@ -272,7 +272,7 @@ resource "google_workflows_workflow" "birdbase_pipeline" {
               url: ${google_cloud_run_v2_service.app.uri}/birds/images
               auth:
                 type: OIDC
-              timeout: 1800
+              timeout: 3600
             result: ingest_images_result
 
         - log_ingest_images:
