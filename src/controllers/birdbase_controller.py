@@ -11,7 +11,7 @@ def parse_birdbase():
     try:
 
         # =============================
-        # CONFIGURAÇÕES
+        # CONFIG
         # =============================
         xlsx_path = "data/birdbase.xlsx"
         parquet_path = "/tmp/birdbase.parquet"
@@ -27,78 +27,41 @@ def parse_birdbase():
         gcs_uri = f"gs://{bucket_name}/{gcs_file_name}"
 
         # =============================
-        # 1. LER EXCEL (HEADER CORRETO)
+        # 1. READ EXCEL (🔥 CORRETO)
         # =============================
         df = pd.read_excel(
             xlsx_path,
             engine="openpyxl",
-            header=1,
+            header=[0, 1],  # 🔥 MULTI HEADER
             dtype=str
         )
 
-        print("TOTAL COLUNAS FINAL:", len(df.columns))
+        # achata colunas
+        df.columns = [
+            "_".join([str(i) for i in col if str(i) != "nan"]).strip()
+            for col in df.columns.values
+        ]
 
         # =============================
-        # 2. LIMPEZA (PADRÃO NOMES)
+        # 2. LIMPEZA DE COLUNAS (🔥 CORRIGIDO)
         # =============================
         df = df.dropna(axis=1, how="all")
-        df = df.loc[:, ~df.columns.str.contains("^Unnamed")]
+
+        # 🔥 CORREÇÃO DO ERRO
+        df = df.loc[:, ~df.columns.str.contains("^unnamed", case=False)]
 
         df.columns = (
-            df.columns
-            .astype(str)
-            .str.strip()
+            pd.Index(df.columns)
             .str.lower()
             .str.replace(r"[^\w]", "_", regex=True)
             .str.replace(r"_+", "_", regex=True)
             .str.replace(r"_$", "", regex=True)
         )
 
-        # =============================
-        # 3. AJUSTE DE TIPOS BASEADO NO SCHEMA
-        # =============================
-
-        int_cols = [
-            "ioc_15_1","rr","isl","lat","female_minmass","male_minmass",
-            "male_maxmass","unsexed_minmass","unsexed_maxmass","average_mass",
-            "f","bm","wd","sh","sv","g","pl","r","d","a","rv","c","w","se","o",
-            "hb","sum_wt","db","diet_lit","esi","mono","poly","coop",
-            "brd1","brd2","clutch_min","clutch_max","incu1","incu2",
-            "fldg1","fldg2","para_1","brs1","prod1","mig","alt","irreg","disp","sed"
-        ]
-
-        float_cols = [
-            "female_maxmass"
-        ]
-
-        for col in df.columns:
-
-            if col in int_cols:
-                df[col] = pd.to_numeric(df[col], errors="coerce")
-                df[col] = (df[col] * 100).round(0)
-                df[col] = df[col].astype("Int64")
-
-            elif col in float_cols:
-                df[col] = pd.to_numeric(df[col], errors="coerce")
-
-            else:
-                df[col] = df[col].astype(str)
+        print("TOTAL COLUNAS FINAL:", len(df.columns))
 
         # =============================
-        # 4. PARQUET
-        # =============================
-        df.to_parquet(parquet_path, index=False)
-
-        # =============================
-        # 5. UPLOAD GCS
-        # =============================
-        storage_client = storage.Client()
-        bucket = storage_client.bucket(bucket_name)
-        blob = bucket.blob(gcs_file_name)
-        blob.upload_from_filename(parquet_path)
-
-        # =============================
-        # 6. SCHEMA FIXO BIGQUERY
+        # 3. SCHEMA
         # =============================
         bq_client = bigquery.Client()
 
@@ -202,6 +165,72 @@ def parse_birdbase():
             bigquery.SchemaField("sed", "INTEGER"),
         ]
 
+        schema_dict = {field.name: field.field_type for field in schema}
+
+        scale_100 = [
+            "bm","wd","sh","sv","g","pl","r","d","a","rv","c","w","se","o",
+            "hb","sum_wt","db","diet_lit"
+        ]
+
+        scale_1000 = ["esi"]
+
+        # =============================
+        # 4. TIPAGEM
+        # =============================
+        for col in df.columns:
+
+            df[col] = df[col].replace("", None).replace("nan", None)
+
+            col_type = schema_dict.get(col)
+
+            if col_type == "INTEGER":
+
+                df[col] = pd.to_numeric(df[col], errors="coerce")
+
+                if col in scale_100:
+                    df[col] = df[col] * 100
+                elif col in scale_1000:
+                    df[col] = df[col] * 1000
+
+                df[col] = df[col].round(0).astype("Int64")
+
+            elif col_type == "FLOAT":
+                df[col] = pd.to_numeric(df[col], errors="coerce")
+
+            else:
+                df[col] = (
+                    df[col]
+                    .astype(str)
+                    .str.replace(r"[\n\r\t]", " ", regex=True)
+                    .str.replace(r"\s+", " ", regex=True)
+                    .str.strip()
+                    .replace({"": None, "nan": None, "None": None})
+                )
+
+        df = df.replace({pd.NA: None})
+
+        # =============================
+        # ORDEM DAS COLUNAS
+        # =============================
+        schema_columns = [field.name for field in schema]
+        df = df[schema_columns]
+
+        # =============================
+        # PARQUET
+        # =============================
+        df.to_parquet(parquet_path, index=False)
+
+        # =============================
+        # GCS
+        # =============================
+        storage_client = storage.Client()
+        bucket = storage_client.bucket(bucket_name)
+        blob = bucket.blob(gcs_file_name)
+        blob.upload_from_filename(parquet_path)
+
+        # =============================
+        # BIGQUERY
+        # =============================
         job_config = bigquery.LoadJobConfig(
             source_format=bigquery.SourceFormat.PARQUET,
             schema=schema,
@@ -216,21 +245,12 @@ def parse_birdbase():
 
         load_job.result()
 
-        # =============================
-        # RESPOSTA
-        # =============================
         return Rest.get_response_default(
-            results={
-                "rows": len(df),
-                "columns": list(df.columns),
-                "total_columns": len(df.columns),
-                "table_created": table_ref
-            },
-            message="Pipeline executado com sucesso (Excel → Parquet → GCS → BigQuery)",
+            results={"rows": len(df)},
+            message="Pipeline executado com sucesso 🚀",
         )
 
     except Exception as e:
-
         return Rest.get_response_default(
             results={},
             message=str(e),
